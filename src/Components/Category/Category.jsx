@@ -16,7 +16,9 @@ const Category = () => {
                     <div className="card-body">
                         <h2 className="card-title">
                             sneaker
-                            <div className="badge text-red-500 border-1 border-red-400">NEW</div>
+                            <div className="badge text-red-500 border-1 border-red-400">
+                                NEW
+                            </div>
                         </h2>
                         <p>
                             A card component has a figure, a body part, and
