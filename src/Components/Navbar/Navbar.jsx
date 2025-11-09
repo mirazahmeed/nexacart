@@ -19,12 +19,16 @@ const Navbar = () => {
                         <p>MEN</p>
                         <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
                     </NavLink>
-                    <NavLink to="" className="flex flex-col items-center gap-1">
-                        <p>ABOUT</p>
+                    <NavLink to="/women" className="flex flex-col items-center gap-1">
+                        <p>WOMEN</p>
+                        <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
+                    </NavLink>
+                    <NavLink to="/kids" className="flex flex-col items-center gap-1">
+                        <p>KIDS</p>
                         <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
                     </NavLink>
                     <NavLink to="" className="flex flex-col items-center gap-1">
-                        <p>CONTACT</p>
+                        <p>ABOUT</p>
                         <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
                     </NavLink>
                 </ul>
