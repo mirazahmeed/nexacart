@@ -1,0 +1,3102 @@
+[
+{
+"id": 1,
+"name": "AirMax Runner",
+"brand": "Nike",
+"sku": "NIK-AMR-001",
+"price": 129.99,
+"description": "Lightweight running shoe with responsive Air cushioning and breathable mesh upper.",
+"type": "Running",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "True to size; narrow toe box"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Nike+AirMax+Runner+Black](https://via.placeholder.com/600x400.png?text=Nike+AirMax+Runner+Black)",
+"[https://via.placeholder.com/600x400.png?text=Nike+AirMax+Runner+Side](https://via.placeholder.com/600x400.png?text=Nike+AirMax+Runner+Side)"
+],
+"model": "AirMax Runner",
+"color": ["Black","White","Volt"],
+"product_details": {
+"upper_material": "Engineered mesh",
+"midsole": "Air Max unit + foam",
+"outsole": "Rubber",
+"weight_g": 280,
+"release_year": 2024
+},
+"sex": "Unisex",
+"rating": 4.6,
+"stock": 120,
+"categories": ["footwear","running","sports"],
+"tags": ["cushion","breathable","lightweight"]
+},
+{
+"id": 2,
+"name": "UltraBoost Pro",
+"brand": "Adidas",
+"sku": "ADD-UBP-002",
+"price": 159.99,
+"description": "High-energy return running shoe with Primeknit upper and Boost midsole.",
+"type": "Running",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "Slightly snug; consider half size up for wide feet"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Adidas+UltraBoost+Pro+Core](https://via.placeholder.com/600x400.png?text=Adidas+UltraBoost+Pro+Core)",
+"[https://via.placeholder.com/600x400.png?text=Adidas+UltraBoost+Pro+Heel](https://via.placeholder.com/600x400.png?text=Adidas+UltraBoost+Pro+Heel)"
+],
+"model": "UltraBoost Pro",
+"color": ["Cloud White","Core Black","Orbital Blue"],
+"product_details": {
+"upper_material": "Primeknit",
+"midsole": "Boost",
+"outsole": "Continental Rubber",
+"weight_g": 300,
+"release_year": 2023
+},
+"sex": "Women",
+"rating": 4.7,
+"stock": 85,
+"categories": ["running","performance"],
+"tags": ["boost","comfort","primeknit"]
+},
+{
+"id": 3,
+"name": "Classic Leather",
+"brand": "Reebok",
+"sku": "RBK-CL-003",
+"price": 74.99,
+"description": "Iconic leather sneaker with clean silhouette and durable outsole.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [5,6,7,8,9,10,11,12],
+"fit": "True to size; roomy midfoot"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Reebok+Classic+Leather+White](https://via.placeholder.com/600x400.png?text=Reebok+Classic+Leather+White)",
+"[https://via.placeholder.com/600x400.png?text=Reebok+Classic+Leather+Side](https://via.placeholder.com/600x400.png?text=Reebok+Classic+Leather+Side)"
+],
+"model": "Classic Leather",
+"color": ["White","Classic Red","Off-Black"],
+"product_details": {
+"upper_material": "Premium leather",
+"midsole": "EVA",
+"outsole": "Rubber",
+"weight_g": 350,
+"release_year": 2020
+},
+"sex": "Men",
+"rating": 4.4,
+"stock": 200,
+"categories": ["casual","lifestyle"],
+"tags": ["leather","retro","everyday"]
+},
+{
+"id": 4,
+"name": "Old Skool",
+"brand": "Vans",
+"sku": "VNS-OS-004",
+"price": 59.99,
+"description": "Timeless skate shoe with suede & canvas upper and signature waffle outsole.",
+"type": "Skate/Casual",
+"size_and_fit": {
+"available_sizes": [4,5,6,7,8,9,10,11,12],
+"fit": "True to size; low profile"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Vans+Old+Skool+Black](https://via.placeholder.com/600x400.png?text=Vans+Old+Skool+Black)",
+"[https://via.placeholder.com/600x400.png?text=Vans+Old+Skool+Side](https://via.placeholder.com/600x400.png?text=Vans+Old+Skool+Side)"
+],
+"model": "Old Skool",
+"color": ["Black/White","Navy","Checkerboard"],
+"product_details": {
+"upper_material": "Canvas & suede",
+"midsole": "None (vulcanized)",
+"outsole": "Waffle rubber",
+"weight_g": 420,
+"release_year": 2019
+},
+"sex": "Unisex",
+"rating": 4.5,
+"stock": 150,
+"categories": ["skate","casual"],
+"tags": ["vulcanized","classic","durable"]
+},
+{
+"id": 5,
+"name": "574 Heritage",
+"brand": "New Balance",
+"sku": "NB-574-005",
+"price": 89.99,
+"description": "Heritage running-inspired sneaker with ENCAP midsole for stability.",
+"type": "Casual/Running",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12,13],
+"fit": "Roomy; great for wider feet"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=New+Balance+574+Grey](https://via.placeholder.com/600x400.png?text=New+Balance+574+Grey)",
+"[https://via.placeholder.com/600x400.png?text=New+Balance+574+Back](https://via.placeholder.com/600x400.png?text=New+Balance+574+Back)"
+],
+"model": "574 Heritage",
+"color": ["Grey","Navy","Burgundy"],
+"product_details": {
+"upper_material": "Suede/mesh",
+"midsole": "ENCAP",
+"outsole": "Rubber",
+"weight_g": 380,
+"release_year": 2021
+},
+"sex": "Men",
+"rating": 4.3,
+"stock": 95,
+"categories": ["lifestyle","running-inspired"],
+"tags": ["stability","retro","comfortable"]
+},
+{
+"id": 6,
+"name": "Roma Classic",
+"brand": "Puma",
+"sku": "PMA-RC-006",
+"price": 69.99,
+"description": "Retro indoor court shoe adapted for everyday wear with leather upper.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [5,6,7,8,9,10,11,12],
+"fit": "True to size; slim fit"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Puma+Roma+Classic+White](https://via.placeholder.com/600x400.png?text=Puma+Roma+Classic+White)",
+"[https://via.placeholder.com/600x400.png?text=Puma+Roma+Classic+Side](https://via.placeholder.com/600x400.png?text=Puma+Roma+Classic+Side)"
+],
+"model": "Roma Classic",
+"color": ["White/Green","Black/Gold"],
+"product_details": {
+"upper_material": "Leather",
+"midsole": "EVA",
+"outsole": "Rubber",
+"weight_g": 360,
+"release_year": 2022
+},
+"sex": "Women",
+"rating": 4.2,
+"stock": 140,
+"categories": ["casual","retro"],
+"tags": ["retro","court","leather"]
+},
+{
+"id": 7,
+"name": "Chuck Taylor All Star",
+"brand": "Converse",
+"sku": "CNV-CTA-007",
+"price": 54.99,
+"description": "Classic canvas high-top with vulcanized sole and iconic ankle patch.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [3,4,5,6,7,8,9,10,11,12],
+"fit": "Runs large; consider half size down"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Converse+Chuck+Taylor+All+Star](https://via.placeholder.com/600x400.png?text=Converse+Chuck+Taylor+All+Star)",
+"[https://via.placeholder.com/600x400.png?text=Converse+Chuck+Taylor+Side](https://via.placeholder.com/600x400.png?text=Converse+Chuck+Taylor+Side)"
+],
+"model": "Chuck Taylor All Star",
+"color": ["Black","White","Red"],
+"product_details": {
+"upper_material": "Canvas",
+"midsole": "Rubber",
+"outsole": "Rubber Waffle",
+"weight_g": 410,
+"release_year": 2018
+},
+"sex": "Unisex",
+"rating": 4.4,
+"stock": 300,
+"categories": ["casual","iconic"],
+"tags": ["canvas","high-top","timeless"]
+},
+{
+"id": 8,
+"name": "Gel-Kayano 30",
+"brand": "Asics",
+"sku": "ASC-GK30-008",
+"price": 159.95,
+"description": "Supportive stability runner with GEL cushioning and FlyteFoam technology.",
+"type": "Running",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "True to size; supportive midfoot"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=ASICS+Gel-Kayano+30](https://via.placeholder.com/600x400.png?text=ASICS+Gel-Kayano+30)",
+"[https://via.placeholder.com/600x400.png?text=ASICS+Gel-Kayano+30+Heel](https://via.placeholder.com/600x400.png?text=ASICS+Gel-Kayano+30+Heel)"
+],
+"model": "Gel-Kayano 30",
+"color": ["Graphite/Silver","Blue"],
+"product_details": {
+"upper_material": "Engineered mesh",
+"midsole": "FlyteFoam + GEL",
+"outsole": "AHAR rubber",
+"weight_g": 310,
+"release_year": 2024
+},
+"sex": "Men",
+"rating": 4.8,
+"stock": 60,
+"categories": ["running","stability"],
+"tags": ["support","gel","stability"]
+},
+{
+"id": 9,
+"name": "HOVR Phantom 3",
+"brand": "Under Armour",
+"sku": "UA-HP3-009",
+"price": 139.99,
+"description": "Neutral running shoe with HOVR cushioning for energy return and lockdown fit.",
+"type": "Running",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12],
+"fit": "True to size; snug heel"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Under+Armour+HOVR+Phantom+3](https://via.placeholder.com/600x400.png?text=Under+Armour+HOVR+Phantom+3)",
+"[https://via.placeholder.com/600x400.png?text=Under+Armour+HOVR+Phantom+3+Side](https://via.placeholder.com/600x400.png?text=Under+Armour+HOVR+Phantom+3+Side)"
+],
+"model": "HOVR Phantom 3",
+"color": ["Black/Red","Grey"],
+"product_details": {
+"upper_material": "Knit",
+"midsole": "HOVR foam",
+"outsole": "Rubber",
+"weight_g": 295,
+"release_year": 2023
+},
+"sex": "Unisex",
+"rating": 4.5,
+"stock": 70,
+"categories": ["running","training"],
+"tags": ["hovr","energy return","comfort"]
+},
+{
+"id": 10,
+"name": "D'Lites Classic",
+"brand": "Skechers",
+"sku": "SKC-DLC-010",
+"price": 64.99,
+"description": "Chunky lifestyle sneaker with memory foam insole for all-day comfort.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "True to size; cushioned"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Skechers+D'Lites+Classic](https://via.placeholder.com/600x400.png?text=Skechers+D'Lites+Classic)",
+"[https://via.placeholder.com/600x400.png?text=Skechers+D'Lites+Side](https://via.placeholder.com/600x400.png?text=Skechers+D'Lites+Side)"
+],
+"model": "D'Lites Classic",
+"color": ["White","Pink","Black"],
+"product_details": {
+"upper_material": "Synthetic leather",
+"midsole": "Lightweight EVA",
+"outsole": "Rubber",
+"weight_g": 430,
+"release_year": 2020
+},
+"sex": "Women",
+"rating": 4.1,
+"stock": 180,
+"categories": ["lifestyle","comfort"],
+"tags": ["memory foam","chunky","trendy"]
+},
+{
+"id": 11,
+"name": "Disruptor II",
+"brand": "Fila",
+"sku": "FIL-DII-011",
+"price": 64.95,
+"description": "Bold chunky sole sneaker with leather upper and retro style.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [5,6,7,8,9,10,11,12],
+"fit": "True to size; bulky sole"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Fila+Disruptor+II+White](https://via.placeholder.com/600x400.png?text=Fila+Disruptor+II+White)",
+"[https://via.placeholder.com/600x400.png?text=Fila+Disruptor+II+Back](https://via.placeholder.com/600x400.png?text=Fila+Disruptor+II+Back)"
+],
+"model": "Disruptor II",
+"color": ["White","Black","Pink"],
+"product_details": {
+"upper_material": "Leather",
+"midsole": "EVA chunky",
+"outsole": "Rubber",
+"weight_g": 500,
+"release_year": 2019
+},
+"sex": "Unisex",
+"rating": 4.0,
+"stock": 130,
+"categories": ["fashion","chunky"],
+"tags": ["disruptor","chunky","retro"]
+},
+{
+"id": 12,
+"name": "Tri-Nature Trail",
+"brand": "Saucony",
+"sku": "SNY-TNT-012",
+"price": 129.99,
+"description": "Trail running shoe with rugged outsole and protective rock plate.",
+"type": "Trail",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "Roomy toe box; true to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Saucony+Tri-Nature+Trail](https://via.placeholder.com/600x400.png?text=Saucony+Tri-Nature+Trail)",
+"[https://via.placeholder.com/600x400.png?text=Saucony+Tri-Nature+Trail+Sole](https://via.placeholder.com/600x400.png?text=Saucony+Tri-Nature+Trail+Sole)"
+],
+"model": "Tri-Nature Trail",
+"color": ["Forest Green","Desert Sand"],
+"product_details": {
+"upper_material": "Ripstop mesh",
+"midsole": "PWRRUN foam",
+"outsole": "Vibram-inspired rubber",
+"weight_g": 345,
+"release_year": 2022
+},
+"sex": "Men",
+"rating": 4.6,
+"stock": 55,
+"categories": ["trail","outdoor"],
+"tags": ["trail","rock plate","durable"]
+},
+{
+"id": 13,
+"name": "Moab 3",
+"brand": "Merrell",
+"sku": "MRL-MO3-013",
+"price": 139.00,
+"description": "All-terrain hiking shoe with protective toe cap and Vibram outsole.",
+"type": "Hiking",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13,14],
+"fit": "True to size; supportive arch"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Merrell+Moab+3+Brown](https://via.placeholder.com/600x400.png?text=Merrell+Moab+3+Brown)",
+"[https://via.placeholder.com/600x400.png?text=Merrell+Moab+3+Profile](https://via.placeholder.com/600x400.png?text=Merrell+Moab+3+Profile)"
+],
+"model": "Moab 3",
+"color": ["Brown","Olive"],
+"product_details": {
+"upper_material": "Suede + mesh",
+"midsole": "EVA",
+"outsole": "Vibram",
+"weight_g": 480,
+"release_year": 2021
+},
+"sex": "Unisex",
+"rating": 4.7,
+"stock": 40,
+"categories": ["hiking","outdoor"],
+"tags": ["vibram","toe-cap","water-resistant"]
+},
+{
+"id": 14,
+"name": "Clifton 9",
+"brand": "Hoka",
+"sku": "HOK-CL9-014",
+"price": 149.99,
+"description": "Max-cushioned neutral running shoe with early-stage Meta-Rocker for smooth ride.",
+"type": "Running",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12],
+"fit": "True to size; plush cushioning"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Hoka+Clifton+9+Purple](https://via.placeholder.com/600x400.png?text=Hoka+Clifton+9+Purple)",
+"[https://via.placeholder.com/600x400.png?text=Hoka+Clifton+9+Side](https://via.placeholder.com/600x400.png?text=Hoka+Clifton+9+Side)"
+],
+"model": "Clifton 9",
+"color": ["Purple","White"],
+"product_details": {
+"upper_material": "Engineered mesh",
+"midsole": "EVA foam (max)",
+"outsole": "Rubber pods",
+"weight_g": 260,
+"release_year": 2024
+},
+"sex": "Women",
+"rating": 4.8,
+"stock": 90,
+"categories": ["running","max-cushion"],
+"tags": ["max-cushion","meta-rocker","lightweight"]
+},
+{
+"id": 15,
+"name": "XA Pro 3D",
+"brand": "Salomon",
+"sku": "SLM-XA3D-015",
+"price": 139.95,
+"description": "Technical trail shoe with 3D chassis and Quicklace system for secure fit.",
+"type": "Trail",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "Snug lockdown; true to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Salomon+XA+Pro+3D+Black](https://via.placeholder.com/600x400.png?text=Salomon+XA+Pro+3D+Black)",
+"[https://via.placeholder.com/600x400.png?text=Salomon+XA+Pro+3D+Quicklace](https://via.placeholder.com/600x400.png?text=Salomon+XA+Pro+3D+Quicklace)"
+],
+"model": "XA Pro 3D",
+"color": ["Black","Yellow"],
+"product_details": {
+"upper_material": "SensiFit + mesh",
+"midsole": "Injected EVA",
+"outsole": "Contragrip",
+"weight_g": 360,
+"release_year": 2020
+},
+"sex": "Men",
+"rating": 4.7,
+"stock": 50,
+"categories": ["trail","technical"],
+"tags": ["quicklace","contragrip","durable"]
+},
+{
+"id": 16,
+"name": "Ghost 15",
+"brand": "Brooks",
+"sku": "BRK-GH15-016",
+"price": 129.99,
+"description": "Soft cushioned everyday running shoe with smooth transitions and breathable upper.",
+"type": "Running",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12,13],
+"fit": "True to size; neutral ride"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Brooks+Ghost+15+Blue](https://via.placeholder.com/600x400.png?text=Brooks+Ghost+15+Blue)",
+"[https://via.placeholder.com/600x400.png?text=Brooks+Ghost+15+Top](https://via.placeholder.com/600x400.png?text=Brooks+Ghost+15+Top)"
+],
+"model": "Ghost 15",
+"color": ["Blue","Grey"],
+"product_details": {
+"upper_material": "Engineered mesh",
+"midsole": "DNA Loft",
+"outsole": "Rubber",
+"weight_g": 300,
+"release_year": 2023
+},
+"sex": "Unisex",
+"rating": 4.6,
+"stock": 110,
+"categories": ["running","everyday"],
+"tags": ["smooth","comfortable","breathable"]
+},
+{
+"id": 17,
+"name": "Newton Fate",
+"brand": "Newton",
+"sku": "NTW-FATE-017",
+"price": 139.00,
+"description": "Responsive road racing shoe with patented forefoot lugs for propulsion.",
+"type": "Racing",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12],
+"fit": "Snug race fit; consider true size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Newton+Fate+Yellow](https://via.placeholder.com/600x400.png?text=Newton+Fate+Yellow)",
+"[https://via.placeholder.com/600x400.png?text=Newton+Fate+Side](https://via.placeholder.com/600x400.png?text=Newton+Fate+Side)"
+],
+"model": "Fate",
+"color": ["Yellow","White"],
+"product_details": {
+"upper_material": "Lightweight mesh",
+"midsole": "RN",
+"outsole": "Rubber",
+"weight_g": 220,
+"release_year": 2022
+},
+"sex": "Men",
+"rating": 4.4,
+"stock": 45,
+"categories": ["racing","performance"],
+"tags": ["propulsion","lightweight"]
+},
+{
+"id": 18,
+"name": "Terrex Free Hike",
+"brand": "Adidas",
+"sku": "ADD-TFH-018",
+"price": 149.99,
+"description": "Hybrid hiking shoe blending trail grip with street comfort and stretch webbing.",
+"type": "Hiking/Trail",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "True to size; flexible upper"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Adidas+Terrex+Free+Hike](https://via.placeholder.com/600x400.png?text=Adidas+Terrex+Free+Hike)",
+"[https://via.placeholder.com/600x400.png?text=Adidas+Terrex+Sole](https://via.placeholder.com/600x400.png?text=Adidas+Terrex+Sole)"
+],
+"model": "Terrex Free Hike",
+"color": ["Core Black","Cedar"],
+"product_details": {
+"upper_material": "Stretch textile",
+"midsole": "EVA",
+"outsole": "Continental rubber",
+"weight_g": 370,
+"release_year": 2021
+},
+"sex": "Unisex",
+"rating": 4.5,
+"stock": 65,
+"categories": ["hiking","hybrid"],
+"tags": ["continental","grip","hybrid"]
+},
+{
+"id": 19,
+"name": "Club C Revenge",
+"brand": "Nike",
+"sku": "NIK-CCR-019",
+"price": 79.99,
+"description": "Retro tennis-inspired sneaker with clean lines and comfortable cushioning.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [5,6,7,8,9,10,11,12],
+"fit": "True to size; comfortable arch"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Nike+Club+C+Revenge+White](https://via.placeholder.com/600x400.png?text=Nike+Club+C+Revenge+White)",
+"[https://via.placeholder.com/600x400.png?text=Nike+Club+C+Revenge+Profile](https://via.placeholder.com/600x400.png?text=Nike+Club+C+Revenge+Profile)"
+],
+"model": "Club C Revenge",
+"color": ["White","Green"],
+"product_details": {
+"upper_material": "Leather",
+"midsole": "Foam",
+"outsole": "Rubber",
+"weight_g": 360,
+"release_year": 2020
+},
+"sex": "Women",
+"rating": 4.3,
+"stock": 220,
+"categories": ["casual","tennis-style"],
+"tags": ["retro","clean","leather"]
+},
+{
+"id": 20,
+"name": "Court Smash",
+"brand": "Puma",
+"sku": "PMA-CS-020",
+"price": 69.99,
+"description": "Minimalist court sneaker with synthetic leather upper and rubber cupsole.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Puma+Court+Smash+White](https://via.placeholder.com/600x400.png?text=Puma+Court+Smash+White)",
+"[https://via.placeholder.com/600x400.png?text=Puma+Court+Smash+Side](https://via.placeholder.com/600x400.png?text=Puma+Court+Smash+Side)"
+],
+"model": "Court Smash",
+"color": ["White","Blue"],
+"product_details": {
+"upper_material": "Synthetic leather",
+"midsole": "EVA",
+"outsole": "Rubber",
+"weight_g": 340,
+"release_year": 2021
+},
+"sex": "Unisex",
+"rating": 4.2,
+"stock": 160,
+"categories": ["casual","court"],
+"tags": ["minimal","everyday","cupsole"]
+},
+{
+"id": 21,
+"name": "Classic Canvas Low",
+"brand": "Vans",
+"sku": "VNS-CCL-021",
+"price": 49.99,
+"description": "Low-profile canvas sneaker perfect for everyday wear and easy styling.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [4,5,6,7,8,9,10,11],
+"fit": "True to size; flexible"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Vans+Classic+Canvas+Low](https://via.placeholder.com/600x400.png?text=Vans+Classic+Canvas+Low)",
+"[https://via.placeholder.com/600x400.png?text=Vans+Classic+Canvas+Top](https://via.placeholder.com/600x400.png?text=Vans+Classic+Canvas+Top)"
+],
+"model": "Classic Canvas Low",
+"color": ["Black","White","Olive"],
+"product_details": {
+"upper_material": "Canvas",
+"midsole": "Vulcanized rubber",
+"outsole": "Waffle rubber",
+"weight_g": 380,
+"release_year": 2017
+},
+"sex": "Unisex",
+"rating": 4.1,
+"stock": 210,
+"categories": ["casual","skate"],
+"tags": ["canvas","classic","affordable"]
+},
+{
+"id": 22,
+"name": "FuelCell Propel",
+"brand": "New Balance",
+"sku": "NB-FCP-022",
+"price": 119.99,
+"description": "Fast neutral trainer with FuelCell foam for a propulsive feel.",
+"type": "Training/Running",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12],
+"fit": "True to size; responsive ride"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=New+Balance+FuelCell+Propel](https://via.placeholder.com/600x400.png?text=New+Balance+FuelCell+Propel)",
+"[https://via.placeholder.com/600x400.png?text=New+Balance+FuelCell+Side](https://via.placeholder.com/600x400.png?text=New+Balance+FuelCell+Side)"
+],
+"model": "FuelCell Propel",
+"color": ["Neon","Black"],
+"product_details": {
+"upper_material": "Engineered mesh",
+"midsole": "FuelCell",
+"outsole": "Blown rubber",
+"weight_g": 255,
+"release_year": 2023
+},
+"sex": "Men",
+"rating": 4.4,
+"stock": 75,
+"categories": ["training","running"],
+"tags": ["fuelcell","responsive","lightweight"]
+},
+{
+"id": 23,
+"name": "RS-X Soft",
+"brand": "Puma",
+"sku": "PMA-RSX-023",
+"price": 89.99,
+"description": "Cushioned lifestyle sneaker with bold lines and modern styling.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "True to size; cushioned midsole"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Puma+RS-X+Soft](https://via.placeholder.com/600x400.png?text=Puma+RS-X+Soft)",
+"[https://via.placeholder.com/600x400.png?text=Puma+RS-X+Soft+Back](https://via.placeholder.com/600x400.png?text=Puma+RS-X+Soft+Back)"
+],
+"model": "RS-X Soft",
+"color": ["Grey","Pink"],
+"product_details": {
+"upper_material": "Mesh + synthetic",
+"midsole": "Foam",
+"outsole": "Rubber",
+"weight_g": 390,
+"release_year": 2020
+},
+"sex": "Women",
+"rating": 4.0,
+"stock": 140,
+"categories": ["fashion","lifestyle"],
+"tags": ["bold","cushion","retro-future"]
+},
+{
+"id": 24,
+"name": "Pro Leather OG",
+"brand": "Reebok",
+"sku": "RBK-PLO-024",
+"price": 84.99,
+"description": "Retro basketball silhouette updated for modern comfort and grip.",
+"type": "Casual/Sports",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12,13],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Reebok+Pro+Leather+OG](https://via.placeholder.com/600x400.png?text=Reebok+Pro+Leather+OG)",
+"[https://via.placeholder.com/600x400.png?text=Reebok+Pro+Leather+Back](https://via.placeholder.com/600x400.png?text=Reebok+Pro+Leather+Back)"
+],
+"model": "Pro Leather OG",
+"color": ["White/Red","Black/White"],
+"product_details": {
+"upper_material": "Leather",
+"midsole": "Cushioned foam",
+"outsole": "Rubber",
+"weight_g": 370,
+"release_year": 2019
+},
+"sex": "Unisex",
+"rating": 4.2,
+"stock": 95,
+"categories": ["retro","sports"],
+"tags": ["basketball","retro","classic"]
+},
+{
+"id": 25,
+"name": "Venture Runner",
+"brand": "Nike",
+"sku": "NIK-VR-025",
+"price": 99.99,
+"description": "Everyday runner with breathable knit upper and durable traction.",
+"type": "Running",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Nike+Venture+Runner](https://via.placeholder.com/600x400.png?text=Nike+Venture+Runner)",
+"[https://via.placeholder.com/600x400.png?text=Nike+Venture+Runner+Side](https://via.placeholder.com/600x400.png?text=Nike+Venture+Runner+Side)"
+],
+"model": "Venture Runner",
+"color": ["Black","Anthracite"],
+"product_details": {
+"upper_material": "Flyknit",
+"midsole": "Foam",
+"outsole": "Rubber",
+"weight_g": 270,
+"release_year": 2024
+},
+"sex": "Men",
+"rating": 4.3,
+"stock": 130,
+"categories": ["running","everyday"],
+"tags": ["flyknit","light","breathable"]
+},
+{
+"id": 26,
+"name": "Court Classic Leather",
+"brand": "Nike",
+"sku": "NIK-CCL-026",
+"price": 79.99,
+"description": "Tennis-inspired leather sneaker with minimal branding and classic look.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [5,6,7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Nike+Court+Classic+Leather](https://via.placeholder.com/600x400.png?text=Nike+Court+Classic+Leather)",
+"[https://via.placeholder.com/600x400.png?text=Nike+Court+Classic+Back](https://via.placeholder.com/600x400.png?text=Nike+Court+Classic+Back)"
+],
+"model": "Court Classic Leather",
+"color": ["White","Sail"],
+"product_details": {
+"upper_material": "Leather",
+"midsole": "Foam",
+"outsole": "Rubber",
+"weight_g": 350,
+"release_year": 2021
+},
+"sex": "Women",
+"rating": 4.2,
+"stock": 160,
+"categories": ["casual","tennis"],
+"tags": ["tennis","leather","minimal"]
+},
+{
+"id": 27,
+"name": "Wave Rider 26",
+"brand": "Mizuno",
+"sku": "MIZ-WR26-027",
+"price": 119.99,
+"description": "Durable road runner with Wave plate for stability and smooth transitions.",
+"type": "Running",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "True to size; stable feel"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Mizuno+Wave+Rider+26](https://via.placeholder.com/600x400.png?text=Mizuno+Wave+Rider+26)",
+"[https://via.placeholder.com/600x400.png?text=Mizuno+Wave+Rider+26+Side](https://via.placeholder.com/600x400.png?text=Mizuno+Wave+Rider+26+Side)"
+],
+"model": "Wave Rider 26",
+"color": ["Blue","Black"],
+"product_details": {
+"upper_material": "Engineered mesh",
+"midsole": "U4ic + Wave Plate",
+"outsole": "X10 carbon rubber",
+"weight_g": 295,
+"release_year": 2022
+},
+"sex": "Men",
+"rating": 4.5,
+"stock": 80,
+"categories": ["running","stability"],
+"tags": ["wave","stability","durable"]
+},
+{
+"id": 28,
+"name": "Gibraltar Rock",
+"brand": "Timberland",
+"sku": "TMB-GR-028",
+"price": 149.99,
+"description": "Rugged work-boot inspired sneaker with premium leather and rugged outsole.",
+"type": "Outdoor/Casual",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "Roomy; supportive ankle"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Timberland+Gibraltar+Rock](https://via.placeholder.com/600x400.png?text=Timberland+Gibraltar+Rock)",
+"[https://via.placeholder.com/600x400.png?text=Timberland+Gibraltar+Sole](https://via.placeholder.com/600x400.png?text=Timberland+Gibraltar+Sole)"
+],
+"model": "Gibraltar Rock",
+"color": ["Wheat","Dark Brown"],
+"product_details": {
+"upper_material": "Full-grain leather",
+"midsole": "Cushioned EVA",
+"outsole": "Rubber lug",
+"weight_g": 620,
+"release_year": 2020
+},
+"sex": "Men",
+"rating": 4.6,
+"stock": 45,
+"categories": ["outdoor","workwear"],
+"tags": ["leather","lug-sole","durable"]
+},
+{
+"id": 29,
+"name": "Desert Boot Low",
+"brand": "Clarks",
+"sku": "CLK-DBL-029",
+"price": 129.00,
+"description": "Refined desert-style boot with premium suede and crepe sole for comfort.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "True to size; slightly narrow"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Clarks+Desert+Boot+Low](https://via.placeholder.com/600x400.png?text=Clarks+Desert+Boot+Low)",
+"[https://via.placeholder.com/600x400.png?text=Clarks+Desert+Boot+Side](https://via.placeholder.com/600x400.png?text=Clarks+Desert+Boot+Side)"
+],
+"model": "Desert Boot Low",
+"color": ["Sand Suede","Rust"],
+"product_details": {
+"upper_material": "Suede",
+"midsole": "Cushioned insole",
+"outsole": "Crepe",
+"weight_g": 540,
+"release_year": 2018
+},
+"sex": "Men",
+"rating": 4.5,
+"stock": 70,
+"categories": ["casual","boots"],
+"tags": ["suede","crepe","classic"]
+},
+{
+"id": 30,
+"name": "1461 3-Eye",
+"brand": "Dr. Martens",
+"sku": "DM-1461-030",
+"price": 129.00,
+"description": "Iconic 3-eye shoe with air-cushioned sole and Goodyear-welt construction.",
+"type": "Casual/Work",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "Runs slightly large; durable construction"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=DrMartens+1461+3-Eye](https://via.placeholder.com/600x400.png?text=DrMartens+1461+3-Eye)",
+"[https://via.placeholder.com/600x400.png?text=DrMartens+1461+Side](https://via.placeholder.com/600x400.png?text=DrMartens+1461+Side)"
+],
+"model": "1461 3-Eye",
+"color": ["Black Smooth","Cherry Red"],
+"product_details": {
+"upper_material": "Leather",
+"midsole": "Air-cushioned",
+"outsole": "Rubber",
+"weight_g": 610,
+"release_year": 2016
+},
+"sex": "Unisex",
+"rating": 4.7,
+"stock": 90,
+"categories": ["work","fashion"],
+"tags": ["goodyear","airwair","durable"]
+},
+{
+"id": 31,
+"name": "Trail Glove",
+"brand": "Altra",
+"sku": "ALR-TG-031",
+"price": 109.95,
+"description": "Zero-drop trail shoe with wide toe box for natural foot splay and grip outsole.",
+"type": "Trail",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "Wide toe box; true to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Altra+Trail+Glove](https://via.placeholder.com/600x400.png?text=Altra+Trail+Glove)",
+"[https://via.placeholder.com/600x400.png?text=Altra+Trail+Glove+Top](https://via.placeholder.com/600x400.png?text=Altra+Trail+Glove+Top)"
+],
+"model": "Trail Glove",
+"color": ["Green","Black"],
+"product_details": {
+"upper_material": "Engineered mesh",
+"midsole": "EVA",
+"outsole": "Sticky rubber",
+"weight_g": 290,
+"release_year": 2022
+},
+"sex": "Unisex",
+"rating": 4.4,
+"stock": 60,
+"categories": ["trail","minimal"],
+"tags": ["zero-drop","wide-toe","natural"]
+},
+{
+"id": 32,
+"name": "Court Ace",
+"brand": "Nike",
+"sku": "NIK-CA-032",
+"price": 89.99,
+"description": "Lightweight court shoe with synthetic leather and stable cupsole.",
+"type": "Tennis/Casual",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Nike+Court+Ace+White](https://via.placeholder.com/600x400.png?text=Nike+Court+Ace+White)",
+"[https://via.placeholder.com/600x400.png?text=Nike+Court+Ace+Profile](https://via.placeholder.com/600x400.png?text=Nike+Court+Ace+Profile)"
+],
+"model": "Court Ace",
+"color": ["White","Black"],
+"product_details": {
+"upper_material": "Synthetic leather",
+"midsole": "Light foam",
+"outsole": "Rubber",
+"weight_g": 340,
+"release_year": 2021
+},
+"sex": "Men",
+"rating": 4.1,
+"stock": 140,
+"categories": ["court","casual"],
+"tags": ["tennis-style","clean","affordable"]
+},
+{
+"id": 33,
+"name": "Stan Smith",
+"brand": "Adidas",
+"sku": "ADD-SS-033",
+"price": 85.00,
+"description": "Iconic minimal leather sneaker with perforated 3-stripes and classic silhouette.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [5,6,7,8,9,10,11,12],
+"fit": "True to size; narrow heel"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Adidas+Stan+Smith+White](https://via.placeholder.com/600x400.png?text=Adidas+Stan+Smith+White)",
+"[https://via.placeholder.com/600x400.png?text=Adidas+Stan+Smith+Back](https://via.placeholder.com/600x400.png?text=Adidas+Stan+Smith+Back)"
+],
+"model": "Stan Smith",
+"color": ["White","Green"],
+"product_details": {
+"upper_material": "Leather or synthetic",
+"midsole": "Foam",
+"outsole": "Rubber",
+"weight_g": 360,
+"release_year": 2015
+},
+"sex": "Unisex",
+"rating": 4.6,
+"stock": 260,
+"categories": ["casual","iconic"],
+"tags": ["minimal","timeless","leather"]
+},
+{
+"id": 34,
+"name": "Classic Slip-On",
+"brand": "Vans",
+"sku": "VNS-CSO-034",
+"price": 54.99,
+"description": "Slip-on canvas shoe with low profile and easy on/off design.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [5,6,7,8,9,10,11,12],
+"fit": "True to size; snug heel"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Vans+Classic+Slip-On](https://via.placeholder.com/600x400.png?text=Vans+Classic+Slip-On)",
+"[https://via.placeholder.com/600x400.png?text=Vans+Slip-On+Checker](https://via.placeholder.com/600x400.png?text=Vans+Slip-On+Checker)"
+],
+"model": "Classic Slip-On",
+"color": ["Checkerboard","Black"],
+"product_details": {
+"upper_material": "Canvas",
+"midsole": "Vulcanized sole",
+"outsole": "Waffle rubber",
+"weight_g": 350,
+"release_year": 2018
+},
+"sex": "Unisex",
+"rating": 4.3,
+"stock": 200,
+"categories": ["casual","skate"],
+"tags": ["slip-on","easy","classic"]
+},
+{
+"id": 35,
+"name": "Air Zoom Pegasus 41",
+"brand": "Nike",
+"sku": "NIK-AZP41-035",
+"price": 119.99,
+"description": "Reliable daily trainer featuring responsive Zoom Air units and breathable upper.",
+"type": "Running",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "True to size; neutral"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Nike+Air+Zoom+Pegasus+41](https://via.placeholder.com/600x400.png?text=Nike+Air+Zoom+Pegasus+41)",
+"[https://via.placeholder.com/600x400.png?text=Nike+Pegasus+41+Side](https://via.placeholder.com/600x400.png?text=Nike+Pegasus+41+Side)"
+],
+"model": "Air Zoom Pegasus 41",
+"color": ["White/Red","Black"],
+"product_details": {
+"upper_material": "Engineered mesh",
+"midsole": "React foam + Zoom Air",
+"outsole": "Rubber",
+"weight_g": 285,
+"release_year": 2024
+},
+"sex": "Unisex",
+"rating": 4.7,
+"stock": 100,
+"categories": ["running","daily"],
+"tags": ["zoom","react","reliable"]
+},
+{
+"id": 36,
+"name": "Gazelle",
+"brand": "Adidas",
+"sku": "ADD-GZL-036",
+"price": 79.99,
+"description": "Classic suede sneaker with slim profile and iconic 3-stripe design.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "True to size; low profile"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Adidas+Gazelle+Suede](https://via.placeholder.com/600x400.png?text=Adidas+Gazelle+Suede)",
+"[https://via.placeholder.com/600x400.png?text=Adidas+Gazelle+Side](https://via.placeholder.com/600x400.png?text=Adidas+Gazelle+Side)"
+],
+"model": "Gazelle",
+"color": ["Core Black","Collegiate Navy"],
+"product_details": {
+"upper_material": "Suede",
+"midsole": "Foam",
+"outsole": "Rubber",
+"weight_g": 330,
+"release_year": 2019
+},
+"sex": "Unisex",
+"rating": 4.5,
+"stock": 180,
+"categories": ["casual","suede"],
+"tags": ["suede","retro","slim"]
+},
+{
+"id": 37,
+"name": "FuzeX Run",
+"brand": "Reebok",
+"sku": "RBK-FXR-037",
+"price": 99.99,
+"description": "Cushioned running shoe with breathable upper and durable outsole for daily miles.",
+"type": "Running",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Reebok+FuzeX+Run](https://via.placeholder.com/600x400.png?text=Reebok+FuzeX+Run)",
+"[https://via.placeholder.com/600x400.png?text=Reebok+FuzeX+Side](https://via.placeholder.com/600x400.png?text=Reebok+FuzeX+Side)"
+],
+"model": "FuzeX Run",
+"color": ["Black/Red","White"],
+"product_details": {
+"upper_material": "Mesh",
+"midsole": "EVA foam",
+"outsole": "Rubber",
+"weight_g": 300,
+"release_year": 2021
+},
+"sex": "Women",
+"rating": 4.1,
+"stock": 120,
+"categories": ["running","daily"],
+"tags": ["cushion","mesh","everyday"]
+},
+{
+"id": 38,
+"name": "Suede Classic",
+"brand": "Puma",
+"sku": "PMA-SC-038",
+"price": 69.99,
+"description": "Timeless suede sneaker with low profile and iconic Formstrip.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [5,6,7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Puma+Suede+Classic](https://via.placeholder.com/600x400.png?text=Puma+Suede+Classic)",
+"[https://via.placeholder.com/600x400.png?text=Puma+Suede+Classic+Side](https://via.placeholder.com/600x400.png?text=Puma+Suede+Classic+Side)"
+],
+"model": "Suede Classic",
+"color": ["Red","Black"],
+"product_details": {
+"upper_material": "Suede",
+"midsole": "Foam",
+"outsole": "Rubber",
+"weight_g": 360,
+"release_year": 2018
+},
+"sex": "Unisex",
+"rating": 4.4,
+"stock": 140,
+"categories": ["casual","suede"],
+"tags": ["suede","classic","iconic"]
+},
+{
+"id": 39,
+"name": "Clyde",
+"brand": "Puma",
+"sku": "PMA-CLY-039",
+"price": 74.99,
+"description": "Basketball-heritage silhouette with leather upper and retro styling.",
+"type": "Casual/Sports",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Puma+Clyde+Core](https://via.placeholder.com/600x400.png?text=Puma+Clyde+Core)",
+"[https://via.placeholder.com/600x400.png?text=Puma+Clyde+Side](https://via.placeholder.com/600x400.png?text=Puma+Clyde+Side)"
+],
+"model": "Clyde",
+"color": ["Black","White"],
+"product_details": {
+"upper_material": "Leather",
+"midsole": "Foam",
+"outsole": "Rubber",
+"weight_g": 365,
+"release_year": 2019
+},
+"sex": "Men",
+"rating": 4.3,
+"stock": 100,
+"categories": ["retro","basketball"],
+"tags": ["basketball","heritage","leather"]
+},
+{
+"id": 40,
+"name": "Iconic Court",
+"brand": "Adidas",
+"sku": "ADD-IC-040",
+"price": 79.99,
+"description": "Tennis-court inspired sneaker with leather upper and timeless profile.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [5,6,7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Adidas+Iconic+Court](https://via.placeholder.com/600x400.png?text=Adidas+Iconic+Court)",
+"[https://via.placeholder.com/600x400.png?text=Adidas+Iconic+Court+Back](https://via.placeholder.com/600x400.png?text=Adidas+Iconic+Court+Back)"
+],
+"model": "Iconic Court",
+"color": ["White","Navy"],
+"product_details": {
+"upper_material": "Leather",
+"midsole": "Foam",
+"outsole": "Rubber",
+"weight_g": 345,
+"release_year": 2022
+},
+"sex": "Women",
+"rating": 4.2,
+"stock": 150,
+"categories": ["casual","tennis"],
+"tags": ["timeless","leather","clean"]
+},
+{
+"id": 41,
+"name": "Voyage Runner",
+"brand": "Under Armour",
+"sku": "UA-VR-041",
+"price": 109.99,
+"description": "Durable trainer built for daily miles with breathable construction.",
+"type": "Training",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Under+Armour+Voyage+Runner](https://via.placeholder.com/600x400.png?text=Under+Armour+Voyage+Runner)",
+"[https://via.placeholder.com/600x400.png?text=Under+Armour+Voyage+Side](https://via.placeholder.com/600x400.png?text=Under+Armour+Voyage+Side)"
+],
+"model": "Voyage Runner",
+"color": ["Grey","Black"],
+"product_details": {
+"upper_material": "Mesh",
+"midsole": "Cushioned foam",
+"outsole": "Rubber",
+"weight_g": 305,
+"release_year": 2023
+},
+"sex": "Men",
+"rating": 4.2,
+"stock": 75,
+"categories": ["training","running"],
+"tags": ["durable","breathable"]
+},
+{
+"id": 42,
+"name": "Sketcher Flex Appeal",
+"brand": "Skechers",
+"sku": "SKC-SFA-042",
+"price": 74.99,
+"description": "Flexible walking shoe with memory foam and breathable mesh upper.",
+"type": "Walking",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "True to size; very flexible"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Skechers+Flex+Appeal](https://via.placeholder.com/600x400.png?text=Skechers+Flex+Appeal)",
+"[https://via.placeholder.com/600x400.png?text=Skechers+Flex+Appeal+Side](https://via.placeholder.com/600x400.png?text=Skechers+Flex+Appeal+Side)"
+],
+"model": "Flex Appeal",
+"color": ["Black","White"],
+"product_details": {
+"upper_material": "Mesh",
+"midsole": "Memory foam",
+"outsole": "Rubber",
+"weight_g": 310,
+"release_year": 2021
+},
+"sex": "Women",
+"rating": 4.0,
+"stock": 160,
+"categories": ["walking","comfort"],
+"tags": ["memory foam","flexible","everyday"]
+},
+{
+"id": 43,
+"name": "Jazz Court",
+"brand": "Reebok",
+"sku": "RBK-JC-043",
+"price": 69.99,
+"description": "Simple, clean court-style sneaker inspired by classic tennis silhouettes.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [5,6,7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Reebok+Jazz+Court](https://via.placeholder.com/600x400.png?text=Reebok+Jazz+Court)",
+"[https://via.placeholder.com/600x400.png?text=Reebok+Jazz+Court+Side](https://via.placeholder.com/600x400.png?text=Reebok+Jazz+Court+Side)"
+],
+"model": "Jazz Court",
+"color": ["White","Navy"],
+"product_details": {
+"upper_material": "Synthetic leather",
+"midsole": "Foam",
+"outsole": "Rubber",
+"weight_g": 345,
+"release_year": 2020
+},
+"sex": "Unisex",
+"rating": 4.1,
+"stock": 140,
+"categories": ["casual","tennis-style"],
+"tags": ["clean","affordable"]
+},
+{
+"id": 44,
+"name": "Skyrun Elite",
+"brand": "Hoka",
+"sku": "HOK-SRE-044",
+"price": 159.99,
+"description": "Performance trainer with responsive foam and wide platform for stability.",
+"type": "Running",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "True to size; stable ride"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Hoka+Skyrun+Elite](https://via.placeholder.com/600x400.png?text=Hoka+Skyrun+Elite)",
+"[https://via.placeholder.com/600x400.png?text=Hoka+Skyrun+Side](https://via.placeholder.com/600x400.png?text=Hoka+Skyrun+Side)"
+],
+"model": "Skyrun Elite",
+"color": ["Black","Blue"],
+"product_details": {
+"upper_material": "Engineered mesh",
+"midsole": "EVA max",
+"outsole": "Rubber pods",
+"weight_g": 275,
+"release_year": 2024
+},
+"sex": "Unisex",
+"rating": 4.6,
+"stock": 70,
+"categories": ["running","performance"],
+"tags": ["responsive","max-cushion"]
+},
+{
+"id": 45,
+"name": "Adrenaline GTS 23",
+"brand": "Brooks",
+"sku": "BRK-AG23-045",
+"price": 139.99,
+"description": "Stability shoe with guided support for mild overpronators and cushioned comfort.",
+"type": "Running",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12,13],
+"fit": "True to size; supportive"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Brooks+Adrenaline+GTS+23](https://via.placeholder.com/600x400.png?text=Brooks+Adrenaline+GTS+23)",
+"[https://via.placeholder.com/600x400.png?text=Brooks+Adrenaline+Side](https://via.placeholder.com/600x400.png?text=Brooks+Adrenaline+Side)"
+],
+"model": "Adrenaline GTS 23",
+"color": ["Grey","Teal"],
+"product_details": {
+"upper_material": "Engineered mesh",
+"midsole": "DNA Loft + GuideRails",
+"outsole": "Rubber",
+"weight_g": 320,
+"release_year": 2023
+},
+"sex": "Women",
+"rating": 4.7,
+"stock": 95,
+"categories": ["running","stability"],
+"tags": ["guided support","stability","comfortable"]
+},
+{
+"id": 46,
+"name": "Classic Nylon",
+"brand": "Keds",
+"sku": "KED-CN-046",
+"price": 44.99,
+"description": "Lightweight nylon sneaker with slim silhouette for easy everyday wear.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [5,6,7,8,9,10,11],
+"fit": "True to size; narrow"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Keds+Classic+Nylon](https://via.placeholder.com/600x400.png?text=Keds+Classic+Nylon)",
+"[https://via.placeholder.com/600x400.png?text=Keds+Classic+Side](https://via.placeholder.com/600x400.png?text=Keds+Classic+Side)"
+],
+"model": "Classic Nylon",
+"color": ["White","Pastel"],
+"product_details": {
+"upper_material": "Nylon",
+"midsole": "Foam",
+"outsole": "Rubber",
+"weight_g": 240,
+"release_year": 2017
+},
+"sex": "Women",
+"rating": 4.0,
+"stock": 210,
+"categories": ["casual","lightweight"],
+"tags": ["lightweight","easy","everyday"]
+},
+{
+"id": 47,
+"name": "Gel-Nimbus 25",
+"brand": "Asics",
+"sku": "ASC-GN25-047",
+"price": 159.95,
+"description": "Premium neutral trainer with plush GEL cushioning and comfortable fit.",
+"type": "Running",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "True to size; plush"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=ASICS+Gel-Nimbus+25](https://via.placeholder.com/600x400.png?text=ASICS+Gel-Nimbus+25)",
+"[https://via.placeholder.com/600x400.png?text=ASICS+Gel-Nimbus+Side](https://via.placeholder.com/600x400.png?text=ASICS+Gel-Nimbus+Side)"
+],
+"model": "Gel-Nimbus 25",
+"color": ["Sky Blue","Black"],
+"product_details": {
+"upper_material": "Jacquard mesh",
+"midsole": "FF Blast+ + GEL",
+"outsole": "AHAR rubber",
+"weight_g": 320,
+"release_year": 2024
+},
+"sex": "Unisex",
+"rating": 4.8,
+"stock": 60,
+"categories": ["running","premium"],
+"tags": ["plush","gel","premium"]
+},
+{
+"id": 48,
+"name": "Court Vintage",
+"brand": "Nike",
+"sku": "NIK-CV-048",
+"price": 89.99,
+"description": "Heritage court sneaker with premium materials and retro branding.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [5,6,7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Nike+Court+Vintage](https://via.placeholder.com/600x400.png?text=Nike+Court+Vintage)",
+"[https://via.placeholder.com/600x400.png?text=Nike+Court+Vintage+Side](https://via.placeholder.com/600x400.png?text=Nike+Court+Vintage+Side)"
+],
+"model": "Court Vintage",
+"color": ["Sail","Green"],
+"product_details": {
+"upper_material": "Suede/leather",
+"midsole": "Foam",
+"outsole": "Rubber",
+"weight_g": 365,
+"release_year": 2022
+},
+"sex": "Women",
+"rating": 4.3,
+"stock": 130,
+"categories": ["retro","casual"],
+"tags": ["vintage","premium","court"]
+},
+{
+"id": 49,
+"name": "XC Trail Pro",
+"brand": "Salomon",
+"sku": "SLM-XCTP-049",
+"price": 169.95,
+"description": "High-performance trail shoe built for technical terrain and long distances.",
+"type": "Trail",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13,14],
+"fit": "Snug fit with secure lockdown"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Salomon+XC+Trail+Pro](https://via.placeholder.com/600x400.png?text=Salomon+XC+Trail+Pro)",
+"[https://via.placeholder.com/600x400.png?text=Salomon+XC+Trail+Sole](https://via.placeholder.com/600x400.png?text=Salomon+XC+Trail+Sole)"
+],
+"model": "XC Trail Pro",
+"color": ["Cinder","Blue"],
+"product_details": {
+"upper_material": "Mesh + protective overlays",
+"midsole": "EnergyCell",
+"outsole": "Contagrip",
+"weight_g": 380,
+"release_year": 2023
+},
+"sex": "Men",
+"rating": 4.7,
+"stock": 35,
+"categories": ["trail","performance"],
+"tags": ["technical","contagrip","durable"]
+},
+{
+"id": 50,
+"name": "Classic Canvas Hi",
+"brand": "Converse",
+"sku": "CNV-CCH-050",
+"price": 59.99,
+"description": "High-top canvas sneaker with classic shape and ankle support.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [3,4,5,6,7,8,9,10,11,12],
+"fit": "Runs large; consider half size down"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Converse+Classic+Canvas+Hi](https://via.placeholder.com/600x400.png?text=Converse+Classic+Canvas+Hi)",
+"[https://via.placeholder.com/600x400.png?text=Converse+Classic+Hi+Side](https://via.placeholder.com/600x400.png?text=Converse+Classic+Hi+Side)"
+],
+"model": "Classic Canvas Hi",
+"color": ["Black","White"],
+"product_details": {
+"upper_material": "Canvas",
+"midsole": "Rubber",
+"outsole": "Rubber",
+"weight_g": 420,
+"release_year": 2019
+},
+"sex": "Unisex",
+"rating": 4.4,
+"stock": 240,
+"categories": ["casual","classic"],
+"tags": ["high-top","canvas","iconic"]
+},
+{
+"id": 51,
+"name": "Pacer Next%",
+"brand": "Nike",
+"sku": "NIK-PN-051",
+"price": 199.99,
+"description": "High-performance racing shoe with carbon plate and lightweight foam.",
+"type": "Racing",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "Snug race fit; true to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Nike+Pacer+Next%25+White](https://via.placeholder.com/600x400.png?text=Nike+Pacer+Next%25+White)",
+"[https://via.placeholder.com/600x400.png?text=Nike+Pacer+Next+Side](https://via.placeholder.com/600x400.png?text=Nike+Pacer+Next+Side)"
+],
+"model": "Pacer Next%",
+"color": ["White/Volt","Black"],
+"product_details": {
+"upper_material": "Featherweight mesh",
+"midsole": "Lightweight foam + carbon plate",
+"outsole": "Rubber",
+"weight_g": 195,
+"release_year": 2024
+},
+"sex": "Men",
+"rating": 4.9,
+"stock": 30,
+"categories": ["racing","performance"],
+"tags": ["carbon-plate","race","lightweight"]
+},
+{
+"id": 52,
+"name": "Gel-DS Trainer",
+"brand": "Asics",
+"sku": "ASC-GDST-052",
+"price": 119.95,
+"description": "Performance trainer designed for race-day speed and responsive cushioning.",
+"type": "Racing/Trainer",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12],
+"fit": "True to size; race-oriented"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=ASICS+Gel-DS+Trainer](https://via.placeholder.com/600x400.png?text=ASICS+Gel-DS+Trainer)",
+"[https://via.placeholder.com/600x400.png?text=ASICS+Gel-DS+Side](https://via.placeholder.com/600x400.png?text=ASICS+Gel-DS+Side)"
+],
+"model": "Gel-DS Trainer",
+"color": ["White/Gold","Blue"],
+"product_details": {
+"upper_material": "Mesh",
+"midsole": "GEL + responsive foam",
+"outsole": "Rubber",
+"weight_g": 240,
+"release_year": 2021
+},
+"sex": "Unisex",
+"rating": 4.5,
+"stock": 60,
+"categories": ["racing","trainer"],
+"tags": ["race","responsive","lightweight"]
+},
+{
+"id": 53,
+"name": "Trailhawk GTX",
+"brand": "Columbia",
+"sku": "CLB-THGTX-053",
+"price": 159.99,
+"description": "Waterproof hiking shoe with GORE-TEX lining and aggressive outsole for traction.",
+"type": "Hiking",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "True to size; great waterproofing"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Columbia+Trailhawk+GTX](https://via.placeholder.com/600x400.png?text=Columbia+Trailhawk+GTX)",
+"[https://via.placeholder.com/600x400.png?text=Columbia+Trailhawk+Sole](https://via.placeholder.com/600x400.png?text=Columbia+Trailhawk+Sole)"
+],
+"model": "Trailhawk GTX",
+"color": ["Charcoal","Olive"],
+"product_details": {
+"upper_material": "Waterproof suede + mesh",
+"midsole": "Lightweight foam",
+"outsole": "High-traction rubber",
+"weight_g": 505,
+"release_year": 2022
+},
+"sex": "Men",
+"rating": 4.6,
+"stock": 55,
+"categories": ["hiking","waterproof"],
+"tags": ["gore-tex","waterproof","traction"]
+},
+{
+"id": 54,
+"name": "Court Move",
+"brand": "Fila",
+"sku": "FIL-CM-054",
+"price": 59.99,
+"description": "Affordable tennis-style sneaker with lightweight cushioning and retro look.",
+"type": "Casual/Sport",
+"size_and_fit": {
+"available_sizes": [5,6,7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Fila+Court+Move](https://via.placeholder.com/600x400.png?text=Fila+Court+Move)",
+"[https://via.placeholder.com/600x400.png?text=Fila+Court+Move+Side](https://via.placeholder.com/600x400.png?text=Fila+Court+Move+Side)"
+],
+"model": "Court Move",
+"color": ["White/Blue","Black"],
+"product_details": {
+"upper_material": "Synthetic leather",
+"midsole": "EVA",
+"outsole": "Rubber",
+"weight_g": 340,
+"release_year": 2021
+},
+"sex": "Unisex",
+"rating": 4.0,
+"stock": 155,
+"categories": ["affordable","casual"],
+"tags": ["retro","affordable","tennis"]
+},
+{
+"id": 55,
+"name": "Wave Inspire",
+"brand": "Mizuno",
+"sku": "MIZ-WI-055",
+"price": 129.99,
+"description": "Stability running shoe featuring Wave plate for cushioning and support.",
+"type": "Running",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12],
+"fit": "True to size; supportive"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Mizuno+Wave+Inspire](https://via.placeholder.com/600x400.png?text=Mizuno+Wave+Inspire)",
+"[https://via.placeholder.com/600x400.png?text=Mizuno+Inspire+Side](https://via.placeholder.com/600x400.png?text=Mizuno+Inspire+Side)"
+],
+"model": "Wave Inspire",
+"color": ["Blue/White","Grey"],
+"product_details": {
+"upper_material": "Engineered mesh",
+"midsole": "Wave plate + foam",
+"outsole": "X10 rubber",
+"weight_g": 305,
+"release_year": 2022
+},
+"sex": "Women",
+"rating": 4.4,
+"stock": 85,
+"categories": ["running","stability"],
+"tags": ["wave","support","durable"]
+},
+{
+"id": 56,
+"name": "All Day Trainer",
+"brand": "Under Armour",
+"sku": "UA-ADT-056",
+"price": 89.99,
+"description": "Versatile trainer for gym and everyday wear with breathable knit upper.",
+"type": "Training",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "True to size; snug midfoot"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Under+Armour+All+Day+Trainer](https://via.placeholder.com/600x400.png?text=Under+Armour+All+Day+Trainer)",
+"[https://via.placeholder.com/600x400.png?text=Under+Armour+ADT+Side](https://via.placeholder.com/600x400.png?text=Under+Armour+ADT+Side)"
+],
+"model": "All Day Trainer",
+"color": ["Black","Grey"],
+"product_details": {
+"upper_material": "Knit",
+"midsole": "Foam cushioning",
+"outsole": "Rubber",
+"weight_g": 310,
+"release_year": 2021
+},
+"sex": "Unisex",
+"rating": 4.1,
+"stock": 140,
+"categories": ["training","gym"],
+"tags": ["versatile","knit","stable"]
+},
+{
+"id": 57,
+"name": "Everyday Classic",
+"brand": "Skechers",
+"sku": "SKC-EDC-057",
+"price": 59.99,
+"description": "Simple everyday sneaker with cushioned insole and breathable upper.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [5,6,7,8,9,10,11,12],
+"fit": "True to size; comfortable"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Skechers+Everyday+Classic](https://via.placeholder.com/600x400.png?text=Skechers+Everyday+Classic)",
+"[https://via.placeholder.com/600x400.png?text=Skechers+Everyday+Classic+Side](https://via.placeholder.com/600x400.png?text=Skechers+Everyday+Classic+Side)"
+],
+"model": "Everyday Classic",
+"color": ["Navy","White"],
+"product_details": {
+"upper_material": "Mesh",
+"midsole": "Memory foam",
+"outsole": "Rubber",
+"weight_g": 300,
+"release_year": 2020
+},
+"sex": "Women",
+"rating": 4.0,
+"stock": 200,
+"categories": ["casual","comfortable"],
+"tags": ["memory foam","breathable"]
+},
+{
+"id": 58,
+"name": "Pacer Glide",
+"brand": "New Balance",
+"sku": "NB-PG-058",
+"price": 99.99,
+"description": "Lightweight trainer with breathable mesh and responsive foam midsole.",
+"type": "Training/Running",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=New+Balance+Pacer+Glide](https://via.placeholder.com/600x400.png?text=New+Balance+Pacer+Glide)",
+"[https://via.placeholder.com/600x400.png?text=New+Balance+Pacer+Side](https://via.placeholder.com/600x400.png?text=New+Balance+Pacer+Side)"
+],
+"model": "Pacer Glide",
+"color": ["Neon","Black"],
+"product_details": {
+"upper_material": "Mesh",
+"midsole": "Foam",
+"outsole": "Rubber",
+"weight_g": 260,
+"release_year": 2023
+},
+"sex": "Men",
+"rating": 4.2,
+"stock": 110,
+"categories": ["training","running"],
+"tags": ["lightweight","responsive"]
+},
+{
+"id": 59,
+"name": "Classic Low Top",
+"brand": "Keds",
+"sku": "KED-CLT-059",
+"price": 39.99,
+"description": "Simple canvas low-top sneaker ideal for casual wear and warm weather.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [5,6,7,8,9,10,11],
+"fit": "True to size; narrow"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Keds+Classic+Low+Top](https://via.placeholder.com/600x400.png?text=Keds+Classic+Low+Top)",
+"[https://via.placeholder.com/600x400.png?text=Keds+Classic+Low+Side](https://via.placeholder.com/600x400.png?text=Keds+Classic+Low+Side)"
+],
+"model": "Classic Low Top",
+"color": ["White","Pastel Pink"],
+"product_details": {
+"upper_material": "Canvas",
+"midsole": "Foam",
+"outsole": "Rubber",
+"weight_g": 220,
+"release_year": 2016
+},
+"sex": "Women",
+"rating": 3.9,
+"stock": 250,
+"categories": ["casual","summer"],
+"tags": ["canvas","light","affordable"]
+},
+{
+"id": 60,
+"name": "Trail Runner GTX",
+"brand": "Nike",
+"sku": "NIK-TRGTX-060",
+"price": 149.99,
+"description": "Waterproof trail shoe with aggressive lug pattern and rock plate protection.",
+"type": "Trail",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "True to size; protective fit"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Nike+Trail+Runner+GTX](https://via.placeholder.com/600x400.png?text=Nike+Trail+Runner+GTX)",
+"[https://via.placeholder.com/600x400.png?text=Nike+Trail+GTX+Sole](https://via.placeholder.com/600x400.png?text=Nike+Trail+GTX+Sole)"
+],
+"model": "Trail Runner GTX",
+"color": ["Black","Canyon"],
+"product_details": {
+"upper_material": "GORE-TEX mesh",
+"midsole": "Foam",
+"outsole": "Multi-directional lugs",
+"weight_g": 405,
+"release_year": 2023
+},
+"sex": "Men",
+"rating": 4.6,
+"stock": 55,
+"categories": ["trail","waterproof"],
+"tags": ["gore-tex","rock-plate","trail"]
+},
+{
+"id": 61,
+"name": "City Runner Pro",
+"brand": "Adidas",
+"sku": "ADD-CRP-061",
+"price": 119.99,
+"description": "Urban running shoe designed for city streets with reinforced toe and comfort foam.",
+"type": "Running",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "True to size; protective toe"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Adidas+City+Runner+Pro](https://via.placeholder.com/600x400.png?text=Adidas+City+Runner+Pro)",
+"[https://via.placeholder.com/600x400.png?text=Adidas+City+Runner+Side](https://via.placeholder.com/600x400.png?text=Adidas+City+Runner+Side)"
+],
+"model": "City Runner Pro",
+"color": ["Black/Grey","Reflective"],
+"product_details": {
+"upper_material": "Reinforced mesh",
+"midsole": "Boost Lite",
+"outsole": "Rubber",
+"weight_g": 310,
+"release_year": 2022
+},
+"sex": "Unisex",
+"rating": 4.3,
+"stock": 95,
+"categories": ["urban","running"],
+"tags": ["city","protective","reflective"]
+},
+{
+"id": 62,
+"name": "Classic Worker",
+"brand": "Timberland",
+"sku": "TMB-CW-062",
+"price": 139.99,
+"description": "Rugged work-style sneaker with premium leather and supportive midsole.",
+"type": "Work/Casual",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "Roomy; sturdy support"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Timberland+Classic+Worker](https://via.placeholder.com/600x400.png?text=Timberland+Classic+Worker)",
+"[https://via.placeholder.com/600x400.png?text=Timberland+Worker+Side](https://via.placeholder.com/600x400.png?text=Timberland+Worker+Side)"
+],
+"model": "Classic Worker",
+"color": ["Wheat","Dark Brown"],
+"product_details": {
+"upper_material": "Full-grain leather",
+"midsole": "Cushioned EVA",
+"outsole": "Lug rubber",
+"weight_g": 640,
+"release_year": 2018
+},
+"sex": "Men",
+"rating": 4.5,
+"stock": 50,
+"categories": ["work","durable"],
+"tags": ["workwear","leather","supportive"]
+},
+{
+"id": 63,
+"name": "Signature Slip",
+"brand": "Vans",
+"sku": "VNS-SS-063",
+"price": 49.99,
+"description": "Easy slip-on shoe with padded collar and durable canvas upper.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [4,5,6,7,8,9,10,11],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Vans+Signature+Slip](https://via.placeholder.com/600x400.png?text=Vans+Signature+Slip)",
+"[https://via.placeholder.com/600x400.png?text=Vans+Signature+Slip+Checker](https://via.placeholder.com/600x400.png?text=Vans+Signature+Slip+Checker)"
+],
+"model": "Signature Slip",
+"color": ["Checkerboard","Black"],
+"product_details": {
+"upper_material": "Canvas",
+"midsole": "Vulcanized",
+"outsole": "Waffle rubber",
+"weight_g": 360,
+"release_year": 2019
+},
+"sex": "Unisex",
+"rating": 4.2,
+"stock": 170,
+"categories": ["casual","slip-on"],
+"tags": ["slip-on","easy","classic"]
+},
+{
+"id": 64,
+"name": "Stride 2.0",
+"brand": "New Balance",
+"sku": "NB-S20-064",
+"price": 109.99,
+"description": "Everyday trainer combining cushioning and flexibility for daily use.",
+"type": "Training",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "True to size; flexible"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=New+Balance+Stride+2.0](https://via.placeholder.com/600x400.png?text=New+Balance+Stride+2.0)",
+"[https://via.placeholder.com/600x400.png?text=New+Balance+Stride+Side](https://via.placeholder.com/600x400.png?text=New+Balance+Stride+Side)"
+],
+"model": "Stride 2.0",
+"color": ["Black","Lime"],
+"product_details": {
+"upper_material": "Mesh",
+"midsole": "Foam",
+"outsole": "Rubber",
+"weight_g": 290,
+"release_year": 2023
+},
+"sex": "Unisex",
+"rating": 4.1,
+"stock": 120,
+"categories": ["training","everyday"],
+"tags": ["flexible","cushion"]
+},
+{
+"id": 65,
+"name": "Urban Trekker",
+"brand": "Columbia",
+"sku": "CLB-UT-065",
+"price": 99.99,
+"description": "Lightweight day-hiking shoe with cushioned sole and breathable lining.",
+"type": "Hiking/Urban",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Columbia+Urban+Trekker](https://via.placeholder.com/600x400.png?text=Columbia+Urban+Trekker)",
+"[https://via.placeholder.com/600x400.png?text=Columbia+Trekker+Side](https://via.placeholder.com/600x400.png?text=Columbia+Trekker+Side)"
+],
+"model": "Urban Trekker",
+"color": ["Charcoal","Blue"],
+"product_details": {
+"upper_material": "Mesh + synthetic",
+"midsole": "Light EVA",
+"outsole": "Rubber",
+"weight_g": 420,
+"release_year": 2020
+},
+"sex": "Men",
+"rating": 4.2,
+"stock": 95,
+"categories": ["hiking","urban"],
+"tags": ["lightweight","breathable"]
+},
+{
+"id": 66,
+"name": "Classic Court Elite",
+"brand": "Converse",
+"sku": "CNV-CCE-066",
+"price": 69.99,
+"description": "Refined leather version of the classic court sneaker with premium touches.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [5,6,7,8,9,10,11,12],
+"fit": "Runs large; consider half size down"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Converse+Classic+Court+Elite](https://via.placeholder.com/600x400.png?text=Converse+Classic+Court+Elite)",
+"[https://via.placeholder.com/600x400.png?text=Converse+Elite+Side](https://via.placeholder.com/600x400.png?text=Converse+Elite+Side)"
+],
+"model": "Classic Court Elite",
+"color": ["White","Black"],
+"product_details": {
+"upper_material": "Leather",
+"midsole": "Foam",
+"outsole": "Rubber",
+"weight_g": 380,
+"release_year": 2022
+},
+"sex": "Women",
+"rating": 4.3,
+"stock": 130,
+"categories": ["casual","premium"],
+"tags": ["premium","leather","court"]
+},
+{
+"id": 67,
+"name": "Sprintstar",
+"brand": "Nike",
+"sku": "NIK-SS-067",
+"price": 129.99,
+"description": "Fast training shoe designed for speed sessions with breathable upper and responsive foam.",
+"type": "Speedwork",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12],
+"fit": "Snug; race-style fit"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Nike+Sprintstar](https://via.placeholder.com/600x400.png?text=Nike+Sprintstar)",
+"[https://via.placeholder.com/600x400.png?text=Nike+Sprintstar+Side](https://via.placeholder.com/600x400.png?text=Nike+Sprintstar+Side)"
+],
+"model": "Sprintstar",
+"color": ["Volt","Black"],
+"product_details": {
+"upper_material": "Mesh",
+"midsole": "React foam",
+"outsole": "Rubber",
+"weight_g": 210,
+"release_year": 2023
+},
+"sex": "Men",
+"rating": 4.5,
+"stock": 60,
+"categories": ["training","speed"],
+"tags": ["speed","lightweight"]
+},
+{
+"id": 68,
+"name": "Wave Rider Lite",
+"brand": "Mizuno",
+"sku": "MIZ-WRL-068",
+"price": 99.99,
+"description": "Lightweight everyday runner with comfortable cushioning and breathable mesh.",
+"type": "Running",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Mizuno+Wave+Rider+Lite](https://via.placeholder.com/600x400.png?text=Mizuno+Wave+Rider+Lite)",
+"[https://via.placeholder.com/600x400.png?text=Mizuno+Lite+Side](https://via.placeholder.com/600x400.png?text=Mizuno+Lite+Side)"
+],
+"model": "Wave Rider Lite",
+"color": ["Grey","Blue"],
+"product_details": {
+"upper_material": "Mesh",
+"midsole": "Soft foam",
+"outsole": "Rubber",
+"weight_g": 280,
+"release_year": 2023
+},
+"sex": "Women",
+"rating": 4.2,
+"stock": 95,
+"categories": ["running","daily"],
+"tags": ["lightweight","mesh"]
+},
+{
+"id": 69,
+"name": "Metro Slip-On",
+"brand": "Keds",
+"sku": "KED-MS-069",
+"price": 39.99,
+"description": "Casual slip-on with padded insole and breathable canvas upper for easy wear.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [5,6,7,8,9,10,11],
+"fit": "True to size; easy on/off"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Keds+Metro+Slip-On](https://via.placeholder.com/600x400.png?text=Keds+Metro+Slip-On)",
+"[https://via.placeholder.com/600x400.png?text=Keds+Metro+Side](https://via.placeholder.com/600x400.png?text=Keds+Metro+Side)"
+],
+"model": "Metro Slip-On",
+"color": ["Navy","White"],
+"product_details": {
+"upper_material": "Canvas",
+"midsole": "Cushioned insole",
+"outsole": "Rubber",
+"weight_g": 230,
+"release_year": 2019
+},
+"sex": "Women",
+"rating": 3.9,
+"stock": 180,
+"categories": ["casual","slip-on"],
+"tags": ["slip-on","comfortable"]
+},
+{
+"id": 70,
+"name": "ProCourt Elite",
+"brand": "Fila",
+"sku": "FIL-PCE-070",
+"price": 69.99,
+"description": "Tennis-inspired leather sneaker with lightweight cushioning and classic branding.",
+"type": "Casual/Sport",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Fila+ProCourt+Elite](https://via.placeholder.com/600x400.png?text=Fila+ProCourt+Elite)",
+"[https://via.placeholder.com/600x400.png?text=Fila+ProCourt+Side](https://via.placeholder.com/600x400.png?text=Fila+ProCourt+Side)"
+],
+"model": "ProCourt Elite",
+"color": ["White/Red","Black"],
+"product_details": {
+"upper_material": "Leather",
+"midsole": "EVA",
+"outsole": "Rubber",
+"weight_g": 350,
+"release_year": 2020
+},
+"sex": "Unisex",
+"rating": 4.1,
+"stock": 140,
+"categories": ["casual","sport"],
+"tags": ["tennis-style","classic"]
+},
+{
+"id": 71,
+"name": "Summit GTX",
+"brand": "Salomon",
+"sku": "SLM-SGTX-071",
+"price": 179.95,
+"description": "Waterproof technical hiking shoe with durable protection and top traction.",
+"type": "Hiking",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "True to size; secure fit"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Salomon+Summit+GTX](https://via.placeholder.com/600x400.png?text=Salomon+Summit+GTX)",
+"[https://via.placeholder.com/600x400.png?text=Salomon+Summit+Back](https://via.placeholder.com/600x400.png?text=Salomon+Summit+Back)"
+],
+"model": "Summit GTX",
+"color": ["Black/Grey","Forest"],
+"product_details": {
+"upper_material": "GORE-TEX + textile",
+"midsole": "EVA",
+"outsole": "Contagrip",
+"weight_g": 540,
+"release_year": 2023
+},
+"sex": "Unisex",
+"rating": 4.7,
+"stock": 40,
+"categories": ["hiking","waterproof"],
+"tags": ["gore-tex","trail","contagrip"]
+},
+{
+"id": 72,
+"name": "Urban Loafer",
+"brand": "Clarks",
+"sku": "CLK-UL-072",
+"price": 119.00,
+"description": "Smart-casual loafer made with premium leather and cushioned insole for all-day comfort.",
+"type": "Casual/Formal",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "True to size; narrow"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Clarks+Urban+Loafer](https://via.placeholder.com/600x400.png?text=Clarks+Urban+Loafer)",
+"[https://via.placeholder.com/600x400.png?text=Clarks+Loafer+Side](https://via.placeholder.com/600x400.png?text=Clarks+Loafer+Side)"
+],
+"model": "Urban Loafer",
+"color": ["Brown","Black"],
+"product_details": {
+"upper_material": "Leather",
+"midsole": "Cushioned insole",
+"outsole": "Rubber",
+"weight_g": 420,
+"release_year": 2020
+},
+"sex": "Men",
+"rating": 4.5,
+"stock": 80,
+"categories": ["formal","casual"],
+"tags": ["leather","cushioned","smart"]
+},
+{
+"id": 73,
+"name": "Everyday Canvas",
+"brand": "Vans",
+"sku": "VNS-EC-073",
+"price": 49.99,
+"description": "Flexible and breathable canvas sneaker built for comfort and style.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [4,5,6,7,8,9,10,11],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Vans+Everyday+Canvas](https://via.placeholder.com/600x400.png?text=Vans+Everyday+Canvas)",
+"[https://via.placeholder.com/600x400.png?text=Vans+Everyday+Side](https://via.placeholder.com/600x400.png?text=Vans+Everyday+Side)"
+],
+"model": "Everyday Canvas",
+"color": ["White","Navy"],
+"product_details": {
+"upper_material": "Canvas",
+"midsole": "Vulcanized sole",
+"outsole": "Waffle rubber",
+"weight_g": 340,
+"release_year": 2018
+},
+"sex": "Unisex",
+"rating": 4.1,
+"stock": 210,
+"categories": ["casual","lightweight"],
+"tags": ["canvas","breathable"]
+},
+{
+"id": 74,
+"name": "Max Cushion Slide",
+"brand": "Nike",
+"sku": "NIK-MCS-074",
+"price": 34.99,
+"description": "Comfort slide with soft foam footbed and molded strap for post-activity recovery.",
+"type": "Slide",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "True to size; adjustable strap"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Nike+Max+Cushion+Slide](https://via.placeholder.com/600x400.png?text=Nike+Max+Cushion+Slide)",
+"[https://via.placeholder.com/600x400.png?text=Nike+Slide+Top](https://via.placeholder.com/600x400.png?text=Nike+Slide+Top)"
+],
+"model": "Max Cushion Slide",
+"color": ["Black","White"],
+"product_details": {
+"upper_material": "Molded strap",
+"midsole": "Soft foam",
+"outsole": "Textured foam",
+"weight_g": 180,
+"release_year": 2021
+},
+"sex": "Unisex",
+"rating": 4.2,
+"stock": 300,
+"categories": ["slides","recovery"],
+"tags": ["slide","comfort","post-run"]
+},
+{
+"id": 75,
+"name": "Latitude 2 Mid",
+"brand": "Merrell",
+"sku": "MRL-L2M-075",
+"price": 139.00,
+"description": "Mid-cut hiking boot with waterproof membrane and cushioned midsole for long hikes.",
+"type": "Hiking/Boot",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "True to size; supportive ankle"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Merrell+Latitude+2+Mid](https://via.placeholder.com/600x400.png?text=Merrell+Latitude+2+Mid)",
+"[https://via.placeholder.com/600x400.png?text=Merrell+Latitude+Side](https://via.placeholder.com/600x400.png?text=Merrell+Latitude+Side)"
+],
+"model": "Latitude 2 Mid",
+"color": ["Brown","Black"],
+"product_details": {
+"upper_material": "Waterproof leather",
+"midsole": "EVA",
+"outsole": "Vibram",
+"weight_g": 680,
+"release_year": 2021
+},
+"sex": "Men",
+"rating": 4.6,
+"stock": 40,
+"categories": ["hiking","boot"],
+"tags": ["waterproof","vibram","mid-cut"]
+},
+{
+"id": 76,
+"name": "City Slip Knit",
+"brand": "Allbirds",
+"sku": "ALB-CSK-076",
+"price": 99.00,
+"description": "Eco-friendly knit slip-on made from renewable materials with cushioned sole.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11],
+"fit": "True to size; snug knit"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Allbirds+City+Slip+Knit](https://via.placeholder.com/600x400.png?text=Allbirds+City+Slip+Knit)",
+"[https://via.placeholder.com/600x400.png?text=Allbirds+City+Side](https://via.placeholder.com/600x400.png?text=Allbirds+City+Side)"
+],
+"model": "City Slip Knit",
+"color": ["Natural","Charcoal"],
+"product_details": {
+"upper_material": "Renewable knit",
+"midsole": "Sugarcane foam",
+"outsole": "Rubber",
+"weight_g": 260,
+"release_year": 2022
+},
+"sex": "Unisex",
+"rating": 4.5,
+"stock": 100,
+"categories": ["eco","casual"],
+"tags": ["sustainable","knit","comfortable"]
+},
+{
+"id": 77,
+"name": "Runner's Edge",
+"brand": "Nike",
+"sku": "NIK-RE-077",
+"price": 109.99,
+"description": "Daily trainer engineered for durability and comfort with breathable upper.",
+"type": "Running",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Nike+Runner%27s+Edge](https://via.placeholder.com/600x400.png?text=Nike+Runner%27s+Edge)",
+"[https://via.placeholder.com/600x400.png?text=Nike+Edge+Side](https://via.placeholder.com/600x400.png?text=Nike+Edge+Side)"
+],
+"model": "Runner's Edge",
+"color": ["Black","Anthracite"],
+"product_details": {
+"upper_material": "Mesh",
+"midsole": "Foam",
+"outsole": "Rubber",
+"weight_g": 285,
+"release_year": 2023
+},
+"sex": "Men",
+"rating": 4.2,
+"stock": 115,
+"categories": ["running","daily"],
+"tags": ["durable","breathable"]
+},
+{
+"id": 78,
+"name": "Court Classic LX",
+"brand": "Adidas",
+"sku": "ADD-CCLX-078",
+"price": 89.99,
+"description": "Luxurious take on the classic court shoe with premium leather and subtle detailing.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Adidas+Court+Classic+LX](https://via.placeholder.com/600x400.png?text=Adidas+Court+Classic+LX)",
+"[https://via.placeholder.com/600x400.png?text=Adidas+Classic+LX+Side](https://via.placeholder.com/600x400.png?text=Adidas+Classic+LX+Side)"
+],
+"model": "Court Classic LX",
+"color": ["Satin White","Navy"],
+"product_details": {
+"upper_material": "Premium leather",
+"midsole": "Foam",
+"outsole": "Rubber",
+"weight_g": 365,
+"release_year": 2022
+},
+"sex": "Women",
+"rating": 4.4,
+"stock": 125,
+"categories": ["casual","premium"],
+"tags": ["premium","leather","classic"]
+},
+{
+"id": 79,
+"name": "Freerun Lite",
+"brand": "Nike",
+"sku": "NIK-FRL-079",
+"price": 99.99,
+"description": "Flexible minimal trainer designed for workouts and casual wear with sock-like fit.",
+"type": "Training",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "Sock-like; true to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Nike+Freerun+Lite](https://via.placeholder.com/600x400.png?text=Nike+Freerun+Lite)",
+"[https://via.placeholder.com/600x400.png?text=Nike+Freerun+Side](https://via.placeholder.com/600x400.png?text=Nike+Freerun+Side)"
+],
+"model": "Freerun Lite",
+"color": ["Black","Light Grey"],
+"product_details": {
+"upper_material": "Knit",
+"midsole": "Light foam",
+"outsole": "Rubber pods",
+"weight_g": 250,
+"release_year": 2021
+},
+"sex": "Unisex",
+"rating": 4.1,
+"stock": 140,
+"categories": ["training","minimal"],
+"tags": ["knit","flexible","workout"]
+},
+{
+"id": 80,
+"name": "Lace-Up Heritage",
+"brand": "Reebok",
+"sku": "RBK-LUH-080",
+"price": 79.99,
+"description": "Heritage-inspired sneaker with leather upper and comfortable EVA midsole.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [5,6,7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Reebok+Lace-Up+Heritage](https://via.placeholder.com/600x400.png?text=Reebok+Lace-Up+Heritage)",
+"[https://via.placeholder.com/600x400.png?text=Reebok+Heritage+Side](https://via.placeholder.com/600x400.png?text=Reebok+Heritage+Side)"
+],
+"model": "Lace-Up Heritage",
+"color": ["White/Navy","Olive"],
+"product_details": {
+"upper_material": "Leather",
+"midsole": "EVA",
+"outsole": "Rubber",
+"weight_g": 360,
+"release_year": 2020
+},
+"sex": "Men",
+"rating": 4.0,
+"stock": 150,
+"categories": ["retro","casual"],
+"tags": ["heritage","leather"]
+},
+{
+"id": 81,
+"name": "Vapor Knit",
+"brand": "Puma",
+"sku": "PMA-VK-081",
+"price": 99.99,
+"description": "Sleek knit sneaker with low-profile cushioning for urban performance.",
+"type": "Casual/Training",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "Sock-like fit; true to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Puma+Vapor+Knit](https://via.placeholder.com/600x400.png?text=Puma+Vapor+Knit)",
+"[https://via.placeholder.com/600x400.png?text=Puma+Vapor+Side](https://via.placeholder.com/600x400.png?text=Puma+Vapor+Side)"
+],
+"model": "Vapor Knit",
+"color": ["Black","Grey"],
+"product_details": {
+"upper_material": "Knit",
+"midsole": "Light foam",
+"outsole": "Rubber",
+"weight_g": 260,
+"release_year": 2022
+},
+"sex": "Unisex",
+"rating": 4.2,
+"stock": 130,
+"categories": ["urban","training"],
+"tags": ["knit","sleek","light"]
+},
+{
+"id": 82,
+"name": "Court Ace LX",
+"brand": "Adidas",
+"sku": "ADD-CALX-082",
+"price": 94.99,
+"description": "Lux leather court shoe with premium sole and refined detailing for elevated style.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Adidas+Court+Ace+LX](https://via.placeholder.com/600x400.png?text=Adidas+Court+Ace+LX)",
+"[https://via.placeholder.com/600x400.png?text=Adidas+Court+Ace+LX+Side](https://via.placeholder.com/600x400.png?text=Adidas+Court+Ace+LX+Side)"
+],
+"model": "Court Ace LX",
+"color": ["Satin White","Beige"],
+"product_details": {
+"upper_material": "Premium leather",
+"midsole": "Cushioning foam",
+"outsole": "Rubber",
+"weight_g": 370,
+"release_year": 2023
+},
+"sex": "Women",
+"rating": 4.4,
+"stock": 110,
+"categories": ["premium","casual"],
+"tags": ["premium","court","leather"]
+},
+{
+"id": 83,
+"name": "Sky Trail Runner",
+"brand": "Brooks",
+"sku": "BRK-STR-083",
+"price": 129.99,
+"description": "Trail runner with protective overlays and grippy outsole for varied terrain.",
+"type": "Trail",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "True to size; protective"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Brooks+Sky+Trail+Runner](https://via.placeholder.com/600x400.png?text=Brooks+Sky+Trail+Runner)",
+"[https://via.placeholder.com/600x400.png?text=Brooks+Trail+Side](https://via.placeholder.com/600x400.png?text=Brooks+Trail+Side)"
+],
+"model": "Sky Trail Runner",
+"color": ["Olive","Brown"],
+"product_details": {
+"upper_material": "Durable mesh",
+"midsole": "DNA Foam",
+"outsole": "Trail rubber",
+"weight_g": 360,
+"release_year": 2022
+},
+"sex": "Men",
+"rating": 4.5,
+"stock": 70,
+"categories": ["trail","outdoor"],
+"tags": ["trail","durable"]
+},
+{
+"id": 84,
+"name": "Daily Knit Slip-On",
+"brand": "Allbirds",
+"sku": "ALB-DKS-084",
+"price": 89.00,
+"description": "Comfortable slip-on made from soft renewable materials with cushioned sole.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11],
+"fit": "True to size; snug knit"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Allbirds+Daily+Knit+Slip-On](https://via.placeholder.com/600x400.png?text=Allbirds+Daily+Knit+Slip-On)",
+"[https://via.placeholder.com/600x400.png?text=Allbirds+Daily+Side](https://via.placeholder.com/600x400.png?text=Allbirds+Daily+Side)"
+],
+"model": "Daily Knit Slip-On",
+"color": ["Natural","Charcoal"],
+"product_details": {
+"upper_material": "Renewable knit",
+"midsole": "Sugarcane foam",
+"outsole": "Rubber",
+"weight_g": 250,
+"release_year": 2021
+},
+"sex": "Unisex",
+"rating": 4.4,
+"stock": 95,
+"categories": ["sustainable","casual"],
+"tags": ["sustainable","slip-on"]
+},
+{
+"id": 85,
+"name": "Endurance Trainer",
+"brand": "Under Armour",
+"sku": "UA-ET-085",
+"price": 114.99,
+"description": "High-stability trainer for heavy-duty workouts with reinforced midfoot support.",
+"type": "Training",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "True to size; supportive"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Under+Armour+Endurance+Trainer](https://via.placeholder.com/600x400.png?text=Under+Armour+Endurance+Trainer)",
+"[https://via.placeholder.com/600x400.png?text=Under+Armour+Endurance+Side](https://via.placeholder.com/600x400.png?text=Under+Armour+Endurance+Side)"
+],
+"model": "Endurance Trainer",
+"color": ["Black","Red"],
+"product_details": {
+"upper_material": "Mesh + overlays",
+"midsole": "Cushioned foam",
+"outsole": "Durable rubber",
+"weight_g": 360,
+"release_year": 2022
+},
+"sex": "Men",
+"rating": 4.3,
+"stock": 80,
+"categories": ["training","gym"],
+"tags": ["support","durable","training"]
+},
+{
+"id": 86,
+"name": "Portland Runner",
+"brand": "Nike",
+"sku": "NIK-PR-086",
+"price": 119.99,
+"description": "Comfortable daily trainer with breathable construction and responsive foam.",
+"type": "Running",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Nike+Portland+Runner](https://via.placeholder.com/600x400.png?text=Nike+Portland+Runner)",
+"[https://via.placeholder.com/600x400.png?text=Nike+Portland+Side](https://via.placeholder.com/600x400.png?text=Nike+Portland+Side)"
+],
+"model": "Portland Runner",
+"color": ["Grey","Black"],
+"product_details": {
+"upper_material": "Mesh",
+"midsole": "React foam",
+"outsole": "Rubber",
+"weight_g": 290,
+"release_year": 2023
+},
+"sex": "Unisex",
+"rating": 4.3,
+"stock": 120,
+"categories": ["running","daily"],
+"tags": ["react","breathable"]
+},
+{
+"id": 87,
+"name": "Classic Boat Shoe",
+"brand": "Sperry",
+"sku": "SPR-CBS-087",
+"price": 99.95,
+"description": "Slip-resistant boat shoe with leather upper and comfortable footbed for boating or casual wear.",
+"type": "Casual/Boat",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "True to size; narrow"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Sperry+Classic+Boat+Shoe](https://via.placeholder.com/600x400.png?text=Sperry+Classic+Boat+Shoe)",
+"[https://via.placeholder.com/600x400.png?text=Sperry+Boat+Side](https://via.placeholder.com/600x400.png?text=Sperry+Boat+Side)"
+],
+"model": "Classic Boat Shoe",
+"color": ["Brown","Navy"],
+"product_details": {
+"upper_material": "Leather",
+"midsole": "Cushioned",
+"outsole": "Non-marking rubber",
+"weight_g": 410,
+"release_year": 2019
+},
+"sex": "Men",
+"rating": 4.5,
+"stock": 90,
+"categories": ["boat","casual"],
+"tags": ["slip-resistant","leather"]
+},
+{
+"id": 88,
+"name": "Street Runner",
+"brand": "Adidas",
+"sku": "ADD-SR-088",
+"price": 99.99,
+"description": "Urban running-inspired sneaker with bold lines and comfortable cushioning.",
+"type": "Casual/Running",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "True to size; comfortable"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Adidas+Street+Runner](https://via.placeholder.com/600x400.png?text=Adidas+Street+Runner)",
+"[https://via.placeholder.com/600x400.png?text=Adidas+Street+Side](https://via.placeholder.com/600x400.png?text=Adidas+Street+Side)"
+],
+"model": "Street Runner",
+"color": ["Black/White","Red"],
+"product_details": {
+"upper_material": "Mesh + synthetic",
+"midsole": "Foam",
+"outsole": "Rubber",
+"weight_g": 320,
+"release_year": 2021
+},
+"sex": "Unisex",
+"rating": 4.1,
+"stock": 130,
+"categories": ["urban","running-style"],
+"tags": ["urban","comfortable"]
+},
+{
+"id": 89,
+"name": "Everyday Lace",
+"brand": "Keds",
+"sku": "KED-EL-089",
+"price": 44.99,
+"description": "Comfortable lace-up canvas shoe with removable insole for easy cleaning.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [5,6,7,8,9,10,11],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Keds+Everyday+Lace](https://via.placeholder.com/600x400.png?text=Keds+Everyday+Lace)",
+"[https://via.placeholder.com/600x400.png?text=Keds+Everyday+Side](https://via.placeholder.com/600x400.png?text=Keds+Everyday+Side)"
+],
+"model": "Everyday Lace",
+"color": ["White","Navy"],
+"product_details": {
+"upper_material": "Canvas",
+"midsole": "Removable insole",
+"outsole": "Rubber",
+"weight_g": 240,
+"release_year": 2018
+},
+"sex": "Women",
+"rating": 3.9,
+"stock": 200,
+"categories": ["casual","school"],
+"tags": ["canvas","simple","affordable"]
+},
+{
+"id": 90,
+"name": "Retro Runner",
+"brand": "New Balance",
+"sku": "NB-RR-090",
+"price": 94.99,
+"description": "Retro-styled runner with suede overlays and comfortable ENCAP midsole.",
+"type": "Casual/Running",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "Roomy; great for wide feet"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=New+Balance+Retro+Runner](https://via.placeholder.com/600x400.png?text=New+Balance+Retro+Runner)",
+"[https://via.placeholder.com/600x400.png?text=New+Balance+Retro+Side](https://via.placeholder.com/600x400.png?text=New+Balance+Retro+Side)"
+],
+"model": "Retro Runner",
+"color": ["Grey/Blue","Brown"],
+"product_details": {
+"upper_material": "Suede/mesh",
+"midsole": "ENCAP",
+"outsole": "Rubber",
+"weight_g": 370,
+"release_year": 2020
+},
+"sex": "Men",
+"rating": 4.3,
+"stock": 110,
+"categories": ["retro","lifestyle"],
+"tags": ["retro","suede","comfortable"]
+},
+{
+"id": 91,
+"name": "Flyknit Racer",
+"brand": "Nike",
+"sku": "NIK-FKR-091",
+"price": 149.99,
+"description": "Ultra-lightweight racer with precision fit and breathable Flyknit upper.",
+"type": "Racing",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12],
+"fit": "Snug; race fit"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Nike+Flyknit+Racer](https://via.placeholder.com/600x400.png?text=Nike+Flyknit+Racer)",
+"[https://via.placeholder.com/600x400.png?text=Nike+Flyknit+Side](https://via.placeholder.com/600x400.png?text=Nike+Flyknit+Side)"
+],
+"model": "Flyknit Racer",
+"color": ["Black/White","Neon"],
+"product_details": {
+"upper_material": "Flyknit",
+"midsole": "Light foam",
+"outsole": "Rubber",
+"weight_g": 165,
+"release_year": 2019
+},
+"sex": "Unisex",
+"rating": 4.6,
+"stock": 45,
+"categories": ["racing","lightweight"],
+"tags": ["flyknit","racing","light"]
+},
+{
+"id": 92,
+"name": "Classic Court Mid",
+"brand": "Adidas",
+"sku": "ADD-CCM-092",
+"price": 89.99,
+"description": "Mid top classic tennis shoe with leather upper and versatile styling.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Adidas+Classic+Court+Mid](https://via.placeholder.com/600x400.png?text=Adidas+Classic+Court+Mid)",
+"[https://via.placeholder.com/600x400.png?text=Adidas+Court+Mid+Side](https://via.placeholder.com/600x400.png?text=Adidas+Court+Mid+Side)"
+],
+"model": "Classic Court Mid",
+"color": ["White","Navy"],
+"product_details": {
+"upper_material": "Leather",
+"midsole": "Cushioned foam",
+"outsole": "Rubber",
+"weight_g": 380,
+"release_year": 2021
+},
+"sex": "Men",
+"rating": 4.2,
+"stock": 120,
+"categories": ["casual","mid-top"],
+"tags": ["mid-top","classic"]
+},
+{
+"id": 93,
+"name": "Glide Step",
+"brand": "Skechers",
+"sku": "SKC-GS-093",
+"price": 69.99,
+"description": "Everyday slip-on with ultra comfort insole and breathable upper for all-day wear.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "True to size; very cushioned"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Skechers+Glide+Step](https://via.placeholder.com/600x400.png?text=Skechers+Glide+Step)",
+"[https://via.placeholder.com/600x400.png?text=Skechers+Glide+Side](https://via.placeholder.com/600x400.png?text=Skechers+Glide+Side)"
+],
+"model": "Glide Step",
+"color": ["Black","Grey"],
+"product_details": {
+"upper_material": "Mesh",
+"midsole": "Memory foam",
+"outsole": "Rubber",
+"weight_g": 320,
+"release_year": 2022
+},
+"sex": "Women",
+"rating": 4.0,
+"stock": 150,
+"categories": ["comfort","casual"],
+"tags": ["memory foam","slip-on"]
+},
+{
+"id": 94,
+"name": "Fast Track Pro",
+"brand": "Nike",
+"sku": "NIK-FTP-094",
+"price": 179.99,
+"description": "Advanced racing shoe with plate technology and lightweight upper for peak performance.",
+"type": "Racing",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "Race fit; size up if between sizes"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Nike+Fast+Track+Pro](https://via.placeholder.com/600x400.png?text=Nike+Fast+Track+Pro)",
+"[https://via.placeholder.com/600x400.png?text=Nike+Fast+Track+Side](https://via.placeholder.com/600x400.png?text=Nike+Fast+Track+Side)"
+],
+"model": "Fast Track Pro",
+"color": ["White/Red","Black"],
+"product_details": {
+"upper_material": "Featherweight mesh",
+"midsole": "Carbon plate + responsive foam",
+"outsole": "Grip rubber",
+"weight_g": 200,
+"release_year": 2024
+},
+"sex": "Men",
+"rating": 4.9,
+"stock": 25,
+"categories": ["racing","elite"],
+"tags": ["carbon-plate","race","lightweight"]
+},
+{
+"id": 95,
+"name": "Heritage Lo Pro",
+"brand": "Clarks",
+"sku": "CLK-HLP-095",
+"price": 109.00,
+"description": "Refined loafer with supple leather and cushioned footbed for smart-casual styling.",
+"type": "Casual/Formal",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Clarks+Heritage+Lo+Pro](https://via.placeholder.com/600x400.png?text=Clarks+Heritage+Lo+Pro)",
+"[https://via.placeholder.com/600x400.png?text=Clarks+Heritage+Side](https://via.placeholder.com/600x400.png?text=Clarks+Heritage+Side)"
+],
+"model": "Heritage Lo Pro",
+"color": ["Tan","Black"],
+"product_details": {
+"upper_material": "Premium leather",
+"midsole": "Cushioned insole",
+"outsole": "Rubber",
+"weight_g": 410,
+"release_year": 2019
+},
+"sex": "Men",
+"rating": 4.4,
+"stock": 85,
+"categories": ["formal","casual"],
+"tags": ["loafers","leather","smart"]
+},
+{
+"id": 96,
+"name": "Hike Lite Mid",
+"brand": "Merrell",
+"sku": "MRL-HLM-096",
+"price": 129.00,
+"description": "Lightweight mid-cut hiking shoe offering ankle support and breathable comfort.",
+"type": "Hiking",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12,13],
+"fit": "True to size; supportive"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Merrell+Hike+Lite+Mid](https://via.placeholder.com/600x400.png?text=Merrell+Hike+Lite+Mid)",
+"[https://via.placeholder.com/600x400.png?text=Merrell+Hike+Side](https://via.placeholder.com/600x400.png?text=Merrell+Hike+Side)"
+],
+"model": "Hike Lite Mid",
+"color": ["Brown","Green"],
+"product_details": {
+"upper_material": "Suede + mesh",
+"midsole": "EVA",
+"outsole": "Vibram",
+"weight_g": 520,
+"release_year": 2021
+},
+"sex": "Unisex",
+"rating": 4.5,
+"stock": 60,
+"categories": ["hiking","mid-cut"],
+"tags": ["lightweight","support"]
+},
+{
+"id": 97,
+"name": "Classic Heritage",
+"brand": "Dr. Martens",
+"sku": "DM-CH-097",
+"price": 139.00,
+"description": "Heritage lace-up boot with Goodyear welt and iconic rugged styling.",
+"type": "Boot",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "Runs large; break-in period expected"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=DrMartens+Classic+Heritage](https://via.placeholder.com/600x400.png?text=DrMartens+Classic+Heritage)",
+"[https://via.placeholder.com/600x400.png?text=DrMartens+Heritage+Side](https://via.placeholder.com/600x400.png?text=DrMartens+Heritage+Side)"
+],
+"model": "Classic Heritage",
+"color": ["Black","Cherry"],
+"product_details": {
+"upper_material": "Leather",
+"midsole": "Air-cushioned",
+"outsole": "Rubber",
+"weight_g": 700,
+"release_year": 2015
+},
+"sex": "Unisex",
+"rating": 4.6,
+"stock": 70,
+"categories": ["boots","heritage"],
+"tags": ["goodyear","durable","iconic"]
+},
+{
+"id": 98,
+"name": "Stride Pro",
+"brand": "Nike",
+"sku": "NIK-SP-098",
+"price": 129.99,
+"description": "Versatile daily trainer with stable cushion and breathable feed-forward upper.",
+"type": "Training",
+"size_and_fit": {
+"available_sizes": [7,8,9,10,11,12],
+"fit": "True to size"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Nike+Stride+Pro](https://via.placeholder.com/600x400.png?text=Nike+Stride+Pro)",
+"[https://via.placeholder.com/600x400.png?text=Nike+Stride+Pro+Side](https://via.placeholder.com/600x400.png?text=Nike+Stride+Pro+Side)"
+],
+"model": "Stride Pro",
+"color": ["Black/White","Grey"],
+"product_details": {
+"upper_material": "Breathable mesh",
+"midsole": "Stability foam",
+"outsole": "Rubber",
+"weight_g": 300,
+"release_year": 2022
+},
+"sex": "Men",
+"rating": 4.3,
+"stock": 130,
+"categories": ["training","daily"],
+"tags": ["versatile","stable"]
+},
+{
+"id": 99,
+"name": "Revolution Runner",
+"brand": "Adidas",
+"sku": "ADD-RR-099",
+"price": 109.99,
+"description": "Responsive running shoe built for everyday miles with cushioned midsole and breathable upper.",
+"type": "Running",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12],
+"fit": "True to size; comfortable"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=Adidas+Revolution+Runner](https://via.placeholder.com/600x400.png?text=Adidas+Revolution+Runner)",
+"[https://via.placeholder.com/600x400.png?text=Adidas+Revolution+Side](https://via.placeholder.com/600x400.png?text=Adidas+Revolution+Side)"
+],
+"model": "Revolution Runner",
+"color": ["Black","Grey"],
+"product_details": {
+"upper_material": "Mesh",
+"midsole": "Lightweight foam",
+"outsole": "Rubber",
+"weight_g": 300,
+"release_year": 2021
+},
+"sex": "Women",
+"rating": 4.2,
+"stock": 140,
+"categories": ["running","everyday"],
+"tags": ["responsive","breathable"]
+},
+{
+"id": 100,
+"name": "Everyday Heritage",
+"brand": "New Balance",
+"sku": "NB-EH-100",
+"price": 99.99,
+"description": "Versatile everyday sneaker with heritage styling and cushioned comfort.",
+"type": "Casual",
+"size_and_fit": {
+"available_sizes": [6,7,8,9,10,11,12,13],
+"fit": "True to size; roomy toe"
+},
+"images": [
+"[https://via.placeholder.com/600x400.png?text=New+Balance+Everyday+Heritage](https://via.placeholder.com/600x400.png?text=New+Balance+Everyday+Heritage)",
+"[https://via.placeholder.com/600x400.png?text=New+Balance+Heritage+Side](https://via.placeholder.com/600x400.png?text=New+Balance+Heritage+Side)"
+],
+"model": "Everyday Heritage",
+"color": ["Grey","Navy"],
+"product_details": {
+"upper_material": "Suede + mesh",
+"midsole": "ENCAP",
+"outsole": "Rubber",
+"weight_g": 365,
+"release_year": 2022
+},
+"sex": "Unisex",
+"rating": 4.3,
+"stock": 150,
+"categories": ["lifestyle","heritage"],
+"tags": ["heritage","comfortable","suede"]
+}
+]
