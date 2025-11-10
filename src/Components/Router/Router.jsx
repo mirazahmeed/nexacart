@@ -1,19 +1,22 @@
-// src/Components/Router/Router.jsx
-import React from "react";
-import { createBrowserRouter } from "react-router-dom"; // <- react-router-dom
-import Root from "../Root/Root";
-import Home from "../Home/Home";
-import Navbar from "../Navbar/Navbar";
+import React from 'react'
+import { createBrowserRouter } from 'react-router';
+import Root from '../Root/Root';
+import Home from '../Home/Home';
+import Men from '../Products/Men/Men';
+import Women from '../Products/Women/Women';
+import Kids from '../Products/Kids/Kids';
 
-const router = createBrowserRouter([
-  {
-    path: "/",
-    element: <Root />,           // element property (JSX)
-    children: [
-      { index: true, element: <Home /> },      // index route
-      { path: "navbar", element: <Navbar /> }  // /navbar
-    ],
-  },
+
+
+export const router = createBrowserRouter([
+  {     path: "/",
+        Component: Root,
+        children: [
+            {index: true, Component: Home},
+            {path: "men", Component: Men},
+            {path:"women", Component: Women},
+            {path:"kids", Component: Kids},
+
+        ]
+        }
 ]);
-
-export default router; // export the router object
