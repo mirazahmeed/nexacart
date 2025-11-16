@@ -1,124 +1,118 @@
-import React from "react";
-// import "./Navbar.css";
-import "./Navbar.css";
+import React, { useState } from "react";
+
 import { Link, NavLink } from "react-router";
+import "./Navbar.css"
+
 
 const Navbar = () => {
+    const [visible, setVisible] = useState(false);
     return (
-        <div>
-            <div className="flex items-center justify-between py-5 px-5 font-medium">
-                <Link to="/">
-                    <h1 className="caveat">NexaCart</h1>
-                </Link>
-                <ul className="hidden sm:flex gap-5 text-sm text-gray-700">
-                    <NavLink to="/" className="flex flex-col items-center gap-1">
-                        <p>HOME</p>
-                        <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
-                    </NavLink>
-                    <NavLink to="/men" className="flex flex-col items-center gap-1">
-                        <p>MEN</p>
-                        <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
-                    </NavLink>
-                    <NavLink to="/women" className="flex flex-col items-center gap-1">
-                        <p>WOMEN</p>
-                        <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
-                    </NavLink>
-                    <NavLink to="/kids" className="flex flex-col items-center gap-1">
-                        <p>KIDS</p>
-                        <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
-                    </NavLink>
-                    <NavLink to="" className="flex flex-col items-center gap-1">
-                        <p>ABOUT</p>
-                        <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
-                    </NavLink>
-                </ul>
-                <div>
-                    <a href="">
-                        <button>
-                            <svg
-                                xmlns="http://www.w3.org/2000/svg"
-                                fill="none"
-                                viewBox="0 0 24 24"
-                                strokeWidth={1.5}
-                                stroke="currentColor"
-                                className="size-6"
-                            >
-                                <path
-                                    strokeLinecap="round"
-                                    strokeLinejoin="round"
-                                    d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0A17.933 17.933 0 0 1 12 21.75c-2.676 0-5.216-.584-7.499-1.632Z"
-                                />
-                            </svg>
-                        </button>
-                    </a>
-                    <a href="">
-                        {" "}
-                        <button>
-                            <svg
-                                xmlns="http://www.w3.org/2000/svg"
-                                fill="none"
-                                viewBox="0 0 24 24"
-                                strokeWidth={1.5}
-                                stroke="currentColor"
-                                className="size-6"
-                            >
-                                <path
-                                    strokeLinecap="round"
-                                    strokeLinejoin="round"
-                                    d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 0 0-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 0 0-16.536-1.84M7.5 14.25 5.106 5.272M6 20.25a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Zm12.75 0a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Z"
-                                />
-                            </svg>
-                        </button>
-                    </a>
-                </div>
-                {/* sidebar menu for sm screen */}
-                {/* <div
-                    className={`absolute top-0 right-0 bottom-0 overflow-hidden bg-white transition-all ${
-                        visible ? "w-full" : "w-0"
-                    }`}
-                >
-                    <div className="flex flex-col text-gray-600">
-                        <div
-                            onClick={() => setVisible(false)}
-                            className="flex items-center gap-4 p-3 cursor-pointer"
-                        >
-                            <img
-                                className="h-4 rotate-180"
-                                src={assets.dropdown_icon}
-                                alt=""
-                            />
-                            <p>Back</p>
+        <div className="flex items-center justify-between px-3 py-5 font-medium">
+            <Link to="/">
+                <h3 className="font-black underline">NEXACART</h3>
+            </Link>
+            <ul className="hidden sm:flex gap-5 text-sm text-gray-700">
+                <NavLink to="/">
+                    <p>Home</p>
+                    <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
+                </NavLink>
+                <NavLink to="/men">
+                    <p>Men</p>
+                    <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
+                </NavLink>
+                <NavLink to='women'>
+                    <p>Women</p>
+                    <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
+                </NavLink>
+                <NavLink>
+                    <p>Kids</p>
+                    <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
+                </NavLink>
+            </ul>
+            <div className="flex items-center gap-6">
+                <div className="group relative">
+                    <img
+                        src={"src/assets/CoverPics/profile_icon.png"}
+                        className="w-5 cursor-pointer"
+                        alt=""
+                    />
+                    <div className="group-hover:block hidden absolute dropdown-menu right-0 pt-4">
+                        <div className="flex flex-col gap-2 w-36 py-3 px-5 bg-slate-100 text-gray-500 rounded">
+                            <p className="cursor-pointer hover:text-black">
+                                My Profile
+                            </p>
+                            <p className="cursor-pointer hover:text-black">
+                                Orders
+                            </p>
+                            <p className="cursor-pointer hover:text-black">
+                                Logout
+                            </p>
                         </div>
-                        <NavLink
-                            onClick={() => setVisible(false)}
-                            className="py-2 pl-6 border"
-                            to="/"
-                        >
-                            HOME
-                        </NavLink>
-                        <NavLink
-                            onClick={() => setVisible(false)}
-                            className="py-2 pl-6 border"
-                            to="/collection"
-                        >
-                            COLLECTION
-                        </NavLink>
-                        <NavLink
-                            onClick={() => setVisible(false)}
-                            className="py-2 pl-6 border"
-                            to="/about"
-                        >
-                            ABOUT
-                        </NavLink>
-                        <NavLink
-                            onClick={() => setVisible(false)}
-                            className="py-2 pl-6 border"
-                            to="/contact"
-                        >
-                            CONTACT
-                        </NavLink>
                     </div>
-                </div> */}
+                </div>
+                <Link to="/cart" className="relative">
+                    <img
+                        src={"src/assets/CoverPics/cart_icon.png"}
+                        className="w-5 min-w-5"
+                        alt=""
+                    />
+                    <p className="absolute right-[-5px] bottom-[-5px] w-4 text-center leading-4 bg-black text-white aspect-square rounded-full text-[8px]">
+                        10
+                    </p>
+                </Link>
+                <img
+                    onClick={() => setVisible(true)}
+                    src={"src/assets/CoverPics/menu_icon.png"}
+                    className="w-5 cursor-pointer sm:hidden"
+                    alt=""
+                />
+            </div>
+            <div
+                className={`z-10 absolute top-0 right-0 bottom-0 overflow-hidden bg-white transition-all ${
+                    visible ? "w-2/3" : "w-0"
+                }`}
+            >
+                <div className="flex flex-col px-2 text-gray-600">
+                    <div
+                        onClick={() => setVisible(false)}
+                        className="flex items-center gap-4 p-3 cursor-pointer"
+                    >
+                        <img
+                            className="h-4 rotate-180"
+                            src={"src/assets/CoverPics/dropdown_icon.png"}
+                            alt=""
+                        />
+                        <p>Back</p>
+                    </div>
+                    <NavLink
+                        onClick={() => setVisible(false)}
+                        className="py-2 pl-6 border"
+                        to="/"
+                    >
+                        MEN
+                    </NavLink>
+                    <NavLink
+                        onClick={() => setVisible(false)}
+                        className="py-2 pl-6 border"
+                        to="/collection"
+                    >
+                        Women
+                    </NavLink>
+                    <NavLink
+                        onClick={() => setVisible(false)}
+                        className="py-2 pl-6 border"
+                        to="/about"
+                    >
+                        KIDS
+                    </NavLink>
+                    <NavLink
+                        onClick={() => setVisible(false)}
+                        className="py-2 pl-6 border"
+                        to="/contact"
+                    >
+                        CONTACT
+                    </NavLink>
+                </div>
             </div>
         </div>
     );

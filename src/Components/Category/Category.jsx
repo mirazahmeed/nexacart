@@ -14,7 +14,7 @@ const Category = () => {
                     <div className="card bg-base-100 w-96 shadow-sm rounded-none">
                         <figure className="">
                             <img
-                                src="sneaker.jpg"
+                                src="CoverPics/sneaker.jpg"
                                 alt="Shoes"
                                 className="h-57 w-full object-cover"
                             />

@@ -2,9 +2,9 @@ import React from "react";
 import { createBrowserRouter } from "react-router";
 import Root from "../Root/Root";
 import Home from "../Home/Home";
-import Men from "../Products/Men/Men";
-import Women from "../Products/Women/Women";
-import Kids from "../Products/Kids/Kids";
+import Men from "../../Pages/Men/Men";
+import Women from "../../Pages/Women/Women";
+import Kids from "../../Pages/Kids/Kids";
 
 export const router = createBrowserRouter([
     {
