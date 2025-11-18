@@ -1,4 +1,5 @@
 import React from "react";
+import { asstes } from "../../assets/assets";
 
 const Category = () => {
     return (
@@ -14,14 +15,14 @@ const Category = () => {
                     <div className="card bg-base-100 w-96 shadow-sm rounded-none">
                         <figure className="">
                             <img
-                                src="CoverPics/sneaker.jpg"
+                                src={asstes.SneakerC}
                                 alt="Shoes"
                                 className="h-57 w-full object-cover"
                             />
                         </figure>
                         <div className="card-body">
                             <h2 className="card-title">
-                                sneaker
+                                Sneaker
                                 <div className="badge text-red-500 border-red-400">
                                     NEW
                                 </div>
@@ -37,14 +38,14 @@ const Category = () => {
                     <div className="card bg-base-100 w-96 shadow-sm rounded-none">
                         <figure>
                             <img
-                                src="casual.jpg"
+                                src={asstes.ClothingC}
                                 alt="Shoes"
                                 className="h-57 w-full object-cover"
                             />
                         </figure>
                         <div className="card-body">
                             <h2 className="card-title">
-                                Casual
+                                Clothing
                                 <div className="badge text-red-500 border-red-400">
                                     NEW
                                 </div>
@@ -60,14 +61,14 @@ const Category = () => {
                     <div className="card bg-base-100 w-96 shadow-sm rounded-none">
                         <figure>
                             <img
-                                src="boot.jpg"
+                                src={asstes.AccessoriesC}
                                 alt="Shoes"
                                 className="h-57 w-full object-cover"
                             />
                         </figure>
                         <div className="card-body">
                             <h2 className="card-title">
-                                Boot
+                                Assaacories
                                 <div className="badge text-red-500 border-red-400">
                                     NEW
                                 </div>

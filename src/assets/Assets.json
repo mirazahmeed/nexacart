@@ -1,14 +1,26 @@
+
+
+
+
+
+
+
+
+
+
+
+
 [
 {
-"id": 1,
-"name": "AirMax Runner",
-"brand": "Nike",
-"sku": "NIK-AMR-001",
-"price": 129.99,
-"description": "Lightweight running shoe with responsive Air cushioning and breathable mesh upper.",
-"type": "Running",
-"size_and_fit": {
-"available_sizes": [7,8,9,10,11,12,13],
+    "id": 1,
+    "name": "AirMax Runner",
+    "brand": "Nike",
+    "sku": "NIK-AMR-001",
+    "price": 129.99,
+    "description": "Lightweight running shoe with responsive Air cushioning and breathable mesh upper.",
+    "type": "Running",
+    "size_and_fit": {
+    "available_sizes": [7,8,9,10,11,12,13],
 "fit": "True to size; narrow toe box"
 },
 "images": [
@@ -3098,5 +3110,3107 @@
 "stock": 150,
 "categories": ["lifestyle","heritage"],
 "tags": ["heritage","comfortable","suede"]
-}
+},
+
+
+{
+    "id": 101,
+    "name": "Sport Essentials Fleece Hoodie",
+    "brand": "Nike",
+    "sku": "NIK-SportEssFleeceH-101",
+    "price": 49.99,
+    "description": "Cozy fleece hoodie built for warmups and everyday comfort.",
+    "type": "Hoodie",
+    "size_and_fit": {
+      "available_sizes": ["XS","S","M","L","XL","XXL"],
+      "fit": "Regular fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Nike+Sport+Essentials+Fleece+Hoodie",
+      "https://via.placeholder.com/600x400.png?text=Nike+Sport+Essentials+Fleece+Hoodie+2"
+    ],
+    "model": "Sport Essentials Fleece Hoodie",
+    "color": ["Black","Grey"],
+    "product_details": {
+      "material": "Cotton blend fleece",
+      "care": "Machine wash cold",
+      "weight_g": 420,
+      "release_year": 2023,
+      "fit_type": "Regular fit"
+    },
+    "sex": "Unisex",
+    "rating": 4.3,
+    "stock": 180,
+    "categories": ["training","lifestyle","athleisure"],
+    "tags": ["fleece","cozy"]
+  },
+  {
+    "id": 102,
+    "name": "Sport Essentials Fleece Jogger",
+    "brand": "Adidas",
+    "sku": "ADD-SportEssFleeceJ-102",
+    "price": 44.99,
+    "description": "Soft fleece jogger with elastic hem and comfy waistband.",
+    "type": "Jogger",
+    "size_and_fit": {
+      "available_sizes": ["XS","S","M","L","XL"],
+      "fit": "Relaxed fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Adidas+Sport+Essentials+Fleece+Jogger",
+      "https://via.placeholder.com/600x400.png?text=Adidas+Sport+Essentials+Fleece+Jogger+2"
+    ],
+    "model": "Sport Essentials Fleece Jogger",
+    "color": ["Navy","Charcoal"],
+    "product_details": {
+      "material": "French Terry",
+      "care": "Machine wash gentle",
+      "weight_g": 380,
+      "release_year": 2022,
+      "fit_type": "Relaxed fit"
+    },
+    "sex": "Men",
+    "rating": 4.2,
+    "stock": 140,
+    "categories": ["training","loungewear"],
+    "tags": ["fleece","comfort"]
+  },
+  {
+    "id": 103,
+    "name": "Linear Heritage Fleece Full Zip",
+    "brand": "Reebok",
+    "sku": "RBK-LinearHerFZ-103",
+    "price": 59.99,
+    "description": "Full-zip fleece jacket with clean linear branding for everyday wear.",
+    "type": "Jacket",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "True to size"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Reebok+Linear+Heritage+Fleece+Full+Zip",
+      "https://via.placeholder.com/600x400.png?text=Reebok+Linear+Heritage+Fleece+Full+Zip+2"
+    ],
+    "model": "Linear Heritage Fleece Full Zip",
+    "color": ["Burgundy","Black"],
+    "product_details": {
+      "material": "Polyester fleece",
+      "care": "Machine wash cold",
+      "weight_g": 360,
+      "release_year": 2021,
+      "fit_type": "Regular fit"
+    },
+    "sex": "Women",
+    "rating": 4.4,
+    "stock": 95,
+    "categories": ["casual","outerwear"],
+    "tags": ["zip","heritage"]
+  },
+  {
+    "id": 104,
+    "name": "Linear Heritage Fleece Wide Leg Pant",
+    "brand": "Puma",
+    "sku": "PMA-LinearHerWidePant-104",
+    "price": 54.99,
+    "description": "Wide-leg fleece pants with a relaxed silhouette for comfort.",
+    "type": "Pants",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Wide-leg relaxed"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Puma+Linear+Heritage+Fleece+Wide+Leg+Pant",
+      "https://via.placeholder.com/600x400.png?text=Puma+Linear+Heritage+Fleece+Wide+Leg+Pant+2"
+    ],
+    "model": "Linear Heritage Fleece Wide Leg Pant",
+    "color": ["Olive","Stone"],
+    "product_details": {
+      "material": "Cotton blend",
+      "care": "Machine wash cold",
+      "weight_g": 410,
+      "release_year": 2022,
+      "fit_type": "Wide leg"
+    },
+    "sex": "Women",
+    "rating": 4.1,
+    "stock": 80,
+    "categories": ["loungewear","athleisure"],
+    "tags": ["wide-leg","relaxed"]
+  },
+  {
+    "id": 105,
+    "name": "Athletics French Terry Jogger",
+    "brand": "New Balance",
+    "sku": "NB-AthFTJogger-105",
+    "price": 49.99,
+    "description": "French terry jogger engineered for light training and city comfort.",
+    "type": "Jogger",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL","XXL"],
+      "fit": "Regular fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=New+Balance+Athletics+French+Terry+Jogger",
+      "https://via.placeholder.com/600x400.png?text=New+Balance+Athletics+French+Terry+Jogger+2"
+    ],
+    "model": "Athletics French Terry Jogger",
+    "color": ["Grey","Navy"],
+    "product_details": {
+      "material": "French Terry (cotton blend)",
+      "care": "Machine wash gentle",
+      "weight_g": 360,
+      "release_year": 2023,
+      "fit_type": "Regular"
+    },
+    "sex": "Men",
+    "rating": 4.3,
+    "stock": 110,
+    "categories": ["training","athleisure"],
+    "tags": ["french-terry","comfortable"]
+  },
+  {
+    "id": 106,
+    "name": "Athletics French Terry Hoodie",
+    "brand": "Nike",
+    "sku": "NIK-AthFTHoodie-106",
+    "price": 54.99,
+    "description": "Soft French terry hoodie for warmups and casual wear.",
+    "type": "Hoodie",
+    "size_and_fit": {
+      "available_sizes": ["XS","S","M","L","XL"],
+      "fit": "Regular fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Nike+Athletics+French+Terry+Hoodie",
+      "https://via.placeholder.com/600x400.png?text=Nike+Athletics+French+Terry+Hoodie+2"
+    ],
+    "model": "Athletics French Terry Hoodie",
+    "color": ["Black","Heather Grey"],
+    "product_details": {
+      "material": "Cotton/polyester",
+      "care": "Machine wash cold",
+      "weight_g": 400,
+      "release_year": 2022,
+      "fit_type": "Regular fit"
+    },
+    "sex": "Unisex",
+    "rating": 4.5,
+    "stock": 160,
+    "categories": ["training","loungewear"],
+    "tags": ["french-terry","warm"]
+  },
+  {
+    "id": 107,
+    "name": "RC Short 5\"",
+    "brand": "Adidas",
+    "sku": "ADD-RCShort5-107",
+    "price": 29.99,
+    "description": "Lightweight 5-inch running short with breathable lining.",
+    "type": "Shorts",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "True to size; short inseam"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Adidas+RC+Short+5inch",
+      "https://via.placeholder.com/600x400.png?text=Adidas+RC+Short+5inch+2"
+    ],
+    "model": "RC Short 5\"",
+    "color": ["Black","Blue"],
+    "product_details": {
+      "material": "Lightweight polyester",
+      "care": "Machine wash cold",
+      "weight_g": 120,
+      "release_year": 2021,
+      "fit_type": "Athletic"
+    },
+    "sex": "Men",
+    "rating": 4.0,
+    "stock": 220,
+    "categories": ["running","shorts"],
+    "tags": ["lightweight","breathable"]
+  },
+  {
+    "id": 108,
+    "name": "High Pile Printed Jacket",
+    "brand": "Puma",
+    "sku": "PMA-HighPilePrintJ-108",
+    "price": 89.99,
+    "description": "High-pile fleece jacket with printed details for style and warmth.",
+    "type": "Jacket",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Relaxed fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Puma+High+Pile+Printed+Jacket",
+      "https://via.placeholder.com/600x400.png?text=Puma+High+Pile+Printed+Jacket+2"
+    ],
+    "model": "High Pile Printed Jacket",
+    "color": ["Cream","Forest"],
+    "product_details": {
+      "material": "High-pile polyester",
+      "care": "Machine wash cold; do not bleach",
+      "weight_g": 520,
+      "release_year": 2023,
+      "fit_type": "Relaxed"
+    },
+    "sex": "Women",
+    "rating": 4.4,
+    "stock": 60,
+    "categories": ["outerwear","fashion"],
+    "tags": ["high-pile","printed"]
+  },
+  {
+    "id": 109,
+    "name": "NB Essential Run Bra",
+    "brand": "New Balance",
+    "sku": "NB-EssRunBra-109",
+    "price": 24.99,
+    "description": "Light support sports bra designed for easy runs and gym sessions.",
+    "type": "Sports Bra",
+    "size_and_fit": {
+      "available_sizes": ["XS","S","M","L","XL"],
+      "fit": "Compression fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=New+Balance+Essential+Run+Bra",
+      "https://via.placeholder.com/600x400.png?text=New+Balance+Essential+Run+Bra+2"
+    ],
+    "model": "Essential Run Bra",
+    "color": ["Black","Blush"],
+    "product_details": {
+      "material": "Recycled polyester + spandex",
+      "care": "Machine wash cold",
+      "weight_g": 85,
+      "release_year": 2022,
+      "fit_type": "Compression"
+    },
+    "sex": "Women",
+    "rating": 4.2,
+    "stock": 200,
+    "categories": ["running","support"],
+    "tags": ["supportive","lightweight"]
+  },
+  {
+    "id": 110,
+    "name": "Sport Essentials Logo T-Shirt",
+    "brand": "Nike",
+    "sku": "NIK-SportEssLogoTS-110",
+    "price": 19.99,
+    "description": "Classic logo tee made from soft cotton blend for everyday wear.",
+    "type": "T-Shirt",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL","XXL"],
+      "fit": "Regular"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Nike+Sport+Essentials+Logo+T-Shirt",
+      "https://via.placeholder.com/600x400.png?text=Nike+Sport+Essentials+Logo+T-Shirt+2"
+    ],
+    "model": "Sport Essentials Logo T-Shirt",
+    "color": ["White","Black"],
+    "product_details": {
+      "material": "Cotton blend",
+      "care": "Machine wash cold",
+      "weight_g": 170,
+      "release_year": 2021,
+      "fit_type": "Regular"
+    },
+    "sex": "Unisex",
+    "rating": 4.1,
+    "stock": 320,
+    "categories": ["casual","training"],
+    "tags": ["logo","cotton"]
+  },
+  {
+    "id": 111,
+    "name": "RC Short 3\"",
+    "brand": "Adidas",
+    "sku": "ADD-RCShort3-111",
+    "price": 24.99,
+    "description": "3-inch short with lightweight lining for track and training.",
+    "type": "Shorts",
+    "size_and_fit": {
+      "available_sizes": ["XS","S","M","L"],
+      "fit": "True to size"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Adidas+RC+Short+3inch",
+      "https://via.placeholder.com/600x400.png?text=Adidas+RC+Short+3inch+2"
+    ],
+    "model": "RC Short 3\"",
+    "color": ["Black","Red"],
+    "product_details": {
+      "material": "Lightweight polyester",
+      "care": "Machine wash cold",
+      "weight_g": 100,
+      "release_year": 2020,
+      "fit_type": "Athletic"
+    },
+    "sex": "Women",
+    "rating": 4.0,
+    "stock": 210,
+    "categories": ["running","shorts"],
+    "tags": ["track","lightweight"]
+  },
+  {
+    "id": 112,
+    "name": "NB Harmony High Rise Legging 27\"",
+    "brand": "New Balance",
+    "sku": "NB-HarmonyHRL27-112",
+    "price": 59.99,
+    "description": "High-rise 27\" legging with four-way stretch for studio or runs.",
+    "type": "Legging",
+    "size_and_fit": {
+      "available_sizes": ["XS","S","M","L","XL"],
+      "fit": "High-rise, compression"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=New+Balance+Harmony+High+Rise+Legging+27",
+      "https://via.placeholder.com/600x400.png?text=New+Balance+Harmony+High+Rise+Legging+27+2"
+    ],
+    "model": "Harmony High Rise Legging 27\"",
+    "color": ["Black","Navy"],
+    "product_details": {
+      "material": "Recycled polyester + elastane",
+      "care": "Machine wash cold; tumble low",
+      "weight_g": 220,
+      "release_year": 2023,
+      "fit_type": "High-rise compression"
+    },
+    "sex": "Women",
+    "rating": 4.5,
+    "stock": 150,
+    "categories": ["yoga","training"],
+    "tags": ["high-waist","stretch"]
+  },
+  {
+    "id": 113,
+    "name": "Performance Tank",
+    "brand": "Under Armour",
+    "sku": "UA-PerformanceTank-113",
+    "price": 21.99,
+    "description": "Breathable performance tank designed for workouts and hot days.",
+    "type": "Tank",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Slim fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Under+Armour+Performance+Tank",
+      "https://via.placeholder.com/600x400.png?text=Under+Armour+Performance+Tank+2"
+    ],
+    "model": "Performance Tank",
+    "color": ["White","Black"],
+    "product_details": {
+      "material": "Polyester mesh",
+      "care": "Machine wash cold",
+      "weight_g": 110,
+      "release_year": 2022,
+      "fit_type": "Slim"
+    },
+    "sex": "Men",
+    "rating": 4.2,
+    "stock": 190,
+    "categories": ["training","running"],
+    "tags": ["breathable","mesh"]
+  },
+  {
+    "id": 114,
+    "name": "Mesh Training Tee",
+    "brand": "Puma",
+    "sku": "PMA-MeshTrainingTee-114",
+    "price": 17.99,
+    "description": "Lightweight mesh tee for high-intensity sessions.",
+    "type": "T-Shirt",
+    "size_and_fit": {
+      "available_sizes": ["XS","S","M","L","XL"],
+      "fit": "Regular fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Puma+Mesh+Training+Tee",
+      "https://via.placeholder.com/600x400.png?text=Puma+Mesh+Training+Tee+2"
+    ],
+    "model": "Mesh Training Tee",
+    "color": ["Grey","Blue"],
+    "product_details": {
+      "material": "Polyester mesh",
+      "care": "Machine wash cold",
+      "weight_g": 120,
+      "release_year": 2021,
+      "fit_type": "Breathable fit"
+    },
+    "sex": "Unisex",
+    "rating": 4.0,
+    "stock": 230,
+    "categories": ["training","gym"],
+    "tags": ["mesh","breathable"]
+  },
+  {
+    "id": 115,
+    "name": "Compression Long Sleeve",
+    "brand": "Nike",
+    "sku": "NIK-CompressionLS-115",
+    "price": 39.99,
+    "description": "Compression long sleeve top for muscle support and recovery.",
+    "type": "Base Layer",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Compression fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Nike+Compression+Long+Sleeve",
+      "https://via.placeholder.com/600x400.png?text=Nike+Compression+Long+Sleeve+2"
+    ],
+    "model": "Compression Long Sleeve",
+    "color": ["Black","Graphite"],
+    "product_details": {
+      "material": "Polyester + elastane",
+      "care": "Machine wash cold",
+      "weight_g": 150,
+      "release_year": 2020,
+      "fit_type": "Compression"
+    },
+    "sex": "Men",
+    "rating": 4.4,
+    "stock": 130,
+    "categories": ["compression","training"],
+    "tags": ["compression","support"]
+  },
+  {
+    "id": 116,
+    "name": "Run Tech Tee",
+    "brand": "Adidas",
+    "sku": "ADD-RunTechTee-116",
+    "price": 22.99,
+    "description": "Moisture-wicking run tee engineered for daily runs.",
+    "type": "T-Shirt",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL","XXL"],
+      "fit": "Regular fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Adidas+Run+Tech+Tee",
+      "https://via.placeholder.com/600x400.png?text=Adidas+Run+Tech+Tee+2"
+    ],
+    "model": "Run Tech Tee",
+    "color": ["Neon","Black"],
+    "product_details": {
+      "material": "Quick-dry polyester",
+      "care": "Machine wash cold",
+      "weight_g": 125,
+      "release_year": 2023,
+      "fit_type": "Regular"
+    },
+    "sex": "Unisex",
+    "rating": 4.3,
+    "stock": 210,
+    "categories": ["running","training"],
+    "tags": ["quick-dry","lightweight"]
+  },
+  {
+    "id": 117,
+    "name": "Dri-FIT Polo",
+    "brand": "Nike",
+    "sku": "NIK-DriFitPolo-117",
+    "price": 34.99,
+    "description": "Breathable polo using Dri-FIT tech for on-course comfort.",
+    "type": "Polo",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL","XXL"],
+      "fit": "Athletic fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Nike+Dri-FIT+Polo",
+      "https://via.placeholder.com/600x400.png?text=Nike+Dri-FIT+Polo+2"
+    ],
+    "model": "Dri-FIT Polo",
+    "color": ["White","Navy"],
+    "product_details": {
+      "material": "Dri-FIT polyester",
+      "care": "Machine wash cold",
+      "weight_g": 160,
+      "release_year": 2021,
+      "fit_type": "Athletic"
+    },
+    "sex": "Men",
+    "rating": 4.2,
+    "stock": 140,
+    "categories": ["golf","casual"],
+    "tags": ["dri-fit","breathable"]
+  },
+  {
+    "id": 118,
+    "name": "Training Windbreaker",
+    "brand": "Reebok",
+    "sku": "RBK-TrainingWindbrkr-118",
+    "price": 59.99,
+    "description": "Lightweight windbreaker with water-resistant finish for training outdoors.",
+    "type": "Jacket",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Regular fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Reebok+Training+Windbreaker",
+      "https://via.placeholder.com/600x400.png?text=Reebok+Training+Windbreaker+2"
+    ],
+    "model": "Training Windbreaker",
+    "color": ["Black","Orange"],
+    "product_details": {
+      "material": "Nylon shell",
+      "care": "Machine wash cold; air dry",
+      "weight_g": 240,
+      "release_year": 2022,
+      "fit_type": "Regular"
+    },
+    "sex": "Unisex",
+    "rating": 4.1,
+    "stock": 90,
+    "categories": ["outerwear","training"],
+    "tags": ["water-resistant","lightweight"]
+  },
+  {
+    "id": 119,
+    "name": "Lightweight Track Pants",
+    "brand": "Puma",
+    "sku": "PMA-LightTrackPants-119",
+    "price": 39.99,
+    "description": "Slim lightweight track pants for warmups and travel.",
+    "type": "Pants",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Slim fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Puma+Lightweight+Track+Pants",
+      "https://via.placeholder.com/600x400.png?text=Puma+Lightweight+Track+Pants+2"
+    ],
+    "model": "Lightweight Track Pants",
+    "color": ["Grey","Black"],
+    "product_details": {
+      "material": "Polyester blend",
+      "care": "Machine wash cold",
+      "weight_g": 250,
+      "release_year": 2020,
+      "fit_type": "Slim"
+    },
+    "sex": "Men",
+    "rating": 4.0,
+    "stock": 140,
+    "categories": ["training","travel"],
+    "tags": ["lightweight","slim"]
+  },
+  {
+    "id": 120,
+    "name": "Performance Shorts",
+    "brand": "Under Armour",
+    "sku": "UA-PerformanceShorts-120",
+    "price": 27.99,
+    "description": "Quick-dry performance shorts with inner brief for support.",
+    "type": "Shorts",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL","XXL"],
+      "fit": "True to size"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Under+Armour+Performance+Shorts",
+      "https://via.placeholder.com/600x400.png?text=Under+Armour+Performance+Shorts+2"
+    ],
+    "model": "Performance Shorts",
+    "color": ["Black","Camo"],
+    "product_details": {
+      "material": "Polyester",
+      "care": "Machine wash cold",
+      "weight_g": 140,
+      "release_year": 2023,
+      "fit_type": "Athletic"
+    },
+    "sex": "Unisex",
+    "rating": 4.2,
+    "stock": 210,
+    "categories": ["training","running"],
+    "tags": ["quick-dry","support"]
+  },
+  {
+    "id": 121,
+    "name": "Seamless Bike Short",
+    "brand": "Lululemon",
+    "sku": "LUL-SeamlessBikeShort-121",
+    "price": 48.00,
+    "description": "Seamless bike short for studio sessions and casual wear.",
+    "type": "Shorts",
+    "size_and_fit": {
+      "available_sizes": ["XS","S","M","L"],
+      "fit": "Compression fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Lululemon+Seamless+Bike+Short",
+      "https://via.placeholder.com/600x400.png?text=Lululemon+Seamless+Bike+Short+2"
+    ],
+    "model": "Seamless Bike Short",
+    "color": ["Black","Taupe"],
+    "product_details": {
+      "material": "Nylon + elastane",
+      "care": "Machine wash cold",
+      "weight_g": 130,
+      "release_year": 2024,
+      "fit_type": "Compression"
+    },
+    "sex": "Women",
+    "rating": 4.6,
+    "stock": 150,
+    "categories": ["studio","yoga"],
+    "tags": ["seamless","studio"]
+  },
+  {
+    "id": 122,
+    "name": "Thermal Base Layer Top",
+    "brand": "Uniqlo",
+    "sku": "UNQ-ThermalBaseTop-122",
+    "price": 29.90,
+    "description": "Thermal base layer top for cold-weather training.",
+    "type": "Base Layer",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Slim fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Uniqlo+Thermal+Base+Layer+Top",
+      "https://via.placeholder.com/600x400.png?text=Uniqlo+Thermal+Base+Layer+Top+2"
+    ],
+    "model": "Thermal Base Layer Top",
+    "color": ["Charcoal","Navy"],
+    "product_details": {
+      "material": "HeatTech polyester blend",
+      "care": "Machine wash cold",
+      "weight_g": 160,
+      "release_year": 2022,
+      "fit_type": "Slim"
+    },
+    "sex": "Unisex",
+    "rating": 4.4,
+    "stock": 120,
+    "categories": ["base-layer","cold-weather"],
+    "tags": ["thermal","heattech"]
+  },
+  {
+    "id": 123,
+    "name": "Reflective Running Vest",
+    "brand": "ASICS",
+    "sku": "ASC-ReflectiveRunVest-123",
+    "price": 34.95,
+    "description": "Lightweight reflective vest for night runs with packable design.",
+    "type": "Vest",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L"],
+      "fit": "Adjustable fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=ASICS+Reflective+Running+Vest",
+      "https://via.placeholder.com/600x400.png?text=ASICS+Reflective+Running+Vest+2"
+    ],
+    "model": "Reflective Running Vest",
+    "color": ["Neon","Black"],
+    "product_details": {
+      "material": "Reflective mesh",
+      "care": "Hand wash",
+      "weight_g": 80,
+      "release_year": 2023,
+      "fit_type": "Adjustable"
+    },
+    "sex": "Unisex",
+    "rating": 4.3,
+    "stock": 90,
+    "categories": ["safety","running"],
+    "tags": ["reflective","packable"]
+  },
+  {
+    "id": 124,
+    "name": "Workout Crop Top",
+    "brand": "Gymshark",
+    "sku": "GYM-WorkoutCropTop-124",
+    "price": 29.99,
+    "description": "Cropped workout top with soft stretch fabric for studio training.",
+    "type": "Top",
+    "size_and_fit": {
+      "available_sizes": ["XS","S","M","L"],
+      "fit": "True to size"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Gymshark+Workout+Crop+Top",
+      "https://via.placeholder.com/600x400.png?text=Gymshark+Workout+Crop+Top+2"
+    ],
+    "model": "Workout Crop Top",
+    "color": ["Pink","Black"],
+    "product_details": {
+      "material": "Nylon + elastane",
+      "care": "Machine wash cold",
+      "weight_g": 95,
+      "release_year": 2024,
+      "fit_type": "Slim"
+    },
+    "sex": "Women",
+    "rating": 4.5,
+    "stock": 180,
+    "categories": ["studio","training"],
+    "tags": ["crop","stretch"]
+  },
+  {
+    "id": 125,
+    "name": "Training Hoodie",
+    "brand": "Champion",
+    "sku": "CHM-TrainingHoodie-125",
+    "price": 49.95,
+    "description": "Classic Champion hoodie with sturdy construction for everyday use.",
+    "type": "Hoodie",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL","XXL"],
+      "fit": "Regular fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Champion+Training+Hoodie",
+      "https://via.placeholder.com/600x400.png?text=Champion+Training+Hoodie+2"
+    ],
+    "model": "Training Hoodie",
+    "color": ["Navy","Grey"],
+    "product_details": {
+      "material": "Cotton/polyester blend",
+      "care": "Machine wash cold",
+      "weight_g": 450,
+      "release_year": 2021,
+      "fit_type": "Regular"
+    },
+    "sex": "Unisex",
+    "rating": 4.4,
+    "stock": 210,
+    "categories": ["casual","training"],
+    "tags": ["classic","durable"]
+  },
+  {
+    "id": 126,
+    "name": "Gym Sling Bag",
+    "brand": "Nike",
+    "sku": "NIK-GymSlingBag-126",
+    "price": 29.99,
+    "description": "Compact sling bag to carry gym essentials with internal pockets.",
+    "type": "Accessory",
+    "size_and_fit": {
+      "available_sizes": [],
+      "fit": "One size"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Nike+Gym+Sling+Bag",
+      "https://via.placeholder.com/600x400.png?text=Nike+Gym+Sling+Bag+2"
+    ],
+    "model": "Gym Sling Bag",
+    "color": ["Black","Olive"],
+    "product_details": {
+      "material": "Ripstop polyester",
+      "care": "Wipe clean",
+      "weight_g": 220,
+      "release_year": 2022,
+      "fit_type": "One size"
+    },
+    "sex": "Unisex",
+    "rating": 4.3,
+    "stock": 250,
+    "categories": ["accessory","gym"],
+    "tags": ["sling","compact"]
+  },
+  {
+    "id": 127,
+    "name": "Training Backpack",
+    "brand": "Adidas",
+    "sku": "ADD-TrainingBackpack-127",
+    "price": 49.99,
+    "description": "Durable training backpack with shoe compartment and padded straps.",
+    "type": "Accessory",
+    "size_and_fit": {
+      "available_sizes": [],
+      "fit": "One size"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Adidas+Training+Backpack",
+      "https://via.placeholder.com/600x400.png?text=Adidas+Training+Backpack+2"
+    ],
+    "model": "Training Backpack",
+    "color": ["Black","Grey"],
+    "product_details": {
+      "material": "Polyester",
+      "care": "Wipe clean",
+      "weight_g": 680,
+      "release_year": 2023,
+      "fit_type": "One size"
+    },
+    "sex": "Unisex",
+    "rating": 4.2,
+    "stock": 180,
+    "categories": ["accessory","travel"],
+    "tags": ["backpack","shoe-compartment"]
+  },
+  {
+    "id": 128,
+    "name": "Performance Socks (3-pack)",
+    "brand": "Under Armour",
+    "sku": "UA-PerfSocks3pk-128",
+    "price": 14.99,
+    "description": "Cushioned performance socks in a 3-pack for training and running.",
+    "type": "Accessory",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L"],
+      "fit": "True to size"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Under+Armour+Performance+Socks+3pk",
+      "https://via.placeholder.com/600x400.png?text=Under+Armour+Performance+Socks+3pk+2"
+    ],
+    "model": "Performance Socks 3-pack",
+    "color": ["Black","White"],
+    "product_details": {
+      "material": "Cotton blend with performance yarns",
+      "care": "Machine wash cold",
+      "weight_g": 90,
+      "release_year": 2021,
+      "fit_type": "Cushy"
+    },
+    "sex": "Unisex",
+    "rating": 4.1,
+    "stock": 500,
+    "categories": ["accessory","essentials"],
+    "tags": ["socks","cushioned"]
+  },
+  {
+    "id": 129,
+    "name": "Training Cap",
+    "brand": "New Era",
+    "sku": "NE-TrainingCap-129",
+    "price": 19.99,
+    "description": "Breathable training cap with moisture-wicking sweatband.",
+    "type": "Accessory",
+    "size_and_fit": {
+      "available_sizes": ["One Size"],
+      "fit": "Adjustable"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=New+Era+Training+Cap",
+      "https://via.placeholder.com/600x400.png?text=New+Era+Training+Cap+2"
+    ],
+    "model": "Training Cap",
+    "color": ["Black","Navy"],
+    "product_details": {
+      "material": "Polyester blend",
+      "care": "Spot clean",
+      "weight_g": 60,
+      "release_year": 2022,
+      "fit_type": "Adjustable"
+    },
+    "sex": "Unisex",
+    "rating": 4.0,
+    "stock": 260,
+    "categories": ["accessory","sun-protection"],
+    "tags": ["cap","breathable"]
+  },
+  {
+    "id": 130,
+    "name": "Coach Jacket",
+    "brand": "Fila",
+    "sku": "FIL-CoachJacket-130",
+    "price": 59.95,
+    "description": "Classic coach jacket with snap front and lightweight lining.",
+    "type": "Jacket",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Boxy fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Fila+Coach+Jacket",
+      "https://via.placeholder.com/600x400.png?text=Fila+Coach+Jacket+2"
+    ],
+    "model": "Coach Jacket",
+    "color": ["Black","White"],
+    "product_details": {
+      "material": "Polyester",
+      "care": "Machine wash cold",
+      "weight_g": 320,
+      "release_year": 2020,
+      "fit_type": "Boxy"
+    },
+    "sex": "Unisex",
+    "rating": 4.2,
+    "stock": 95,
+    "categories": ["retro","outerwear"],
+    "tags": ["coach","retro"]
+  },
+  {
+    "id": 131,
+    "name": "Warm-up Hoodie",
+    "brand": "H&M",
+    "sku": "HM-WarmUpHoodie-131",
+    "price": 34.99,
+    "description": "Affordable warm-up hoodie with soft interior for chilly mornings.",
+    "type": "Hoodie",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Regular fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=H%26M+Warm-up+Hoodie",
+      "https://via.placeholder.com/600x400.png?text=H%26M+Warm-up+Hoodie+2"
+    ],
+    "model": "Warm-up Hoodie",
+    "color": ["Heather Grey","Black"],
+    "product_details": {
+      "material": "Cotton blend",
+      "care": "Machine wash cold",
+      "weight_g": 430,
+      "release_year": 2021,
+      "fit_type": "Regular"
+    },
+    "sex": "Unisex",
+    "rating": 4.0,
+    "stock": 300,
+    "categories": ["affordable","casual"],
+    "tags": ["warm","cozy"]
+  },
+  {
+    "id": 132,
+    "name": "Fleece Vest",
+    "brand": "Uniqlo",
+    "sku": "UNQ-FleeceVest-132",
+    "price": 39.90,
+    "description": "Lightweight fleece vest for layering and extra warmth.",
+    "type": "Vest",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Slim fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Uniqlo+Fleece+Vest",
+      "https://via.placeholder.com/600x400.png?text=Uniqlo+Fleece+Vest+2"
+    ],
+    "model": "Fleece Vest",
+    "color": ["Navy","Olive"],
+    "product_details": {
+      "material": "Polyester fleece",
+      "care": "Machine wash cold",
+      "weight_g": 260,
+      "release_year": 2022,
+      "fit_type": "Slim"
+    },
+    "sex": "Men",
+    "rating": 4.3,
+    "stock": 130,
+    "categories": ["layering","outdoor"],
+    "tags": ["fleece","layer"]
+  },
+  {
+    "id": 133,
+    "name": "Insulated Jacket",
+    "brand": "The North Face",
+    "sku": "TNF-InsulatedJacket-133",
+    "price": 119.99,
+    "description": "Insulated jacket with synthetic fill for warmth in cold weather.",
+    "type": "Jacket",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL","XXL"],
+      "fit": "Regular fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=The+North+Face+Insulated+Jacket",
+      "https://via.placeholder.com/600x400.png?text=The+North+Face+Insulated+Jacket+2"
+    ],
+    "model": "Insulated Jacket",
+    "color": ["Black","Cedar"],
+    "product_details": {
+      "material": "Nylon shell + synthetic fill",
+      "care": "Machine wash cold; tumble low",
+      "weight_g": 780,
+      "release_year": 2023,
+      "fit_type": "Regular"
+    },
+    "sex": "Unisex",
+    "rating": 4.6,
+    "stock": 65,
+    "categories": ["outdoor","insulated"],
+    "tags": ["insulated","warm"]
+  },
+  {
+    "id": 134,
+    "name": "Softshell Pant",
+    "brand": "Columbia",
+    "sku": "CLB-SoftshellPant-134",
+    "price": 69.99,
+    "description": "Softshell pant designed for movement and light weather protection.",
+    "type": "Pants",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Regular fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Columbia+Softshell+Pant",
+      "https://via.placeholder.com/600x400.png?text=Columbia+Softshell+Pant+2"
+    ],
+    "model": "Softshell Pant",
+    "color": ["Charcoal","Green"],
+    "product_details": {
+      "material": "Softshell fabric (nylon/spandex)",
+      "care": "Machine wash cold",
+      "weight_g": 520,
+      "release_year": 2022,
+      "fit_type": "Regular"
+    },
+    "sex": "Men",
+    "rating": 4.3,
+    "stock": 75,
+    "categories": ["outdoor","hiking"],
+    "tags": ["softshell","water-resistant"]
+  },
+  {
+    "id": 135,
+    "name": "Running Tights",
+    "brand": "ASICS",
+    "sku": "ASC-RunningTights-135",
+    "price": 44.95,
+    "description": "Full-length running tights with reflective details and stash pocket.",
+    "type": "Tights",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Compression fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=ASICS+Running+Tights",
+      "https://via.placeholder.com/600x400.png?text=ASICS+Running+Tights+2"
+    ],
+    "model": "Running Tights",
+    "color": ["Black","Graphite"],
+    "product_details": {
+      "material": "Polyester + elastane",
+      "care": "Machine wash cold",
+      "weight_g": 210,
+      "release_year": 2021,
+      "fit_type": "Compression"
+    },
+    "sex": "Women",
+    "rating": 4.4,
+    "stock": 120,
+    "categories": ["running","performance"],
+    "tags": ["reflective","pocket"]
+  },
+  {
+    "id": 136,
+    "name": "Yoga Pullover",
+    "brand": "Lululemon",
+    "sku": "LUL-YogaPullover-136",
+    "price": 78.00,
+    "description": "Soft pullover ideal for cool-downs and layering before class.",
+    "type": "Pullover",
+    "size_and_fit": {
+      "available_sizes": ["XS","S","M","L"],
+      "fit": "Relaxed fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Lululemon+Yoga+Pullover",
+      "https://via.placeholder.com/600x400.png?text=Lululemon+Yoga+Pullover+2"
+    ],
+    "model": "Yoga Pullover",
+    "color": ["Sage","Black"],
+    "product_details": {
+      "material": "Cotton blend with stretch",
+      "care": "Machine wash cold",
+      "weight_g": 300,
+      "release_year": 2024,
+      "fit_type": "Relaxed"
+    },
+    "sex": "Women",
+    "rating": 4.7,
+    "stock": 90,
+    "categories": ["yoga","loungewear"],
+    "tags": ["soft","layering"]
+  },
+  {
+    "id": 137,
+    "name": "Cropped Sweatshirt",
+    "brand": "H&M",
+    "sku": "HM-CroppedSweatshirt-137",
+    "price": 24.99,
+    "description": "Casual cropped sweatshirt for streetwear and light workouts.",
+    "type": "Sweatshirt",
+    "size_and_fit": {
+      "available_sizes": ["XS","S","M","L"],
+      "fit": "Cropped fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=H%26M+Cropped+Sweatshirt",
+      "https://via.placeholder.com/600x400.png?text=H%26M+Cropped+Sweatshirt+2"
+    ],
+    "model": "Cropped Sweatshirt",
+    "color": ["Pink","White"],
+    "product_details": {
+      "material": "Cotton blend",
+      "care": "Machine wash cold",
+      "weight_g": 260,
+      "release_year": 2021,
+      "fit_type": "Cropped"
+    },
+    "sex": "Women",
+    "rating": 4.0,
+    "stock": 160,
+    "categories": ["casual","street"],
+    "tags": ["cropped","casual"]
+  },
+  {
+    "id": 138,
+    "name": "Jogger Shorts",
+    "brand": "Nike",
+    "sku": "NIK-JoggerShorts-138",
+    "price": 29.99,
+    "description": "Casual jogger shorts with soft interior and elastic waist.",
+    "type": "Shorts",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Relaxed fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Nike+Jogger+Shorts",
+      "https://via.placeholder.com/600x400.png?text=Nike+Jogger+Shorts+2"
+    ],
+    "model": "Jogger Shorts",
+    "color": ["Grey","Black"],
+    "product_details": {
+      "material": "Cotton blend",
+      "care": "Machine wash cold",
+      "weight_g": 190,
+      "release_year": 2023,
+      "fit_type": "Relaxed"
+    },
+    "sex": "Men",
+    "rating": 4.1,
+    "stock": 200,
+    "categories": ["loungewear","casual"],
+    "tags": ["shorts","jogger"]
+  },
+  {
+    "id": 139,
+    "name": "Trail Running Jacket",
+    "brand": "Salomon",
+    "sku": "SLM-TrailRunJkt-139",
+    "price": 99.95,
+    "description": "Technical trail jacket with durable water repellant finish and ventilation.",
+    "type": "Jacket",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Athletic fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Salomon+Trail+Running+Jacket",
+      "https://via.placeholder.com/600x400.png?text=Salomon+Trail+Running+Jacket+2"
+    ],
+    "model": "Trail Running Jacket",
+    "color": ["Cinder","Green"],
+    "product_details": {
+      "material": "Ripstop nylon",
+      "care": "Machine wash cold",
+      "weight_g": 300,
+      "release_year": 2023,
+      "fit_type": "Athletic"
+    },
+    "sex": "Unisex",
+    "rating": 4.5,
+    "stock": 55,
+    "categories": ["trail","performance"],
+    "tags": ["water-repellent","ventilated"]
+  },
+  {
+    "id": 140,
+    "name": "Waterproof Shell",
+    "brand": "Patagonia",
+    "sku": "PTG-WaterproofShell-140",
+    "price": 159.00,
+    "description": "Durable waterproof shell with taped seams for fully protected outdoor use.",
+    "type": "Jacket",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL","XXL"],
+      "fit": "Regular fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Patagonia+Waterproof+Shell",
+      "https://via.placeholder.com/600x400.png?text=Patagonia+Waterproof+Shell+2"
+    ],
+    "model": "Waterproof Shell",
+    "color": ["Black","Cobalt"],
+    "product_details": {
+      "material": "Recycled nylon with waterproof membrane",
+      "care": "Machine wash cold; line dry",
+      "weight_g": 420,
+      "release_year": 2024,
+      "fit_type": "Regular"
+    },
+    "sex": "Unisex",
+    "rating": 4.7,
+    "stock": 40,
+    "categories": ["outdoor","waterproof"],
+    "tags": ["waterproof","taped-seams"]
+  },
+  {
+    "id": 141,
+    "name": "Packable Anorak",
+    "brand": "The North Face",
+    "sku": "TNF-PackableAnorak-141",
+    "price": 89.99,
+    "description": "Lightweight packable anorak that fits into its own pocket for travel.",
+    "type": "Jacket",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Regular fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=TNF+Packable+Anorak",
+      "https://via.placeholder.com/600x400.png?text=TNF+Packable+Anorak+2"
+    ],
+    "model": "Packable Anorak",
+    "color": ["Sand","Navy"],
+    "product_details": {
+      "material": "Lightweight nylon",
+      "care": "Hand wash",
+      "weight_g": 180,
+      "release_year": 2022,
+      "fit_type": "Regular"
+    },
+    "sex": "Unisex",
+    "rating": 4.4,
+    "stock": 80,
+    "categories": ["travel","outerwear"],
+    "tags": ["packable","lightweight"]
+  },
+  {
+    "id": 142,
+    "name": "Stretch Tee",
+    "brand": "Uniqlo",
+    "sku": "UNQ-StretchTee-142",
+    "price": 14.90,
+    "description": "Everyday stretch tee with breathable fabric for daily use.",
+    "type": "T-Shirt",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Regular fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Uniqlo+Stretch+Tee",
+      "https://via.placeholder.com/600x400.png?text=Uniqlo+Stretch+Tee+2"
+    ],
+    "model": "Stretch Tee",
+    "color": ["White","Grey"],
+    "product_details": {
+      "material": "Cotton blend with elastane",
+      "care": "Machine wash cold",
+      "weight_g": 140,
+      "release_year": 2021,
+      "fit_type": "Everyday"
+    },
+    "sex": "Unisex",
+    "rating": 4.0,
+    "stock": 300,
+    "categories": ["casual","basics"],
+    "tags": ["stretch","everyday"]
+  },
+  {
+    "id": 143,
+    "name": "Recycled Tee",
+    "brand": "Adidas",
+    "sku": "ADD-RecycledTee-143",
+    "price": 24.99,
+    "description": "Eco-conscious tee made from recycled materials for lower environmental impact.",
+    "type": "T-Shirt",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Regular"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Adidas+Recycled+Tee",
+      "https://via.placeholder.com/600x400.png?text=Adidas+Recycled+Tee+2"
+    ],
+    "model": "Recycled Tee",
+    "color": ["Green","White"],
+    "product_details": {
+      "material": "Recycled polyester",
+      "care": "Machine wash cold",
+      "weight_g": 150,
+      "release_year": 2023,
+      "fit_type": "Regular"
+    },
+    "sex": "Unisex",
+    "rating": 4.2,
+    "stock": 200,
+    "categories": ["sustainable","casual"],
+    "tags": ["recycled","eco"]
+  },
+  {
+    "id": 144,
+    "name": "Eco Hoodie",
+    "brand": "Patagonia",
+    "sku": "PTG-EcoHoodie-144",
+    "price": 79.00,
+    "description": "Hoodie made with recycled fibers and Fair Trade certified stitching.",
+    "type": "Hoodie",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Relaxed fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Patagonia+Eco+Hoodie",
+      "https://via.placeholder.com/600x400.png?text=Patagonia+Eco+Hoodie+2"
+    ],
+    "model": "Eco Hoodie",
+    "color": ["Forest","Grey"],
+    "product_details": {
+      "material": "Recycled cotton/polyester",
+      "care": "Machine wash cold; line dry",
+      "weight_g": 460,
+      "release_year": 2022,
+      "fit_type": "Relaxed"
+    },
+    "sex": "Unisex",
+    "rating": 4.6,
+    "stock": 70,
+    "categories": ["sustainable","outerwear"],
+    "tags": ["recycled","fair-trade"]
+  },
+  {
+    "id": 145,
+    "name": "Thermal Joggers",
+    "brand": "Columbia",
+    "sku": "CLB-ThermalJoggers-145",
+    "price": 54.99,
+    "description": "Thermal-lined joggers for extra warmth during colder workouts.",
+    "type": "Jogger",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Regular fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Columbia+Thermal+Joggers",
+      "https://via.placeholder.com/600x400.png?text=Columbia+Thermal+Joggers+2"
+    ],
+    "model": "Thermal Joggers",
+    "color": ["Black","Olive"],
+    "product_details": {
+      "material": "Fleece-lined polyester",
+      "care": "Machine wash cold",
+      "weight_g": 480,
+      "release_year": 2020,
+      "fit_type": "Warm"
+    },
+    "sex": "Men",
+    "rating": 4.3,
+    "stock": 90,
+    "categories": ["cold-weather","training"],
+    "tags": ["thermal","warm"]
+  },
+  {
+    "id": 146,
+    "name": "Lightweight Hoodie",
+    "brand": "Nike",
+    "sku": "NIK-LightweightHoodie-146",
+    "price": 39.99,
+    "description": "Breathable lightweight hoodie for layering during workouts.",
+    "type": "Hoodie",
+    "size_and_fit": {
+      "available_sizes": ["XS","S","M","L","XL"],
+      "fit": "Slim fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Nike+Lightweight+Hoodie",
+      "https://via.placeholder.com/600x400.png?text=Nike+Lightweight+Hoodie+2"
+    ],
+    "model": "Lightweight Hoodie",
+    "color": ["Grey","Black"],
+    "product_details": {
+      "material": "Lightweight polyester blend",
+      "care": "Machine wash cold",
+      "weight_g": 280,
+      "release_year": 2023,
+      "fit_type": "Slim"
+    },
+    "sex": "Unisex",
+    "rating": 4.2,
+    "stock": 200,
+    "categories": ["training","layering"],
+    "tags": ["lightweight","breathable"]
+  },
+  {
+    "id": 147,
+    "name": "Wind Pants",
+    "brand": "Adidas",
+    "sku": "ADD-WindPants-147",
+    "price": 34.99,
+    "description": "Wind-resistant pants ideal for breezy runs and warm-ups.",
+    "type": "Pants",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Relaxed fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Adidas+Wind+Pants",
+      "https://via.placeholder.com/600x400.png?text=Adidas+Wind+Pants+2"
+    ],
+    "model": "Wind Pants",
+    "color": ["Black","Navy"],
+    "product_details": {
+      "material": "Nylon shell",
+      "care": "Machine wash cold",
+      "weight_g": 200,
+      "release_year": 2021,
+      "fit_type": "Wind-resistant"
+    },
+    "sex": "Men",
+    "rating": 4.0,
+    "stock": 120,
+    "categories": ["running","warmup"],
+    "tags": ["windproof","lightweight"]
+  },
+  {
+    "id": 148,
+    "name": "Baseball Tee",
+    "brand": "H&M",
+    "sku": "HM-BaseballTee-148",
+    "price": 14.99,
+    "description": "Casual baseball tee with contrast raglan sleeves for everyday wear.",
+    "type": "T-Shirt",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Relaxed"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=H%26M+Baseball+Tee",
+      "https://via.placeholder.com/600x400.png?text=H%26M+Baseball+Tee+2"
+    ],
+    "model": "Baseball Tee",
+    "color": ["White/Navy","White/Red"],
+    "product_details": {
+      "material": "Cotton blend",
+      "care": "Machine wash cold",
+      "weight_g": 180,
+      "release_year": 2019,
+      "fit_type": "Relaxed"
+    },
+    "sex": "Unisex",
+    "rating": 4.0,
+    "stock": 240,
+    "categories": ["casual","street"],
+    "tags": ["raglan","casual"]
+  },
+  {
+    "id": 149,
+    "name": "Raglan Sweatshirt",
+    "brand": "Champion",
+    "sku": "CHM-RaglanSweatshirt-149",
+    "price": 44.95,
+    "description": "Soft raglan sweatshirt with classic Champion branding on the sleeve.",
+    "type": "Sweatshirt",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL","XXL"],
+      "fit": "Regular fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Champion+Raglan+Sweatshirt",
+      "https://via.placeholder.com/600x400.png?text=Champion+Raglan+Sweatshirt+2"
+    ],
+    "model": "Raglan Sweatshirt",
+    "color": ["Heather","Navy"],
+    "product_details": {
+      "material": "Cotton blend",
+      "care": "Machine wash cold",
+      "weight_g": 430,
+      "release_year": 2020,
+      "fit_type": "Classic"
+    },
+    "sex": "Unisex",
+    "rating": 4.4,
+    "stock": 170,
+    "categories": ["casual","training"],
+    "tags": ["raglan","classic"]
+  },
+  {
+    "id": 150,
+    "name": "Performance Legging",
+    "brand": "Nike",
+    "sku": "NIK-PerfLegging-150",
+    "price": 59.99,
+    "description": "High-performance legging with sweat-wicking fabric and secure pocket.",
+    "type": "Legging",
+    "size_and_fit": {
+      "available_sizes": ["XS","S","M","L","XL"],
+      "fit": "Compression fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Nike+Performance+Legging",
+      "https://via.placeholder.com/600x400.png?text=Nike+Performance+Legging+2"
+    ],
+    "model": "Performance Legging",
+    "color": ["Black","Graphite"],
+    "product_details": {
+      "material": "Dri-FIT polyester + elastane",
+      "care": "Machine wash cold",
+      "weight_g": 200,
+      "release_year": 2023,
+      "fit_type": "Compression"
+    },
+    "sex": "Women",
+    "rating": 4.5,
+    "stock": 160,
+    "categories": ["running","yoga"],
+    "tags": ["pocket","sweat-wicking"]
+  },
+  {
+    "id": 151,
+    "name": "Compression Shorts",
+    "brand": "Under Armour",
+    "sku": "UA-CompressionShorts-151",
+    "price": 29.99,
+    "description": "Supportive compression shorts for training and recovery.",
+    "type": "Shorts",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Compression fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Under+Armour+Compression+Shorts",
+      "https://via.placeholder.com/600x400.png?text=Under+Armour+Compression+Shorts+2"
+    ],
+    "model": "Compression Shorts",
+    "color": ["Black","Navy"],
+    "product_details": {
+      "material": "Polyester + spandex",
+      "care": "Machine wash cold",
+      "weight_g": 130,
+      "release_year": 2021,
+      "fit_type": "Compression"
+    },
+    "sex": "Men",
+    "rating": 4.2,
+    "stock": 190,
+    "categories": ["training","compression"],
+    "tags": ["supportive","recovery"]
+  },
+  {
+    "id": 152,
+    "name": "Bike Jersey",
+    "brand": "Gore Wear",
+    "sku": "GOW-BikeJersey-152",
+    "price": 69.99,
+    "description": "Breathable bike jersey with zip pocket and aero fit.",
+    "type": "Jersey",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Aero fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Gore+Wear+Bike+Jersey",
+      "https://via.placeholder.com/600x400.png?text=Gore+Wear+Bike+Jersey+2"
+    ],
+    "model": "Bike Jersey",
+    "color": ["Blue","Fluorescent"],
+    "product_details": {
+      "material": "Lightweight polyester",
+      "care": "Machine wash cold",
+      "weight_g": 120,
+      "release_year": 2022,
+      "fit_type": "Aero"
+    },
+    "sex": "Men",
+    "rating": 4.4,
+    "stock": 60,
+    "categories": ["cycling","performance"],
+    "tags": ["aero","zip-pocket"]
+  },
+  {
+    "id": 153,
+    "name": "Warm Gloves",
+    "brand": "The North Face",
+    "sku": "TNF-WarmGloves-153",
+    "price": 24.99,
+    "description": "Insulated gloves with touchscreen compatibility for cold weather training.",
+    "type": "Accessory",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L"],
+      "fit": "True to size"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=TNF+Warm+Gloves",
+      "https://via.placeholder.com/600x400.png?text=TNF+Warm+Gloves+2"
+    ],
+    "model": "Warm Gloves",
+    "color": ["Black","Grey"],
+    "product_details": {
+      "material": "Insulated polyester",
+      "care": "Machine wash cold",
+      "weight_g": 90,
+      "release_year": 2022,
+      "fit_type": "Insulated"
+    },
+    "sex": "Unisex",
+    "rating": 4.5,
+    "stock": 140,
+    "categories": ["accessory","cold-weather"],
+    "tags": ["touchscreen","insulated"]
+  },
+  {
+    "id": 154,
+    "name": "Neck Gaiter",
+    "brand": "Buff",
+    "sku": "BUF-NeckGaiter-154",
+    "price": 14.99,
+    "description": "Multi-functional neck gaiter for warmth and sun protection.",
+    "type": "Accessory",
+    "size_and_fit": {
+      "available_sizes": ["One Size"],
+      "fit": "Stretch fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Buff+Neck+Gaiter",
+      "https://via.placeholder.com/600x400.png?text=Buff+Neck+Gaiter+2"
+    ],
+    "model": "Neck Gaiter",
+    "color": ["Multicolor","Black"],
+    "product_details": {
+      "material": "Polyester microfiber",
+      "care": "Machine wash cold",
+      "weight_g": 40,
+      "release_year": 2021,
+      "fit_type": "Stretch"
+    },
+    "sex": "Unisex",
+    "rating": 4.3,
+    "stock": 300,
+    "categories": ["accessory","outdoor"],
+    "tags": ["multifunction","sun-protection"]
+  },
+  {
+    "id": 155,
+    "name": "Training Beanie",
+    "brand": "Nike",
+    "sku": "NIK-TrainingBeanie-155",
+    "price": 19.99,
+    "description": "Lightweight knit beanie for chilly morning runs.",
+    "type": "Accessory",
+    "size_and_fit": {
+      "available_sizes": ["One Size"],
+      "fit": "Stretch fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Nike+Training+Beanie",
+      "https://via.placeholder.com/600x400.png?text=Nike+Training+Beanie+2"
+    ],
+    "model": "Training Beanie",
+    "color": ["Black","Heather"],
+    "product_details": {
+      "material": "Acrylic knit",
+      "care": "Hand wash",
+      "weight_g": 70,
+      "release_year": 2022,
+      "fit_type": "Stretch"
+    },
+    "sex": "Unisex",
+    "rating": 4.1,
+    "stock": 220,
+    "categories": ["accessory","cold-weather"],
+    "tags": ["beanie","running"]
+  },
+  {
+    "id": 156,
+    "name": "Socceroos Jersey",
+    "brand": "Adidas",
+    "sku": "ADD-SocceroosJersey-156",
+    "price": 69.99,
+    "description": "Official soccer jersey made with lightweight, breathable fabric.",
+    "type": "Jersey",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL","XXL"],
+      "fit": "Athletic fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Adidas+Socceroos+Jersey",
+      "https://via.placeholder.com/600x400.png?text=Adidas+Socceroos+Jersey+2"
+    ],
+    "model": "Socceroos Jersey",
+    "color": ["Green","Gold"],
+    "product_details": {
+      "material": "Climalite polyester",
+      "care": "Machine wash cold",
+      "weight_g": 160,
+      "release_year": 2021,
+      "fit_type": "Athletic"
+    },
+    "sex": "Men",
+    "rating": 4.4,
+    "stock": 120,
+    "categories": ["football","official"],
+    "tags": ["jersey","breathable"]
+  },
+  {
+    "id": 157,
+    "name": "Training Pullover",
+    "brand": "Under Armour",
+    "sku": "UA-TrainingPullover-157",
+    "price": 44.99,
+    "description": "Pullover with brushed interior for comfortable warmups.",
+    "type": "Pullover",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL","XXL"],
+      "fit": "Relaxed fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Under+Armour+Training+Pullover",
+      "https://via.placeholder.com/600x400.png?text=Under+Armour+Training+Pullover+2"
+    ],
+    "model": "Training Pullover",
+    "color": ["Black","Blue"],
+    "product_details": {
+      "material": "Fleece",
+      "care": "Machine wash cold",
+      "weight_g": 420,
+      "release_year": 2022,
+      "fit_type": "Relaxed"
+    },
+    "sex": "Men",
+    "rating": 4.2,
+    "stock": 130,
+    "categories": ["training","warmup"],
+    "tags": ["pullover","warm"]
+  },
+  {
+    "id": 158,
+    "name": "Half-Zip Top",
+    "brand": "Nike",
+    "sku": "NIK-HalfZipTop-158",
+    "price": 39.99,
+    "description": "Versatile half-zip top for layering and temp control during activity.",
+    "type": "Top",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Regular"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Nike+Half+Zip+Top",
+      "https://via.placeholder.com/600x400.png?text=Nike+Half+Zip+Top+2"
+    ],
+    "model": "Half-Zip Top",
+    "color": ["Grey","Black"],
+    "product_details": {
+      "material": "Polyester blend",
+      "care": "Machine wash cold",
+      "weight_g": 200,
+      "release_year": 2023,
+      "fit_type": "Regular"
+    },
+    "sex": "Unisex",
+    "rating": 4.3,
+    "stock": 160,
+    "categories": ["layering","training"],
+    "tags": ["half-zip","versatile"]
+  },
+  {
+    "id": 159,
+    "name": "Full-Zip Hoodie",
+    "brand": "Adidas",
+    "sku": "ADD-FullZipHoodie-159",
+    "price": 54.99,
+    "description": "Full-zip hoodie with kangaroo pockets and soft interior.",
+    "type": "Hoodie",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Regular"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Adidas+Full+Zip+Hoodie",
+      "https://via.placeholder.com/600x400.png?text=Adidas+Full+Zip+Hoodie+2"
+    ],
+    "model": "Full-Zip Hoodie",
+    "color": ["Black","Grey"],
+    "product_details": {
+      "material": "Cotton/polyester",
+      "care": "Machine wash cold",
+      "weight_g": 430,
+      "release_year": 2022,
+      "fit_type": "Regular"
+    },
+    "sex": "Unisex",
+    "rating": 4.3,
+    "stock": 140,
+    "categories": ["training","casual"],
+    "tags": ["zip","cozy"]
+  },
+  {
+    "id": 160,
+    "name": "Core Compression Top",
+    "brand": "Under Armour",
+    "sku": "UA-CoreCompTop-160",
+    "price": 34.99,
+    "description": "Compression top for improved circulation and muscle support during workouts.",
+    "type": "Top",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Compression"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Under+Armour+Core+Compression+Top",
+      "https://via.placeholder.com/600x400.png?text=Under+Armour+Core+Compression+Top+2"
+    ],
+    "model": "Core Compression Top",
+    "color": ["Black","Slate"],
+    "product_details": {
+      "material": "Polyester + elastane",
+      "care": "Machine wash cold",
+      "weight_g": 140,
+      "release_year": 2021,
+      "fit_type": "Compression"
+    },
+    "sex": "Men",
+    "rating": 4.2,
+    "stock": 200,
+    "categories": ["training","compression"],
+    "tags": ["compression","support"]
+  },
+  {
+    "id": 161,
+    "name": "Essential Training Tee",
+    "brand": "Nike",
+    "sku": "NIK-EssTrainTee-161",
+    "price": 24.99,
+    "description": "Soft, quick-dry training tee for daily workouts.",
+    "type": "T-Shirt",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL","XXL"],
+      "fit": "Regular"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Nike+Essential+Training+Tee",
+      "https://via.placeholder.com/600x400.png?text=Nike+Essential+Training+Tee+2"
+    ],
+    "model": "Essential Training Tee",
+    "color": ["White","Black","Neon"],
+    "product_details": {
+      "material": "Dri-FIT polyester",
+      "care": "Machine wash cold",
+      "weight_g": 130,
+      "release_year": 2023,
+      "fit_type": "Regular"
+    },
+    "sex": "Unisex",
+    "rating": 4.3,
+    "stock": 340,
+    "categories": ["training","running"],
+    "tags": ["quick-dry","breathable"]
+  },
+  {
+    "id": 162,
+    "name": "Recovery Slide",
+    "brand": "Adidas",
+    "sku": "ADD-RecoverySlide-162",
+    "price": 19.99,
+    "description": "Comfortable recovery slide for post-workout wear.",
+    "type": "Footwear",
+    "size_and_fit": {
+      "available_sizes": [6,7,8,9,10,11,12,13],
+      "fit": "True to size"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Adidas+Recovery+Slide",
+      "https://via.placeholder.com/600x400.png?text=Adidas+Recovery+Slide+2"
+    ],
+    "model": "Recovery Slide",
+    "color": ["Black","White"],
+    "product_details": {
+      "material": "EVA foam",
+      "care": "Wipe clean",
+      "weight_g": 220,
+      "release_year": 2022,
+      "fit_type": "Relaxed"
+    },
+    "sex": "Unisex",
+    "rating": 4.1,
+    "stock": 260,
+    "categories": ["recovery","footwear"],
+    "tags": ["slide","comfortable"]
+  },
+  {
+    "id": 163,
+    "name": "Sprint Track Short",
+    "brand": "Puma",
+    "sku": "PMA-SprintTrackShort-163",
+    "price": 27.99,
+    "description": "Ultra-light sprinting short with mesh lining for ventilation.",
+    "type": "Shorts",
+    "size_and_fit": {
+      "available_sizes": ["XS","S","M","L","XL"],
+      "fit": "Athletic"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Puma+Sprint+Track+Short",
+      "https://via.placeholder.com/600x400.png?text=Puma+Sprint+Track+Short+2"
+    ],
+    "model": "Sprint Track Short",
+    "color": ["Red","Black"],
+    "product_details": {
+      "material": "Lightweight polyester",
+      "care": "Machine wash cold",
+      "weight_g": 110,
+      "release_year": 2020,
+      "fit_type": "Athletic"
+    },
+    "sex": "Men",
+    "rating": 4.0,
+    "stock": 180,
+    "categories": ["running","track"],
+    "tags": ["lightweight","ventilated"]
+  },
+  {
+    "id": 164,
+    "name": "Studio High-Waist Short",
+    "brand": "Lululemon",
+    "sku": "LUL-StudioHWS-164",
+    "price": 54.00,
+    "description": "High-waist studio short with four-way stretch and a hidden pocket.",
+    "type": "Shorts",
+    "size_and_fit": {
+      "available_sizes": ["XS","S","M","L"],
+      "fit": "High-waist compression"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Lululemon+Studio+High+Waist+Short",
+      "https://via.placeholder.com/600x400.png?text=Lululemon+Studio+High+Waist+Short+2"
+    ],
+    "model": "Studio High-Waist Short",
+    "color": ["Black","Navy"],
+    "product_details": {
+      "material": "Nylon + elastane",
+      "care": "Machine wash cold; tumble low",
+      "weight_g": 150,
+      "release_year": 2024,
+      "fit_type": "Compression"
+    },
+    "sex": "Women",
+    "rating": 4.6,
+    "stock": 140,
+    "categories": ["yoga","studio"],
+    "tags": ["high-waist","pocket"]
+  },
+  {
+    "id": 165,
+    "name": "Trail Run Sock",
+    "brand": "Injinji",
+    "sku": "INJ-TrailSock-165",
+    "price": 12.99,
+    "description": "Durable trail sock with blister-preventing design.",
+    "type": "Socks",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L"],
+      "fit": "True to size"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Injinji+Trail+Run+Sock",
+      "https://via.placeholder.com/600x400.png?text=Injinji+Trail+Run+Sock+2"
+    ],
+    "model": "Trail Run Sock",
+    "color": ["Grey","Green"],
+    "product_details": {
+      "material": "Merino blend",
+      "care": "Machine wash cold",
+      "weight_g": 60,
+      "release_year": 2022,
+      "fit_type": "Cushioned"
+    },
+    "sex": "Unisex",
+    "rating": 4.5,
+    "stock": 320,
+    "categories": ["trail","accessory"],
+    "tags": ["anti-blister","merino"]
+  },
+  {
+    "id": 166,
+    "name": "Core 7/8 Tight",
+    "brand": "Adidas",
+    "sku": "ADD-Core78Tight-166",
+    "price": 44.99,
+    "description": "7/8 training tight for studio and gym sessions with high waist.",
+    "type": "Legging",
+    "size_and_fit": {
+      "available_sizes": ["XS","S","M","L","XL"],
+      "fit": "High-waist compression"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Adidas+Core+7%2F8+Tight",
+      "https://via.placeholder.com/600x400.png?text=Adidas+Core+7%2F8+Tight+2"
+    ],
+    "model": "Core 7/8 Tight",
+    "color": ["Black","Olive"],
+    "product_details": {
+      "material": "Recycled polyester + elastane",
+      "care": "Machine wash cold",
+      "weight_g": 200,
+      "release_year": 2023,
+      "fit_type": "Compression"
+    },
+    "sex": "Women",
+    "rating": 4.4,
+    "stock": 170,
+    "categories": ["training","studio"],
+    "tags": ["high-waist","sustainable"]
+  },
+  {
+    "id": 167,
+    "name": "Performance Mid Sock",
+    "brand": "Nike",
+    "sku": "NIK-PerfMidSock-167",
+    "price": 9.99,
+    "description": "Cushioned mid-cut performance sock for everyday runs.",
+    "type": "Socks",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L"],
+      "fit": "True to size"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Nike+Performance+Mid+Sock",
+      "https://via.placeholder.com/600x400.png?text=Nike+Performance+Mid+Sock+2"
+    ],
+    "model": "Performance Mid Sock",
+    "color": ["White","Black"],
+    "product_details": {
+      "material": "Cotton blend with performance yarns",
+      "care": "Machine wash cold",
+      "weight_g": 45,
+      "release_year": 2022,
+      "fit_type": "Cushioned"
+    },
+    "sex": "Unisex",
+    "rating": 4.1,
+    "stock": 480,
+    "categories": ["running","essentials"],
+    "tags": ["cushioned","everyday"]
+  },
+  {
+    "id": 168,
+    "name": "Heritage Runner Tee",
+    "brand": "New Balance",
+    "sku": "NB-HeritageRunnerT-168",
+    "price": 22.99,
+    "description": "Lightweight tee with vintage logo for casual runs and streetwear.",
+    "type": "T-Shirt",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL","XXL"],
+      "fit": "Regular"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=New+Balance+Heritage+Runner+Tee",
+      "https://via.placeholder.com/600x400.png?text=New+Balance+Heritage+Runner+Tee+2"
+    ],
+    "model": "Heritage Runner Tee",
+    "color": ["Cream","Navy"],
+    "product_details": {
+      "material": "Cotton blend",
+      "care": "Machine wash cold",
+      "weight_g": 150,
+      "release_year": 2021,
+      "fit_type": "Regular"
+    },
+    "sex": "Unisex",
+    "rating": 4.2,
+    "stock": 260,
+    "categories": ["lifestyle","running"],
+    "tags": ["heritage","logo"]
+  },
+  {
+    "id": 169,
+    "name": "Ultra Light Jacket",
+    "brand": "Columbia",
+    "sku": "CLB-UltraLightJkt-169",
+    "price": 69.99,
+    "description": "Packable ultralight jacket for travel and unpredictable weather.",
+    "type": "Jacket",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL","XXL"],
+      "fit": "Regular"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Columbia+Ultra+Light+Jacket",
+      "https://via.placeholder.com/600x400.png?text=Columbia+Ultra+Light+Jacket+2"
+    ],
+    "model": "Ultra Light Jacket",
+    "color": ["Blue","Black"],
+    "product_details": {
+      "material": "Ripstop nylon",
+      "care": "Hand wash",
+      "weight_g": 180,
+      "release_year": 2023,
+      "fit_type": "Packable"
+    },
+    "sex": "Unisex",
+    "rating": 4.3,
+    "stock": 95,
+    "categories": ["travel","outerwear"],
+    "tags": ["packable","lightweight"]
+  },
+  {
+    "id": 170,
+    "name": "Everyday Performance Short",
+    "brand": "Reebok",
+    "sku": "RBK-EverydayPerfShort-170",
+    "price": 29.99,
+    "description": "Versatile short with inner brief and side pockets for everyday workouts.",
+    "type": "Shorts",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Regular"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Reebok+Everyday+Performance+Short",
+      "https://via.placeholder.com/600x400.png?text=Reebok+Everyday+Performance+Short+2"
+    ],
+    "model": "Everyday Performance Short",
+    "color": ["Black","Green"],
+    "product_details": {
+      "material": "Polyester blend",
+      "care": "Machine wash cold",
+      "weight_g": 130,
+      "release_year": 2022,
+      "fit_type": "Regular"
+    },
+    "sex": "Unisex",
+    "rating": 4.1,
+    "stock": 210,
+    "categories": ["training","everyday"],
+    "tags": ["pockets","inner-brief"]
+  },
+  {
+    "id": 171,
+    "name": "Motion Legging",
+    "brand": "Athleta",
+    "sku": "ATH-MotionLegging-171",
+    "price": 69.00,
+    "description": "High-stretch legging built for mobility and studio sessions.",
+    "type": "Legging",
+    "size_and_fit": {
+      "available_sizes": ["XS","S","M","L","XL"],
+      "fit": "Compression"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Athleta+Motion+Legging",
+      "https://via.placeholder.com/600x400.png?text=Athleta+Motion+Legging+2"
+    ],
+    "model": "Motion Legging",
+    "color": ["Black","Mocha"],
+    "product_details": {
+      "material": "Polyester + elastane",
+      "care": "Machine wash cold",
+      "weight_g": 210,
+      "release_year": 2024,
+      "fit_type": "Compression"
+    },
+    "sex": "Women",
+    "rating": 4.5,
+    "stock": 150,
+    "categories": ["studio","running"],
+    "tags": ["stretch","studio"]
+  },
+  {
+    "id": 172,
+    "name": "Boxer Brief 3-pack",
+    "brand": "Uniqlo",
+    "sku": "UNQ-BoxerBrief3pk-172",
+    "price": 19.90,
+    "description": "Comfortable 3-pack boxer briefs with breathable fabric.",
+    "type": "Underwear",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Snug"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Uniqlo+Boxer+Brief+3pack",
+      "https://via.placeholder.com/600x400.png?text=Uniqlo+Boxer+Brief+3pack+2"
+    ],
+    "model": "Boxer Brief 3-pack",
+    "color": ["Black","Grey","Navy"],
+    "product_details": {
+      "material": "Cotton + elastane",
+      "care": "Machine wash cold",
+      "weight_g": 150,
+      "release_year": 2021,
+      "fit_type": "Snug"
+    },
+    "sex": "Men",
+    "rating": 4.2,
+    "stock": 420,
+    "categories": ["essentials","underwear"],
+    "tags": ["3-pack","comfortable"]
+  },
+  {
+    "id": 173,
+    "name": "Light Run Vest",
+    "brand": "Salomon",
+    "sku": "SLM-LightRunVest-173",
+    "price": 49.95,
+    "description": "Ultra-light run vest with integrated water bottle pockets.",
+    "type": "Vest",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L"],
+      "fit": "Adjustable"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Salomon+Light+Run+Vest",
+      "https://via.placeholder.com/600x400.png?text=Salomon+Light+Run+Vest+2"
+    ],
+    "model": "Light Run Vest",
+    "color": ["Neon","Black"],
+    "product_details": {
+      "material": "Breathable ripstop",
+      "care": "Hand wash",
+      "weight_g": 95,
+      "release_year": 2023,
+      "fit_type": "Adjustable"
+    },
+    "sex": "Unisex",
+    "rating": 4.4,
+    "stock": 70,
+    "categories": ["running","trail"],
+    "tags": ["hydration","lightweight"]
+  },
+  {
+    "id": 174,
+    "name": "Studio Racerback Bra",
+    "brand": "Nike",
+    "sku": "NIK-StudioRacerBra-174",
+    "price": 34.99,
+    "description": "Medium-support racerback bra for studio workouts and classes.",
+    "type": "Sports Bra",
+    "size_and_fit": {
+      "available_sizes": ["XS","S","M","L","XL"],
+      "fit": "Medium support"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Nike+Studio+Racerback+Bra",
+      "https://via.placeholder.com/600x400.png?text=Nike+Studio+Racerback+Bra+2"
+    ],
+    "model": "Studio Racerback Bra",
+    "color": ["Black","Blush"],
+    "product_details": {
+      "material": "Polyester + elastane",
+      "care": "Machine wash cold",
+      "weight_g": 95,
+      "release_year": 2022,
+      "fit_type": "Medium support"
+    },
+    "sex": "Women",
+    "rating": 4.4,
+    "stock": 200,
+    "categories": ["studio","support"],
+    "tags": ["racerback","medium-support"]
+  },
+  {
+    "id": 175,
+    "name": "Classic Crew Sock (6-pack)",
+    "brand": "Hanes",
+    "sku": "HAN-ClassicCrew6pk-175",
+    "price": 12.99,
+    "description": "Affordable crew socks in a 6-pack for everyday wear.",
+    "type": "Socks",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L"],
+      "fit": "True to size"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Hanes+Classic+Crew+6pack",
+      "https://via.placeholder.com/600x400.png?text=Hanes+Classic+Crew+6pack+2"
+    ],
+    "model": "Classic Crew Sock 6-pack",
+    "color": ["White","Black"],
+    "product_details": {
+      "material": "Cotton blend",
+      "care": "Machine wash warm",
+      "weight_g": 220,
+      "release_year": 2020,
+      "fit_type": "Cushioned"
+    },
+    "sex": "Unisex",
+    "rating": 4.0,
+    "stock": 600,
+    "categories": ["essentials","everyday"],
+    "tags": ["6-pack","value"]
+  },
+  {
+    "id": 176,
+    "name": "Warmup Knit Short",
+    "brand": "Nike",
+    "sku": "NIK-WarmupKnitShort-176",
+    "price": 34.99,
+    "description": "Comfortable knit warmup short with bonded seams.",
+    "type": "Shorts",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Regular"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Nike+Warmup+Knit+Short",
+      "https://via.placeholder.com/600x400.png?text=Nike+Warmup+Knit+Short+2"
+    ],
+    "model": "Warmup Knit Short",
+    "color": ["Black","Grey"],
+    "product_details": {
+      "material": "Polyester knit",
+      "care": "Machine wash cold",
+      "weight_g": 160,
+      "release_year": 2021,
+      "fit_type": "Regular"
+    },
+    "sex": "Men",
+    "rating": 4.1,
+    "stock": 190,
+    "categories": ["warmup","training"],
+    "tags": ["knit","bonded"]
+  },
+  {
+    "id": 177,
+    "name": "Cross-Training Shoe",
+    "brand": "Reebok",
+    "sku": "RBK-CrossTrainShoe-177",
+    "price": 79.99,
+    "description": "Stable cross-trainer with multi-directional traction for gym sessions.",
+    "type": "Footwear",
+    "size_and_fit": {
+      "available_sizes": [6,7,8,9,10,11,12,13],
+      "fit": "True to size"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Reebok+Cross+Training+Shoe",
+      "https://via.placeholder.com/600x400.png?text=Reebok+Cross+Training+Shoe+2"
+    ],
+    "model": "Cross-Training Shoe",
+    "color": ["Black/White","Grey"],
+    "product_details": {
+      "upper_material": "Mesh + synthetic",
+      "midsole": "EVA cushioning",
+      "outsole": "Rubber",
+      "weight_g": 420,
+      "release_year": 2022
+    },
+    "sex": "Unisex",
+    "rating": 4.2,
+    "stock": 120,
+    "categories": ["training","gym"],
+    "tags": ["cross-train","stable"]
+  },
+  {
+    "id": 178,
+    "name": "Seamless Sports Bra",
+    "brand": "Gymshark",
+    "sku": "GYM-SeamlessBra-178",
+    "price": 29.99,
+    "description": "Seamless sports bra with soft support for low-impact workouts.",
+    "type": "Sports Bra",
+    "size_and_fit": {
+      "available_sizes": ["XS","S","M","L"],
+      "fit": "Light support"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Gymshark+Seamless+Sports+Bra",
+      "https://via.placeholder.com/600x400.png?text=Gymshark+Seamless+Sports+Bra+2"
+    ],
+    "model": "Seamless Sports Bra",
+    "color": ["Black","Lilac"],
+    "product_details": {
+      "material": "Nylon + elastane",
+      "care": "Machine wash cold",
+      "weight_g": 85,
+      "release_year": 2023,
+      "fit_type": "Seamless"
+    },
+    "sex": "Women",
+    "rating": 4.4,
+    "stock": 260,
+    "categories": ["studio","support"],
+    "tags": ["seamless","light"]
+  },
+  {
+    "id": 179,
+    "name": "Outdoor Tech Tee",
+    "brand": "Patagonia",
+    "sku": "PTG-OutdoorTechTee-179",
+    "price": 39.00,
+    "description": "Durable tech tee for outdoor activity with odor control.",
+    "type": "T-Shirt",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL","XXL"],
+      "fit": "Regular"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Patagonia+Outdoor+Tech+Tee",
+      "https://via.placeholder.com/600x400.png?text=Patagonia+Outdoor+Tech+Tee+2"
+    ],
+    "model": "Outdoor Tech Tee",
+    "color": ["Olive","Charcoal"],
+    "product_details": {
+      "material": "Recycled polyester",
+      "care": "Machine wash cold",
+      "weight_g": 140,
+      "release_year": 2022,
+      "fit_type": "Regular"
+    },
+    "sex": "Unisex",
+    "rating": 4.5,
+    "stock": 120,
+    "categories": ["outdoor","performance"],
+    "tags": ["odor-control","durable"]
+  },
+  {
+    "id": 180,
+    "name": "Urban Training Tank",
+    "brand": "Nike",
+    "sku": "NIK-UrbanTrainTank-180",
+    "price": 24.99,
+    "description": "Street-inspired training tank with breathable fabric.",
+    "type": "Tank",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Regular"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Nike+Urban+Training+Tank",
+      "https://via.placeholder.com/600x400.png?text=Nike+Urban+Training+Tank+2"
+    ],
+    "model": "Urban Training Tank",
+    "color": ["Black","White"],
+    "product_details": {
+      "material": "Polyester blend",
+      "care": "Machine wash cold",
+      "weight_g": 120,
+      "release_year": 2023,
+      "fit_type": "Regular"
+    },
+    "sex": "Unisex",
+    "rating": 4.2,
+    "stock": 210,
+    "categories": ["training","street"],
+    "tags": ["breathable","urban"]
+  },
+  {
+    "id": 181,
+    "name": "Classic Warmup Pant",
+    "brand": "Adidas",
+    "sku": "ADD-ClassicWarmupPant-181",
+    "price": 49.99,
+    "description": "Timeless warmup pant with tapered ankle and soft interior.",
+    "type": "Pants",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL","XXL"],
+      "fit": "Tapered"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Adidas+Classic+Warmup+Pant",
+      "https://via.placeholder.com/600x400.png?text=Adidas+Classic+Warmup+Pant+2"
+    ],
+    "model": "Classic Warmup Pant",
+    "color": ["Navy","Black"],
+    "product_details": {
+      "material": "Polyester blend",
+      "care": "Machine wash cold",
+      "weight_g": 420,
+      "release_year": 2021,
+      "fit_type": "Tapered"
+    },
+    "sex": "Unisex",
+    "rating": 4.3,
+    "stock": 200,
+    "categories": ["warmup","loungewear"],
+    "tags": ["tapered","classic"]
+  },
+  {
+    "id": 182,
+    "name": "Lightweight Running Jacket",
+    "brand": "ASICS",
+    "sku": "ASC-LightRunJkt-182",
+    "price": 59.95,
+    "description": "Breathable running jacket with reflective trim for low-light safety.",
+    "type": "Jacket",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Athletic"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=ASICS+Lightweight+Running+Jacket",
+      "https://via.placeholder.com/600x400.png?text=ASICS+Lightweight+Running+Jacket+2"
+    ],
+    "model": "Lightweight Running Jacket",
+    "color": ["Neon","Black"],
+    "product_details": {
+      "material": "Perforated polyester",
+      "care": "Machine wash cold",
+      "weight_g": 210,
+      "release_year": 2022,
+      "fit_type": "Athletic"
+    },
+    "sex": "Unisex",
+    "rating": 4.4,
+    "stock": 110,
+    "categories": ["running","safety"],
+    "tags": ["reflective","breathable"]
+  },
+  {
+    "id": 183,
+    "name": "Core Hoodie (Zip)",
+    "brand": "Champion",
+    "sku": "CHM-CoreHoodieZip-183",
+    "price": 44.95,
+    "description": "Durable zip hoodie with classic Champion logo and reinforced seams.",
+    "type": "Hoodie",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL","XXL"],
+      "fit": "Regular"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Champion+Core+Hoodie+Zip",
+      "https://via.placeholder.com/600x400.png?text=Champion+Core+Hoodie+Zip+2"
+    ],
+    "model": "Core Hoodie Zip",
+    "color": ["Grey","Black"],
+    "product_details": {
+      "material": "Cotton blend",
+      "care": "Machine wash cold",
+      "weight_g": 480,
+      "release_year": 2021,
+      "fit_type": "Regular"
+    },
+    "sex": "Unisex",
+    "rating": 4.4,
+    "stock": 180,
+    "categories": ["casual","training"],
+    "tags": ["zip","durable"]
+  },
+  {
+    "id": 184,
+    "name": "Trail Shorts",
+    "brand": "Salomon",
+    "sku": "SLM-TrailShorts-184",
+    "price": 34.95,
+    "description": "Trail-ready shorts with abrasion resistant panels and pockets.",
+    "type": "Shorts",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Regular"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Salomon+Trail+Shorts",
+      "https://via.placeholder.com/600x400.png?text=Salomon+Trail+Shorts+2"
+    ],
+    "model": "Trail Shorts",
+    "color": ["Olive","Cinder"],
+    "product_details": {
+      "material": "Nylon blend",
+      "care": "Machine wash cold",
+      "weight_g": 140,
+      "release_year": 2023,
+      "fit_type": "Durable"
+    },
+    "sex": "Men",
+    "rating": 4.3,
+    "stock": 90,
+    "categories": ["trail","outdoor"],
+    "tags": ["abrasion-resistant","pockets"]
+  },
+  {
+    "id": 185,
+    "name": "Recovery Hoodie",
+    "brand": "Reebok",
+    "sku": "RBK-RecoveryHoodie-185",
+    "price": 54.99,
+    "description": "Soft recovery hoodie for cool-downs with brushed interior.",
+    "type": "Hoodie",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL","XXL"],
+      "fit": "Relaxed"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Reebok+Recovery+Hoodie",
+      "https://via.placeholder.com/600x400.png?text=Reebok+Recovery+Hoodie+2"
+    ],
+    "model": "Recovery Hoodie",
+    "color": ["Heather","Black"],
+    "product_details": {
+      "material": "Fleece",
+      "care": "Machine wash cold",
+      "weight_g": 460,
+      "release_year": 2022,
+      "fit_type": "Relaxed"
+    },
+    "sex": "Unisex",
+    "rating": 4.2,
+    "stock": 150,
+    "categories": ["recovery","loungewear"],
+    "tags": ["soft","brushed"]
+  },
+  {
+    "id": 186,
+    "name": "Lightweight Running Short",
+    "brand": "New Balance",
+    "sku": "NB-LightRunShort-186",
+    "price": 26.99,
+    "description": "Lightweight running short with ventilated panels and inner brief.",
+    "type": "Shorts",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Athletic"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=New+Balance+Lightweight+Running+Short",
+      "https://via.placeholder.com/600x400.png?text=New+Balance+Lightweight+Running+Short+2"
+    ],
+    "model": "Lightweight Running Short",
+    "color": ["Black","Royal"],
+    "product_details": {
+      "material": "Polyester",
+      "care": "Machine wash cold",
+      "weight_g": 120,
+      "release_year": 2023,
+      "fit_type": "Athletic"
+    },
+    "sex": "Men",
+    "rating": 4.2,
+    "stock": 230,
+    "categories": ["running","training"],
+    "tags": ["ventilated","inner-brief"]
+  },
+  {
+    "id": 187,
+    "name": "Thermal Baselayer Legging",
+    "brand": "Under Armour",
+    "sku": "UA-ThermalBLLeg-187",
+    "price": 44.99,
+    "description": "Thermal base layer legging for cold-weather runs and layering.",
+    "type": "Legging",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Compression"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Under+Armour+Thermal+Legging",
+      "https://via.placeholder.com/600x400.png?text=Under+Armour+Thermal+Legging+2"
+    ],
+    "model": "Thermal Baselayer Legging",
+    "color": ["Black","Graphite"],
+    "product_details": {
+      "material": "Thermal polyester blend",
+      "care": "Machine wash cold",
+      "weight_g": 240,
+      "release_year": 2022,
+      "fit_type": "Thermal compression"
+    },
+    "sex": "Women",
+    "rating": 4.4,
+    "stock": 110,
+    "categories": ["cold-weather","running"],
+    "tags": ["thermal","base-layer"]
+  },
+  {
+    "id": 188,
+    "name": "Classic Polo",
+    "brand": "Lacoste",
+    "sku": "LAC-ClassicPolo-188",
+    "price": 79.00,
+    "description": "Iconic pique polo with signature crocodile logo.",
+    "type": "Polo",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL","XXL"],
+      "fit": "Regular"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Lacoste+Classic+Polo",
+      "https://via.placeholder.com/600x400.png?text=Lacoste+Classic+Polo+2"
+    ],
+    "model": "Classic Polo",
+    "color": ["White","Navy"],
+    "product_details": {
+      "material": "Cotton pique",
+      "care": "Machine wash cold",
+      "weight_g": 190,
+      "release_year": 2020,
+      "fit_type": "Regular"
+    },
+    "sex": "Men",
+    "rating": 4.5,
+    "stock": 120,
+    "categories": ["casual","golf"],
+    "tags": ["pique","classic"]
+  },
+  {
+    "id": 189,
+    "name": "All-Weather Gloves",
+    "brand": "The North Face",
+    "sku": "TNF-AllWeatherGloves-189",
+    "price": 34.99,
+    "description": "Weatherproof gloves with touchscreen fingertips and insulation.",
+    "type": "Accessory",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L"],
+      "fit": "True to size"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=TNF+All+Weather+Gloves",
+      "https://via.placeholder.com/600x400.png?text=TNF+All+Weather+Gloves+2"
+    ],
+    "model": "All-Weather Gloves",
+    "color": ["Black","Charcoal"],
+    "product_details": {
+      "material": "Insulated polyester with DWR",
+      "care": "Hand wash",
+      "weight_g": 120,
+      "release_year": 2023,
+      "fit_type": "Insulated"
+    },
+    "sex": "Unisex",
+    "rating": 4.4,
+    "stock": 140,
+    "categories": ["cold-weather","accessory"],
+    "tags": ["touchscreen","insulated"]
+  },
+  {
+    "id": 190,
+    "name": "Mesh Runner Cap",
+    "brand": "Nike",
+    "sku": "NIK-MeshRunCap-190",
+    "price": 19.99,
+    "description": "Breathable mesh cap with adjustable strap for long runs.",
+    "type": "Accessory",
+    "size_and_fit": {
+      "available_sizes": ["One Size"],
+      "fit": "Adjustable"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Nike+Mesh+Runner+Cap",
+      "https://via.placeholder.com/600x400.png?text=Nike+Mesh+Runner+Cap+2"
+    ],
+    "model": "Mesh Runner Cap",
+    "color": ["Black","Neon"],
+    "product_details": {
+      "material": "Breathable mesh",
+      "care": "Spot clean",
+      "weight_g": 60,
+      "release_year": 2022,
+      "fit_type": "Adjustable"
+    },
+    "sex": "Unisex",
+    "rating": 4.1,
+    "stock": 260,
+    "categories": ["running","accessory"],
+    "tags": ["mesh","adjustable"]
+  },
+  {
+    "id": 191,
+    "name": "Lightweight Training Backpack",
+    "brand": "The North Face",
+    "sku": "TNF-LightTrainBackpack-191",
+    "price": 69.99,
+    "description": "Slim training backpack with ventilated back panel and laptop sleeve.",
+    "type": "Accessory",
+    "size_and_fit": {
+      "available_sizes": [],
+      "fit": "One size"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=TNF+Lightweight+Training+Backpack",
+      "https://via.placeholder.com/600x400.png?text=TNF+Lightweight+Training+Backpack+2"
+    ],
+    "model": "Lightweight Training Backpack",
+    "color": ["Black","Cinder"],
+    "product_details": {
+      "material": "Recycled nylon",
+      "care": "Wipe clean",
+      "weight_g": 560,
+      "release_year": 2023,
+      "fit_type": "One size"
+    },
+    "sex": "Unisex",
+    "rating": 4.4,
+    "stock": 85,
+    "categories": ["accessory","travel"],
+    "tags": ["laptop-sleeve","ventilated"]
+  },
+  {
+    "id": 192,
+    "name": "Court Sneaker Classic",
+    "brand": "Converse",
+    "sku": "CON-CourtClassic-192",
+    "price": 59.99,
+    "description": "Timeless court sneaker reimagined with comfortable cushioning.",
+    "type": "Footwear",
+    "size_and_fit": {
+      "available_sizes": [5,6,7,8,9,10,11,12],
+      "fit": "True to size"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Converse+Court+Sneaker+Classic",
+      "https://via.placeholder.com/600x400.png?text=Converse+Court+Sneaker+Classic+2"
+    ],
+    "model": "Court Sneaker Classic",
+    "color": ["White","Black"],
+    "product_details": {
+      "upper_material": "Canvas",
+      "midsole": "Rubber cupsole",
+      "outsole": "Rubber",
+      "weight_g": 420,
+      "release_year": 2020
+    },
+    "sex": "Unisex",
+    "rating": 4.2,
+    "stock": 180,
+    "categories": ["lifestyle","heritage"],
+    "tags": ["canvas","classic"]
+  },
+  {
+    "id": 193,
+    "name": "Studio Seamless Crop",
+    "brand": "Girlfriend Collective",
+    "sku": "GF-StudioSeamlessCrop-193",
+    "price": 34.00,
+    "description": "Seamless cropped tank made from recycled materials for studio workouts.",
+    "type": "Top",
+    "size_and_fit": {
+      "available_sizes": ["XS","S","M","L"],
+      "fit": "Compression"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Girlfriend+Collective+Studio+Seamless+Crop",
+      "https://via.placeholder.com/600x400.png?text=Girlfriend+Collective+Studio+Seamless+Crop+2"
+    ],
+    "model": "Studio Seamless Crop",
+    "color": ["Black","Dusty Pink"],
+    "product_details": {
+      "material": "Recycled nylon + elastane",
+      "care": "Machine wash cold",
+      "weight_g": 95,
+      "release_year": 2024,
+      "fit_type": "Seamless"
+    },
+    "sex": "Women",
+    "rating": 4.6,
+    "stock": 120,
+    "categories": ["studio","sustainable"],
+    "tags": ["seamless","recycled"]
+  },
+  {
+    "id": 194,
+    "name": "Everyday Trainer Low",
+    "brand": "Skechers",
+    "sku": "SKC-EverydayTrainerLow-194",
+    "price": 49.99,
+    "description": "Everyday trainer with memory foam insole for all-day comfort.",
+    "type": "Footwear",
+    "size_and_fit": {
+      "available_sizes": [6,7,8,9,10,11,12,13],
+      "fit": "Comfort fit"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Skechers+Everyday+Trainer+Low",
+      "https://via.placeholder.com/600x400.png?text=Skechers+Everyday+Trainer+Low+2"
+    ],
+    "model": "Everyday Trainer Low",
+    "color": ["Charcoal","White"],
+    "product_details": {
+      "upper_material": "Knit mesh",
+      "midsole": "Memory foam",
+      "outsole": "Rubber",
+      "weight_g": 410,
+      "release_year": 2022
+    },
+    "sex": "Unisex",
+    "rating": 4.1,
+    "stock": 150,
+    "categories": ["casual","comfort"],
+    "tags": ["memory-foam","everyday"]
+  },
+  {
+    "id": 195,
+    "name": "Powerlift Training Shoe",
+    "brand": "Nike",
+    "sku": "NIK-PowerliftTrain-195",
+    "price": 89.99,
+    "description": "Stable training shoe designed for weightlifting and heavy lifts.",
+    "type": "Footwear",
+    "size_and_fit": {
+      "available_sizes": [6,7,8,9,10,11,12,13],
+      "fit": "True to size; narrow"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Nike+Powerlift+Training+Shoe",
+      "https://via.placeholder.com/600x400.png?text=Nike+Powerlift+Training+Shoe+2"
+    ],
+    "model": "Powerlift Training Shoe",
+    "color": ["Black","Red"],
+    "product_details": {
+      "upper_material": "Synthetic leather",
+      "midsole": "Dense foam",
+      "outsole": "Flat rubber",
+      "weight_g": 520,
+      "release_year": 2021
+    },
+    "sex": "Men",
+    "rating": 4.2,
+    "stock": 80,
+    "categories": ["training","weightlifting"],
+    "tags": ["stable","flat-sole"]
+  },
+  {
+    "id": 196,
+    "name": "AeroRun Tank",
+    "brand": "Adidas",
+    "sku": "ADD-AeroRunTank-196",
+    "price": 21.99,
+    "description": "AeroRun tank top with moisture-wicking mesh for hot workouts.",
+    "type": "Tank",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Regular"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Adidas+AeroRun+Tank",
+      "https://via.placeholder.com/600x400.png?text=Adidas+AeroRun+Tank+2"
+    ],
+    "model": "AeroRun Tank",
+    "color": ["Neon","White"],
+    "product_details": {
+      "material": "Mesh polyester",
+      "care": "Machine wash cold",
+      "weight_g": 110,
+      "release_year": 2023,
+      "fit_type": "Breathable"
+    },
+    "sex": "Unisex",
+    "rating": 4.2,
+    "stock": 200,
+    "categories": ["running","training"],
+    "tags": ["mesh","breathable"]
+  },
+  {
+    "id": 197,
+    "name": "Recovery Short 7\"",
+    "brand": "Gymshark",
+    "sku": "GYM-RecShort7-197",
+    "price": 29.99,
+    "description": "Comfortable recovery short with soft waistband for post-workout wear.",
+    "type": "Shorts",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL"],
+      "fit": "Relaxed"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Gymshark+Recovery+Short+7inch",
+      "https://via.placeholder.com/600x400.png?text=Gymshark+Recovery+Short+7inch+2"
+    ],
+    "model": "Recovery Short 7\"",
+    "color": ["Black","Olive"],
+    "product_details": {
+      "material": "Cotton blend",
+      "care": "Machine wash cold",
+      "weight_g": 180,
+      "release_year": 2022,
+      "fit_type": "Relaxed"
+    },
+    "sex": "Unisex",
+    "rating": 4.3,
+    "stock": 160,
+    "categories": ["recovery","loungewear"],
+    "tags": ["soft","waistband"]
+  },
+  {
+    "id": 198,
+    "name": "Performance Hoodie",
+    "brand": "Under Armour",
+    "sku": "UA-PerfHoodie-198",
+    "price": 59.99,
+    "description": "Performance hoodie with quick-dry tech and ergonomic seams.",
+    "type": "Hoodie",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL","XXL"],
+      "fit": "Athletic"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Under+Armour+Performance+Hoodie",
+      "https://via.placeholder.com/600x400.png?text=Under+Armour+Performance+Hoodie+2"
+    ],
+    "model": "Performance Hoodie",
+    "color": ["Graphite","Black"],
+    "product_details": {
+      "material": "Advanced quick-dry polyester",
+      "care": "Machine wash cold",
+      "weight_g": 360,
+      "release_year": 2023,
+      "fit_type": "Athletic"
+    },
+    "sex": "Men",
+    "rating": 4.4,
+    "stock": 130,
+    "categories": ["training","tech"],
+    "tags": ["quick-dry","ergonomic"]
+  },
+  {
+    "id": 199,
+    "name": "Studio Seamless Legging 25\"",
+    "brand": "Lululemon",
+    "sku": "LUL-StudioSeamless25-199",
+    "price": 88.00,
+    "description": "Seamless 25\" legging designed for comfort in studio and street.",
+    "type": "Legging",
+    "size_and_fit": {
+      "available_sizes": ["XS","S","M","L"],
+      "fit": "Seamless compression"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Lululemon+Studio+Seamless+Legging+25",
+      "https://via.placeholder.com/600x400.png?text=Lululemon+Studio+Seamless+Legging+25+2"
+    ],
+    "model": "Studio Seamless Legging 25\"",
+    "color": ["Black","Mauve"],
+    "product_details": {
+      "material": "Seamless nylon-elastane blend",
+      "care": "Machine wash cold; lay flat to dry",
+      "weight_g": 200,
+      "release_year": 2024,
+      "fit_type": "Seamless compression"
+    },
+    "sex": "Women",
+    "rating": 4.7,
+    "stock": 110,
+    "categories": ["studio","premium"],
+    "tags": ["seamless","premium"]
+  },
+  {
+    "id": 200,
+    "name": "All-Purpose Training Jacket",
+    "brand": "Nike",
+    "sku": "NIK-AllPurposeTrainJkt-200",
+    "price": 99.99,
+    "description": "Versatile training jacket built for variable weather with ventilation panels.",
+    "type": "Jacket",
+    "size_and_fit": {
+      "available_sizes": ["S","M","L","XL","XXL"],
+      "fit": "Regular"
+    },
+    "images": [
+      "https://via.placeholder.com/600x400.png?text=Nike+All+Purpose+Training+Jacket",
+      "https://via.placeholder.com/600x400.png?text=Nike+All+Purpose+Training+Jacket+2"
+    ],
+    "model": "All-Purpose Training Jacket",
+    "color": ["Black","Cobalt"],
+    "product_details": {
+      "material": "Mixed technical fabrics with DWR finish",
+      "care": "Machine wash cold; line dry",
+      "weight_g": 380,
+      "release_year": 2024,
+      "fit_type": "Ventilated"
+    },
+    "sex": "Unisex",
+    "rating": 4.5,
+    "stock": 140,
+    "categories": ["training","outerwear"],
+    "tags": ["ventilated","weather-resistant"]
+  }
 ]

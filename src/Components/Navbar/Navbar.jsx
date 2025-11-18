@@ -1,8 +1,7 @@
 import React, { useState } from "react";
 
 import { Link, NavLink } from "react-router";
-import "./Navbar.css"
-
+import "./Navbar.css";
 
 const Navbar = () => {
     const [visible, setVisible] = useState(false);
@@ -14,19 +13,19 @@ const Navbar = () => {
             <ul className="hidden sm:flex gap-5 text-sm text-gray-700">
                 <NavLink to="/">
                     <p>Home</p>
-                    <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
+                    <hr className=" border-none h-[1.5px] bg-gray-700 hidden" />
                 </NavLink>
                 <NavLink to="/men">
                     <p>Men</p>
-                    <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
+                    <hr className=" border-none h-[1.5px] bg-gray-700 hidden" />
                 </NavLink>
-                <NavLink to='women'>
+                <NavLink to="women">
                     <p>Women</p>
-                    <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
+                    <hr className=" border-none h-[1.5px] bg-gray-700 hidden" />
                 </NavLink>
-                <NavLink>
+                <NavLink to="kids">
                     <p>Kids</p>
-                    <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
+                    <hr className=" border-none h-[1.5px] bg-gray-700 hidden" />
                 </NavLink>
             </ul>
             <div className="flex items-center gap-6">
