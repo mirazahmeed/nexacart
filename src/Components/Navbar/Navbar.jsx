@@ -10,7 +10,7 @@ const Navbar = () => {
             <Link to="/">
                 <h3 className="font-black underline">NEXACART</h3>
             </Link>
-            <ul className="hidden sm:flex gap-5 text-sm text-gray-700">
+            <ul className="hidden text sm:flex gap-5 text-sm text-gray-700">
                 <NavLink to="/">
                     <p>Home</p>
                     <hr className=" border-none h-[1.5px] bg-gray-700 hidden" />

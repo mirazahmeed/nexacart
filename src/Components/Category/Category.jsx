@@ -1,5 +1,5 @@
 import React from "react";
-import { asstes } from "../../assets/assets";
+import { assets } from "../../assets/assets";
 
 const Category = () => {
     return (
@@ -10,19 +10,19 @@ const Category = () => {
             >
                 Shop by category
             </h3>
-            <div className="flex gap-6 mt-6 flex-wrap justify-center">
+            <div className="flex flex-row gap-6 mt-6 flex-wrap justify-center">
                 <a href="">
-                    <div className="card bg-base-100 w-96 shadow-sm rounded-none">
+                    <div className="card bg-base-100 w-72 md:w-80 lg:w-96 shadow-sm rounded-none">
                         <figure className="">
                             <img
-                                src={asstes.SneakerC}
+                                src={assets.SneakerC}
                                 alt="Shoes"
                                 className="h-57 w-full object-cover"
                             />
                         </figure>
                         <div className="card-body">
                             <h2 className="card-title">
-                                Sneaker
+                                sneaker
                                 <div className="badge text-red-500 border-red-400">
                                     NEW
                                 </div>
@@ -35,17 +35,17 @@ const Category = () => {
                     </div>
                 </a>
                 <a href="">
-                    <div className="card bg-base-100 w-96 shadow-sm rounded-none">
+                    <div className="card bg-base-100 w-72 md:w-80 lg:w-96 shadow-sm rounded-none">
                         <figure>
                             <img
-                                src={asstes.ClothingC}
+                                src={assets.ClothingC}
                                 alt="Shoes"
                                 className="h-57 w-full object-cover"
                             />
                         </figure>
                         <div className="card-body">
                             <h2 className="card-title">
-                                Clothing
+                                Casual
                                 <div className="badge text-red-500 border-red-400">
                                     NEW
                                 </div>
@@ -58,17 +58,17 @@ const Category = () => {
                     </div>
                 </a>
                 <a href="">
-                    <div className="card bg-base-100 w-96 shadow-sm rounded-none">
+                    <div className="card bg-base-100 w-72 md:w-80 lg:w-96 shadow-sm rounded-none">
                         <figure>
                             <img
-                                src={asstes.AccessoriesC}
+                                src={assets.AccessoriesC}
                                 alt="Shoes"
                                 className="h-57 w-full object-cover"
                             />
                         </figure>
                         <div className="card-body">
                             <h2 className="card-title">
-                                Assaacories
+                                Boot
                                 <div className="badge text-red-500 border-red-400">
                                     NEW
                                 </div>
